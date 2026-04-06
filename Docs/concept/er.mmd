@@ -1,0 +1,46 @@
+erDiagram
+    PRODUCT ||--o{ CHANNEL_INVENTORY : "tracks stock across"
+    PRODUCT ||--o{ GEOGRAPHIC_SALE : "records demand in"
+    PRODUCT ||--|| REORDER_FORECAST : "generates intelligence for"
+    SALES_CHANNEL ||--o{ CHANNEL_INVENTORY : "manages"
+
+    PRODUCT {
+        string sku PK "The immutable primary key"
+        string name "Product Title"
+        string category "Product Category"
+        float unit_cost "COGS for profit analysis [cite: 15]"
+        float retail_price "MSRP"
+        int safety_stock "Threshold for auto-locking [cite: 22]"
+        int lead_time "Supplier turnaround in days [cite: 44]"
+    }
+
+    SALES_CHANNEL {
+        int channel_id PK
+        string name "Shopify, Amazon, TikTok Shop, etc. [cite: 3]"
+        string sync_status "Connection health [cite: 47]"
+        datetime last_sync "Timestamp of last heartbeat" 
+    }
+
+    CHANNEL_INVENTORY {
+        int id PK
+        string sku FK
+        int channel_id FK
+        int available "Stock ready for sale [cite: 20]"
+        int reserved "Stock in pending orders"
+        int on_hand "Physical stock in warehouse"
+    }
+
+    GEOGRAPHIC_SALE {
+        int id PK
+        string sku FK
+        float lat "Latitude for Mapbox"
+        float lng "Longitude for Mapbox"
+        float velocity_weight "Sales frequency in this zone [cite: 26]"
+    }
+
+    REORDER_FORECAST {
+        int id PK
+        string sku FK
+        int recommended_qty "Suggested reorder amount [cite: 43]"
+        string confidence_score "Model reliability metric"
+    }

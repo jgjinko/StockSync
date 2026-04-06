@@ -1,0 +1,134 @@
+openapi: 3.0.0
+info:
+  title: StockSync BI API
+  version: "1.0.0"
+  description: >
+    Headless API for multi-channel inventory intelligence. 
+    Standardizes Shopify, Amazon, and TikTok Shop data for a Next.js/shadcn frontend.
+
+servers:
+  - url: http://localhost:8000/api
+
+paths:
+  /inventory:
+    get:
+      summary: List unified inventory items
+      description: Returns a reconciled list of products for the main dashboard table.
+      parameters:
+        - name: channel
+          in: query
+          required: false
+          schema:
+            type: string
+        - name: low_stock
+          in: query
+          required: false
+          schema:
+            type: boolean
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/InventoryItem'
+
+  /inventory/{sku}:
+    get:
+      summary: Get product details
+      parameters:
+        - name: sku
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Detailed product metrics
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/InventoryItem'
+        '404':
+          description: SKU not found
+
+  /analytics/heatmap:
+    get:
+      summary: Get sales geographic distribution
+      responses:
+        '200':
+          description: Geographic weights for Mapbox
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/HeatmapPoint'
+
+  /analytics/forecast/{sku}:
+    get:
+      summary: Get predictive stock analytics
+      parameters:
+        - name: sku
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Forecasting metrics
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ForecastData'
+
+components:
+  schemas:
+    InventoryItem:
+      type: object
+      properties:
+        sku:
+          type: string
+        name:
+          type: string
+        stock:
+          type: integer
+        safetyStock:
+          type: integer
+        channel:
+          type: string
+        price:
+          type: number
+        velocity:
+          type: number
+        status:
+          type: string
+          enum: [in_stock, low_stock, out_of_stock]
+        lat:
+          type: number
+        lng:
+          type: number
+
+    HeatmapPoint:
+      type: object
+      properties:
+        lat:
+          type: number
+        lng:
+          type: number
+        weight:
+          type: number
+
+    ForecastData:
+      type: object
+      properties:
+        sku:
+          type: string
+        days_of_cover:
+          type: integer
+          nullable: true
+        recommended_reorder_qty:
+          type: integer
+          nullable: true
