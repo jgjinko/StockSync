@@ -1,5 +1,5 @@
 export { default as Metrics } from "./charts/metrics";
-export { default as AverageTicketsCreated } from "./charts/average-tickets-created";
-export { default as Conversions } from "./charts/conversions";
-export { default as TicketByChannels } from "./charts/ticket-by-channels";
-export { default as CustomerSatisfication } from "./charts/customer-satisfication";
+export { default as StockByCategory } from "./charts/average-tickets-created";
+export { default as InventoryValue } from "./charts/conversions";
+export { default as InventoryByChannel } from "./charts/ticket-by-channels";
+export { default as StockHealth } from "./charts/customer-satisfication";

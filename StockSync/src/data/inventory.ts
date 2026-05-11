@@ -27,30 +27,39 @@ export interface InventoryItem {
 
 // --- Preprocessing Pipeline (mirrors backend/preprocessing.py) ---
 
-function preprocessItem(raw: (typeof rawData)[number]): InventoryItem {
+// The backend persists inventory in canonical (short) key format after purchases.
+// This helper resolves a value from either the original verbose key or the
+// canonical key written by the backend, so the pipeline survives both formats.
+function pick<T>(raw: Record<string, any>, verboseKey: string, canonicalKey: string, fallback: T): T {
+  if (raw[verboseKey] !== undefined && raw[verboseKey] !== null) return raw[verboseKey] as T;
+  if (raw[canonicalKey] !== undefined && raw[canonicalKey] !== null) return raw[canonicalKey] as T;
+  return fallback;
+}
+
+function preprocessItem(raw: Record<string, any>): InventoryItem {
   // Step 2: SKU verification
-  const sku = raw.sku_code || `AUTO-${Math.random().toString(36).slice(2, 10).toUpperCase()}`;
+  const sku = pick<string>(raw, "sku_code", "sku", "") || `AUTO-${Math.random().toString(36).slice(2, 10).toUpperCase()}`;
 
   // Step 3: Sign correction — abs() on numeric values
-  const available = Math.abs(raw.inventory_levels_available ?? 0);
-  const reserved = Math.abs(raw.inventory_levels_reserved ?? 0);
-  const onHand = Math.abs(raw.inventory_levels_on_hand ?? 0);
-  const safetyThreshold = Math.abs(raw.safety_stock_threshold ?? 0);
-  const unitCost = Math.abs(raw.pricing_unit_cost ?? 0);
-  const retailPrice = Math.abs(raw.pricing_retail_price ?? 0);
-  const velocity7d = Math.abs(raw.velocity_metrics_7d ?? 0);
-  const supplierLeadTimeDays = Math.abs(raw.supplier_lead_time_days ?? 0);
+  const available          = Math.abs(pick<number>(raw, "inventory_levels_available", "available", 0));
+  const reserved           = Math.abs(pick<number>(raw, "inventory_levels_reserved",  "reserved",  0));
+  const onHand             = Math.abs(pick<number>(raw, "inventory_levels_on_hand",   "on_hand",   0));
+  const safetyThreshold    = Math.abs(pick<number>(raw, "safety_stock_threshold",     "safety_stock", 0));
+  const unitCost           = Math.abs(pick<number>(raw, "pricing_unit_cost",          "unit_cost",   0));
+  const retailPrice        = Math.abs(pick<number>(raw, "pricing_retail_price",       "retail_price", 0));
+  const velocity7d         = Math.abs(pick<number>(raw, "velocity_metrics_7d",        "velocity",    0));
+  const supplierLeadTimeDays = Math.abs(pick<number>(raw, "supplier_lead_time_days",  "lead_time",   0));
 
-  // Step 4: Null handling
-  const isActive = raw.is_active ?? false;
-  const isDiscontinued = raw.is_discontinued ?? false;
-  const requiresShipping = raw.requires_shipping ?? false;
-  const productCategory = raw.product_category || "unknown";
-  const salesChannel = raw.sales_channel_origin || "unknown";
-  const fulfillmentService = raw.fulfillment_service || "unknown";
-  const productTitle = raw.product_title || "Untitled Product";
-  const lat = raw.geographic_origin_lat ?? 0;
-  const lng = raw.geographic_origin_lng ?? 0;
+  // Step 4: Null handling — prefer verbose keys, fall back to canonical
+  const isActive          = pick<boolean>(raw, "is_active",          "is_active",          false);
+  const isDiscontinued    = pick<boolean>(raw, "is_discontinued",     "is_discontinued",    false);
+  const requiresShipping  = pick<boolean>(raw, "requires_shipping",   "requires_shipping",  false);
+  const productCategory   = pick<string>(raw,  "product_category",   "category",           "unknown");
+  const salesChannel      = pick<string>(raw,  "sales_channel_origin", "channel",          "unknown");
+  const fulfillmentService = pick<string>(raw, "fulfillment_service", "fulfillment_service", "unknown");
+  const productTitle      = pick<string>(raw,  "product_title",      "name",               "Untitled Product");
+  const lat               = pick<number>(raw,  "geographic_origin_lat", "lat",             0);
+  const lng               = pick<number>(raw,  "geographic_origin_lng", "lng",             0);
 
   // Step 7: Intelligence tagging
   let status: InventoryItem["status"];
@@ -94,6 +103,7 @@ function preprocessItem(raw: (typeof rawData)[number]): InventoryItem {
     potentialRevenue,
   };
 }
+
 
 // Step 5: Outlier removal (price or stock > 50,000)
 function isWithinLimits(item: InventoryItem): boolean {

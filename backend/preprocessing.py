@@ -14,6 +14,7 @@ from typing import Any
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
 DATA_FILE = Path(__file__).parent.parent / "Data" / "inventory_data.json"
+SALES_FILE = Path(__file__).parent.parent / "Data" / "sales_history.json"
 
 # ── Field Mapping — verbose raw keys → canonical snake_case ───────────────────
 # Source: Docs/concept/04-data-preprocessing.md, Step 6
@@ -153,3 +154,15 @@ def persist(data: list[dict[str, Any]]) -> None:
     """
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
+
+def load_sales_history() -> list[dict[str, Any]]:
+    """Load sales history from disk."""
+    if not SALES_FILE.exists():
+        return []
+    with open(SALES_FILE, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+def persist_sales_history(data: list[dict[str, Any]]) -> None:
+    """Persist sales history back to disk."""
+    with open(SALES_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)

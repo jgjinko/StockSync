@@ -1,22 +1,24 @@
+import { activeSKUs, inStockCount, lowStockCount, outOfStockCount, totalSKUs } from "./inventory";
+
 export const metrics = [
   {
-    title: "Created Tickets",
-    value: "24,208",
-    change: -0.05,
+    title: "Total Tracked SKUs",
+    value: totalSKUs.toString(),
+    change: 0.05,
   },
   {
-    title: "Unsolved Tickets",
-    value: "4,564",
-    change: 0.02,
+    title: "In Stock (Healthy)",
+    value: inStockCount.toString(),
+    change: 0.12,
   },
   {
-    title: "Resolved Tickets",
-    value: "18,208",
-    change: 0.08,
+    title: "Low Stock (Warning)",
+    value: lowStockCount.toString(),
+    change: -0.02,
   },
   {
-    title: "Average First Time Reply",
-    value: "12:01 min",
-    change: 0.08,
+    title: "Out of Stock (Critical)",
+    value: outOfStockCount.toString(),
+    change: -0.08,
   },
 ];

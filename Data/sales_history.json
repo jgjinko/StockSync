@@ -1,0 +1,5142 @@
+[
+  {
+    "transaction_id": "f2d8025c-f701-44c2-9af9-f96920001f08",
+    "sku": "SS-PRO-BLK-M",
+    "product_name": "Performance Hoodie - Midnight Black (M)",
+    "channel": "Demo Store",
+    "quantity": 3,
+    "gross_revenue": 165.0,
+    "unit_cost": 55.5,
+    "platform_fee": 4.79,
+    "shipping_cost": 11.94,
+    "timestamp": "2026-05-08T10:50:44Z"
+  },
+  {
+    "transaction_id": "17e03f8a-ec5e-4daf-8345-9c94f324a1a8",
+    "sku": "SS-PRO-BLK-M",
+    "product_name": "Performance Hoodie - Midnight Black (M)",
+    "channel": "Demo Store",
+    "quantity": 2,
+    "gross_revenue": 110.0,
+    "unit_cost": 37.0,
+    "platform_fee": 3.19,
+    "shipping_cost": 11.0,
+    "timestamp": "2026-05-04T15:25:47Z"
+  },
+  {
+    "transaction_id": "a18c800b-a375-4968-bafe-acc49b44783f",
+    "sku": "SS-PRO-BLK-M",
+    "product_name": "Performance Hoodie - Midnight Black (M)",
+    "channel": "Demo Store",
+    "quantity": 1,
+    "gross_revenue": 55.0,
+    "unit_cost": 18.5,
+    "platform_fee": 1.59,
+    "shipping_cost": 5.93,
+    "timestamp": "2026-05-04T14:46:36Z"
+  },
+  {
+    "transaction_id": "8cf16302-07d0-46af-9768-a75e6501cb3a",
+    "sku": "SHO-HOM-2591",
+    "product_name": "Picture Frame - v19",
+    "channel": "Demo Store",
+    "quantity": 1,
+    "gross_revenue": 163.7,
+    "unit_cost": 66.5,
+    "platform_fee": 4.75,
+    "shipping_cost": 6.27,
+    "timestamp": "2026-05-04T09:25:02Z"
+  },
+  {
+    "transaction_id": "7e89ac7e-9bb4-44a1-bc1f-d5362abe50d9",
+    "sku": "AA-BBB-BBB-AA",
+    "product_name": "PC",
+    "channel": "Demo Store",
+    "quantity": 10,
+    "gross_revenue": 5000.0,
+    "unit_cost": 4000.0,
+    "platform_fee": 145.0,
+    "shipping_cost": 31.21,
+    "timestamp": "2026-04-28T15:12:22Z"
+  },
+  {
+    "transaction_id": "97d729db-83bb-43b7-a469-e0d8390fa633",
+    "sku": "SS-PRO-BLK-M",
+    "product_name": "Performance Hoodie - Midnight Black (M)",
+    "channel": "Demo Store",
+    "quantity": 2,
+    "gross_revenue": 110.0,
+    "unit_cost": 37.0,
+    "platform_fee": 3.19,
+    "shipping_cost": 14.76,
+    "timestamp": "2026-04-28T15:02:47Z"
+  },
+  {
+    "transaction_id": "8750b0e2-b3a8-41bb-9174-ae15c488c26b",
+    "sku": "SS-AAA-AAA-SS",
+    "product_name": "PC",
+    "channel": "Demo Store",
+    "quantity": 10,
+    "gross_revenue": 5000.0,
+    "unit_cost": 4000.0,
+    "platform_fee": 145.0,
+    "shipping_cost": 25.0,
+    "timestamp": "2026-04-28T13:16:53Z"
+  },
+  {
+    "transaction_id": "a1663380-c029-426e-9eab-d75c5dfa74dd",
+    "sku": "SS-AAA-AAA-SS",
+    "product_name": "PC",
+    "channel": "Demo Store",
+    "quantity": 10,
+    "gross_revenue": 5000.0,
+    "unit_cost": 4000.0,
+    "platform_fee": 145.0,
+    "shipping_cost": 61.31,
+    "timestamp": "2026-04-28T12:59:25Z"
+  },
+  {
+    "transaction_id": "7fc71bb5-d35c-4248-91db-ff78d8a72d67",
+    "sku": "SS-PRO-BLK-M",
+    "product_name": "Performance Hoodie - Midnight Black (M)",
+    "channel": "Demo Store",
+    "quantity": 2,
+    "gross_revenue": 110.0,
+    "unit_cost": 37.0,
+    "platform_fee": 3.19,
+    "shipping_cost": 9.99,
+    "timestamp": "2026-04-28T08:35:49Z"
+  },
+  {
+    "transaction_id": "70fd7f59-5d7b-4e64-a7ae-58563b92b8ee",
+    "sku": "SHO-ELE-2042",
+    "product_name": "Gaming Mouse - v4",
+    "channel": "Demo Store",
+    "quantity": 2,
+    "gross_revenue": 123.46,
+    "unit_cost": 41.36,
+    "platform_fee": 3.58,
+    "shipping_cost": 7.4,
+    "timestamp": "2026-04-26T12:06:40Z"
+  },
+  {
+    "transaction_id": "6d1207c5-3792-4ab5-b3e8-3600eadb73a8",
+    "sku": "SS-ACC-WTCH-GLD",
+    "channel": "Demo Store",
+    "gross_revenue": 129.99,
+    "unit_cost": 45.0,
+    "platform_fee": 3.77,
+    "shipping_cost": 5.28,
+    "timestamp": "2026-04-26T11:42:13Z"
+  },
+  {
+    "transaction_id": "08df5691-421c-4392-ad27-82164d27c98b",
+    "sku": "SS-PRO-BLK-M",
+    "channel": "Demo Store",
+    "gross_revenue": 220.0,
+    "unit_cost": 74.0,
+    "platform_fee": 6.38,
+    "shipping_cost": 21.62,
+    "timestamp": "2026-04-26T11:41:03Z"
+  },
+  {
+    "transaction_id": "9dc75fe3-3ab2-4d1f-81c5-efe62c050883",
+    "sku": "PHY-ACC-1171",
+    "channel": "Amazon",
+    "gross_revenue": 154.02,
+    "unit_cost": 53.63,
+    "platform_fee": 23.1,
+    "shipping_cost": 2.55,
+    "timestamp": "2026-04-26T05:23:18.859Z"
+  },
+  {
+    "transaction_id": "9bce7ae0-bb5c-481e-8b8d-026939e4954e",
+    "sku": "AMA-HOM-7426",
+    "channel": "Physical POS",
+    "gross_revenue": 312.65,
+    "unit_cost": 89.94,
+    "platform_fee": 3.13,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-26T03:00:33.949Z"
+  },
+  {
+    "transaction_id": "d301266e-8684-4fa3-a23c-15f1de396cd0",
+    "sku": "PHY-ACC-9855",
+    "channel": "Physical POS",
+    "gross_revenue": 77.58,
+    "unit_cost": 28.48,
+    "platform_fee": 0.78,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-25T22:50:31.979Z"
+  },
+  {
+    "transaction_id": "6931eae4-7b11-4e7a-b99f-06ebad99c781",
+    "sku": "AMA-HEA-3123",
+    "channel": "Physical POS",
+    "gross_revenue": 262.66,
+    "unit_cost": 67.63,
+    "platform_fee": 2.63,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-25T18:55:48.986Z"
+  },
+  {
+    "transaction_id": "e7ad6b91-b4ab-4508-a2c3-33b569f7b5df",
+    "sku": "SHO-HOM-4220",
+    "channel": "Shopify",
+    "gross_revenue": 180.71,
+    "unit_cost": 57.94,
+    "platform_fee": 5.24,
+    "shipping_cost": 4.41,
+    "timestamp": "2026-04-25T11:10:13.878Z"
+  },
+  {
+    "transaction_id": "430c67f9-7875-4f42-8cfc-b24fa818fcb0",
+    "sku": "PHY-HOM-1897",
+    "channel": "Amazon",
+    "gross_revenue": 140.43,
+    "unit_cost": 89.44,
+    "platform_fee": 21.06,
+    "shipping_cost": 3.3,
+    "timestamp": "2026-04-25T03:18:06.242Z"
+  },
+  {
+    "transaction_id": "19c26d2c-2ccb-46a6-808d-38721bbdadcc",
+    "sku": "SHO-HOM-4901",
+    "channel": "TikTok Shop",
+    "gross_revenue": 231.33,
+    "unit_cost": 68.78,
+    "platform_fee": 11.57,
+    "shipping_cost": 3.86,
+    "timestamp": "2026-04-25T01:59:18.475Z"
+  },
+  {
+    "transaction_id": "48b8709c-4d6c-4ee2-827c-a342872ddb24",
+    "sku": "TIK-HOM-3841",
+    "channel": "Physical POS",
+    "gross_revenue": 238.74,
+    "unit_cost": 65.83,
+    "platform_fee": 2.39,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-25T01:58:05.921Z"
+  },
+  {
+    "transaction_id": "77078a59-2af0-4cdc-921e-e3ae23fdd7df",
+    "sku": "TIK-HEA-4759",
+    "channel": "Amazon",
+    "gross_revenue": 130.15,
+    "unit_cost": 57.22,
+    "platform_fee": 19.52,
+    "shipping_cost": 3.9,
+    "timestamp": "2026-04-24T22:43:17.669Z"
+  },
+  {
+    "transaction_id": "5aa23e74-2482-4c09-bb56-05c52358d879",
+    "sku": "SHO-APP-6586",
+    "channel": "TikTok Shop",
+    "gross_revenue": 117.14,
+    "unit_cost": 42.73,
+    "platform_fee": 5.86,
+    "shipping_cost": 6.59,
+    "timestamp": "2026-04-24T21:47:50.690Z"
+  },
+  {
+    "transaction_id": "60304123-b899-4c7e-92c5-b58bac00f858",
+    "sku": "AMA-HEA-7933",
+    "channel": "Amazon",
+    "gross_revenue": 193.88,
+    "unit_cost": 98.61,
+    "platform_fee": 29.08,
+    "shipping_cost": 6.08,
+    "timestamp": "2026-04-24T21:36:08.839Z"
+  },
+  {
+    "transaction_id": "e0218d73-cab8-4591-a418-5600d43d66ef",
+    "sku": "PHY-APP-3955",
+    "channel": "Shopify",
+    "gross_revenue": 82.86,
+    "unit_cost": 21.03,
+    "platform_fee": 2.4,
+    "shipping_cost": 4,
+    "timestamp": "2026-04-24T17:18:41.828Z"
+  },
+  {
+    "transaction_id": "15956964-ee26-46c5-9119-d9724f03f911",
+    "sku": "AMA-APP-7446",
+    "channel": "Amazon",
+    "gross_revenue": 14.35,
+    "unit_cost": 7.45,
+    "platform_fee": 2.15,
+    "shipping_cost": 2.04,
+    "timestamp": "2026-04-24T13:18:56.378Z"
+  },
+  {
+    "transaction_id": "dae193df-b264-4fb3-86de-0eb8dcd9a1a5",
+    "sku": "AMA-HOM-2661",
+    "channel": "Physical POS",
+    "gross_revenue": 179.01,
+    "unit_cost": 67.61,
+    "platform_fee": 1.79,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-24T12:56:07.727Z"
+  },
+  {
+    "transaction_id": "a76c3460-a0dc-4eff-b024-159084e5b412",
+    "sku": "SHO-HOM-4901",
+    "channel": "Amazon",
+    "gross_revenue": 231.33,
+    "unit_cost": 68.78,
+    "platform_fee": 34.7,
+    "shipping_cost": 6.12,
+    "timestamp": "2026-04-24T11:28:16.350Z"
+  },
+  {
+    "transaction_id": "bd528119-550e-4b1a-a9cb-ab0b70f130bb",
+    "sku": "AMA-HOM-9115",
+    "channel": "Physical POS",
+    "gross_revenue": 184.74,
+    "unit_cost": 79.71,
+    "platform_fee": 1.85,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-24T09:50:06.767Z"
+  },
+  {
+    "transaction_id": "165c37cf-23f3-4e61-974c-1884c2e5ebec",
+    "sku": "PHY-HOM-1897",
+    "channel": "Physical POS",
+    "gross_revenue": 140.43,
+    "unit_cost": 89.44,
+    "platform_fee": 1.4,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-24T06:59:18.576Z"
+  },
+  {
+    "transaction_id": "879fafeb-d9fa-41bb-bdb7-6ac5af4a2f6f",
+    "sku": "AMA-APP-8932",
+    "channel": "TikTok Shop",
+    "gross_revenue": 185.69,
+    "unit_cost": 61.2,
+    "platform_fee": 9.28,
+    "shipping_cost": 7.68,
+    "timestamp": "2026-04-24T02:59:37.677Z"
+  },
+  {
+    "transaction_id": "f002b83f-9ee2-45ba-bfae-5416d4c3e64b",
+    "sku": "AMA-ELE-5763",
+    "channel": "Shopify",
+    "gross_revenue": 95.75,
+    "unit_cost": 27.56,
+    "platform_fee": 2.78,
+    "shipping_cost": 4.54,
+    "timestamp": "2026-04-24T00:47:42.373Z"
+  },
+  {
+    "transaction_id": "d5f8fafc-28ae-4e2b-b7b2-49581f0f1ce4",
+    "sku": "SHO-HEA-8932",
+    "channel": "TikTok Shop",
+    "gross_revenue": 177.67,
+    "unit_cost": 81.22,
+    "platform_fee": 8.88,
+    "shipping_cost": 5.83,
+    "timestamp": "2026-04-23T23:44:23.063Z"
+  },
+  {
+    "transaction_id": "ce871f5c-e6d3-4ef8-94cc-a10afcbd2d5b",
+    "sku": "SHO-ACC-5747",
+    "channel": "Physical POS",
+    "gross_revenue": 43.94,
+    "unit_cost": 28.79,
+    "platform_fee": 0.44,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-23T23:02:40.934Z"
+  },
+  {
+    "transaction_id": "0091f3b4-96c6-489c-8737-609eb05b114c",
+    "sku": "TIK-HEA-3190",
+    "channel": "Physical POS",
+    "gross_revenue": 211.85,
+    "unit_cost": 59.14,
+    "platform_fee": 2.12,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-23T18:50:34.675Z"
+  },
+  {
+    "transaction_id": "4980f19e-a6a2-4e24-9190-bcab2da83dbb",
+    "sku": "AMA-HEA-7933",
+    "channel": "TikTok Shop",
+    "gross_revenue": 193.88,
+    "unit_cost": 98.61,
+    "platform_fee": 9.69,
+    "shipping_cost": 5.49,
+    "timestamp": "2026-04-23T18:10:46.839Z"
+  },
+  {
+    "transaction_id": "26a1a12f-be7c-43bf-8b0c-2274c6b70c8f",
+    "sku": "SHO-ELE-6484",
+    "channel": "TikTok Shop",
+    "gross_revenue": 109.25,
+    "unit_cost": 32.67,
+    "platform_fee": 5.46,
+    "shipping_cost": 3.43,
+    "timestamp": "2026-04-23T17:04:11.572Z"
+  },
+  {
+    "transaction_id": "b0b89017-580f-458f-b3b5-a232427fcb8b",
+    "sku": "TIK-HEA-4759",
+    "channel": "TikTok Shop",
+    "gross_revenue": 130.15,
+    "unit_cost": 57.22,
+    "platform_fee": 6.51,
+    "shipping_cost": 2.29,
+    "timestamp": "2026-04-23T11:18:51.322Z"
+  },
+  {
+    "transaction_id": "ad848569-2d74-4166-bcb0-4564177bf976",
+    "sku": "AMA-APP-8932",
+    "channel": "TikTok Shop",
+    "gross_revenue": 185.69,
+    "unit_cost": 61.2,
+    "platform_fee": 9.28,
+    "shipping_cost": 4.41,
+    "timestamp": "2026-04-23T09:26:33.238Z"
+  },
+  {
+    "transaction_id": "4df0dbab-4922-4b94-a638-cad896a6a76b",
+    "sku": "PHY-ACC-1171",
+    "channel": "Physical POS",
+    "gross_revenue": 154.02,
+    "unit_cost": 53.63,
+    "platform_fee": 1.54,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-23T04:45:44.090Z"
+  },
+  {
+    "transaction_id": "9c3735f5-ccb1-4e3a-881c-1e65854e7283",
+    "sku": "AMA-HOM-2661",
+    "channel": "TikTok Shop",
+    "gross_revenue": 179.01,
+    "unit_cost": 67.61,
+    "platform_fee": 8.95,
+    "shipping_cost": 7.45,
+    "timestamp": "2026-04-23T01:53:55.756Z"
+  },
+  {
+    "transaction_id": "bf7712dc-fa26-4348-b053-7ce58c347047",
+    "sku": "TIK-ACC-3808",
+    "channel": "Physical POS",
+    "gross_revenue": 74.59,
+    "unit_cost": 27.75,
+    "platform_fee": 0.75,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-22T23:56:04.995Z"
+  },
+  {
+    "transaction_id": "eeb5525a-66b1-4cb7-a14f-aaa044789a29",
+    "sku": "TIK-HOM-2809",
+    "channel": "Amazon",
+    "gross_revenue": 65.23,
+    "unit_cost": 36.38,
+    "platform_fee": 9.78,
+    "shipping_cost": 6.13,
+    "timestamp": "2026-04-22T22:34:21.755Z"
+  },
+  {
+    "transaction_id": "66323d52-3f82-4918-bae0-4d625cd1c534",
+    "sku": "AMA-ELE-9866",
+    "channel": "Amazon",
+    "gross_revenue": 185.27,
+    "unit_cost": 55.1,
+    "platform_fee": 27.79,
+    "shipping_cost": 5.06,
+    "timestamp": "2026-04-22T21:53:49.389Z"
+  },
+  {
+    "transaction_id": "51dd81bb-eecb-4f42-aff0-c4cb40a99db3",
+    "sku": "AMA-HEA-5267",
+    "channel": "Shopify",
+    "gross_revenue": 186.85,
+    "unit_cost": 72.83,
+    "platform_fee": 5.42,
+    "shipping_cost": 5.62,
+    "timestamp": "2026-04-22T20:36:51.081Z"
+  },
+  {
+    "transaction_id": "0437e144-e757-41a2-882c-f6e9727a37b6",
+    "sku": "TIK-HOM-4599",
+    "channel": "Physical POS",
+    "gross_revenue": 168.41,
+    "unit_cost": 72.68,
+    "platform_fee": 1.68,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-22T19:51:50.993Z"
+  },
+  {
+    "transaction_id": "10386ad9-9d6f-47d3-a5c9-ba9afb43a80d",
+    "sku": "TIK-HOM-5974",
+    "channel": "Physical POS",
+    "gross_revenue": 59.69,
+    "unit_cost": 21.97,
+    "platform_fee": 0.6,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-22T16:43:12.436Z"
+  },
+  {
+    "transaction_id": "092c2773-b2fb-4bc8-a078-2f379edbfd4b",
+    "sku": "TIK-APP-6464",
+    "channel": "Physical POS",
+    "gross_revenue": 65.94,
+    "unit_cost": 40.41,
+    "platform_fee": 0.66,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-22T16:07:17.004Z"
+  },
+  {
+    "transaction_id": "279d6889-b5cd-470f-b55a-c1c97bda11d7",
+    "sku": "AMA-HEA-7933",
+    "channel": "Physical POS",
+    "gross_revenue": 193.88,
+    "unit_cost": 98.61,
+    "platform_fee": 1.94,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-22T14:02:32.884Z"
+  },
+  {
+    "transaction_id": "52431767-3d7f-45ea-ae33-e8f5958cc67a",
+    "sku": "TIK-ACC-9615",
+    "channel": "Physical POS",
+    "gross_revenue": 120.5,
+    "unit_cost": 58.46,
+    "platform_fee": 1.21,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-22T13:47:14.723Z"
+  },
+  {
+    "transaction_id": "c9e9036f-9cff-4c26-be1c-e34663ae409c",
+    "sku": "SHO-HEA-2397",
+    "channel": "Shopify",
+    "gross_revenue": 74.09,
+    "unit_cost": 28.73,
+    "platform_fee": 2.15,
+    "shipping_cost": 5.68,
+    "timestamp": "2026-04-22T10:29:45.111Z"
+  },
+  {
+    "transaction_id": "af6f8d34-1cb0-4251-a1b6-4e748daa16ac",
+    "sku": "AMA-HEA-7131",
+    "channel": "TikTok Shop",
+    "gross_revenue": 218.53,
+    "unit_cost": 75.17,
+    "platform_fee": 10.93,
+    "shipping_cost": 5.31,
+    "timestamp": "2026-04-22T09:02:59.371Z"
+  },
+  {
+    "transaction_id": "1ff7b26a-47be-4577-ac6a-9e66d6ff874f",
+    "sku": "TIK-APP-6464",
+    "channel": "Physical POS",
+    "gross_revenue": 65.94,
+    "unit_cost": 40.41,
+    "platform_fee": 0.66,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-22T06:02:06.541Z"
+  },
+  {
+    "transaction_id": "4725986d-c49e-4e78-a10e-a50095d93c74",
+    "sku": "AMA-ACC-1575",
+    "channel": "TikTok Shop",
+    "gross_revenue": 198.17,
+    "unit_cost": 99.62,
+    "platform_fee": 9.91,
+    "shipping_cost": 2.18,
+    "timestamp": "2026-04-22T03:25:41.981Z"
+  },
+  {
+    "transaction_id": "adcf1bbf-3b6a-432d-832a-9a6f6811d646",
+    "sku": "SHO-ACC-1535",
+    "channel": "Amazon",
+    "gross_revenue": 58.5,
+    "unit_cost": 28.31,
+    "platform_fee": 8.78,
+    "shipping_cost": 7.58,
+    "timestamp": "2026-04-21T20:16:50.304Z"
+  },
+  {
+    "transaction_id": "cb6ebf87-62fc-42c0-ba0e-db1ae0cde434",
+    "sku": "AMA-HOM-9115",
+    "channel": "Amazon",
+    "gross_revenue": 184.74,
+    "unit_cost": 79.71,
+    "platform_fee": 27.71,
+    "shipping_cost": 4.14,
+    "timestamp": "2026-04-21T20:16:15.163Z"
+  },
+  {
+    "transaction_id": "9c1c2d37-3711-47da-bd4f-ecb6ce786af3",
+    "sku": "SS-ELC-EAR-WHT",
+    "channel": "Shopify",
+    "gross_revenue": 89,
+    "unit_cost": 32,
+    "platform_fee": 2.58,
+    "shipping_cost": 2.11,
+    "timestamp": "2026-04-21T20:11:12.941Z"
+  },
+  {
+    "transaction_id": "77b62416-d621-40e9-89b9-01105bcfb263",
+    "sku": "SHO-APP-6605",
+    "channel": "Amazon",
+    "gross_revenue": 248.42,
+    "unit_cost": 64.7,
+    "platform_fee": 37.26,
+    "shipping_cost": 6.11,
+    "timestamp": "2026-04-21T15:57:35.444Z"
+  },
+  {
+    "transaction_id": "bf202d0b-054d-4c90-9eb4-f223aa63d944",
+    "sku": "TIK-ACC-9615",
+    "channel": "TikTok Shop",
+    "gross_revenue": 120.5,
+    "unit_cost": 58.46,
+    "platform_fee": 6.03,
+    "shipping_cost": 3.48,
+    "timestamp": "2026-04-21T12:57:11.086Z"
+  },
+  {
+    "transaction_id": "dc9b4bd2-57ba-433c-b655-46475c14d5ac",
+    "sku": "SHO-APP-9355",
+    "channel": "Shopify",
+    "gross_revenue": 67.78,
+    "unit_cost": 23.05,
+    "platform_fee": 1.97,
+    "shipping_cost": 7.26,
+    "timestamp": "2026-04-21T12:46:15.297Z"
+  },
+  {
+    "transaction_id": "9de04cd7-8ab7-44eb-a632-efd05eb047a0",
+    "sku": "TIK-HOM-3841",
+    "channel": "TikTok Shop",
+    "gross_revenue": 238.74,
+    "unit_cost": 65.83,
+    "platform_fee": 11.94,
+    "shipping_cost": 2.4,
+    "timestamp": "2026-04-21T11:28:07.405Z"
+  },
+  {
+    "transaction_id": "40be9dbe-df06-453a-981b-4d7f6c0bc392",
+    "sku": "AMA-HEA-7131",
+    "channel": "Amazon",
+    "gross_revenue": 218.53,
+    "unit_cost": 75.17,
+    "platform_fee": 32.78,
+    "shipping_cost": 6.22,
+    "timestamp": "2026-04-21T11:18:38.168Z"
+  },
+  {
+    "transaction_id": "254aa5cc-63e1-4f49-be01-dd61db240431",
+    "sku": "AMA-HOM-2661",
+    "channel": "Shopify",
+    "gross_revenue": 179.01,
+    "unit_cost": 67.61,
+    "platform_fee": 5.19,
+    "shipping_cost": 7.31,
+    "timestamp": "2026-04-21T11:17:27.209Z"
+  },
+  {
+    "transaction_id": "534b99c8-543a-4ac9-9797-4e3c04955878",
+    "sku": "PHY-HOM-1897",
+    "channel": "Shopify",
+    "gross_revenue": 140.43,
+    "unit_cost": 89.44,
+    "platform_fee": 4.07,
+    "shipping_cost": 5.22,
+    "timestamp": "2026-04-21T08:26:05.138Z"
+  },
+  {
+    "transaction_id": "c1c39acd-92a2-4f81-9ac9-009a24e8a080",
+    "sku": "TIK-HOM-5974",
+    "channel": "TikTok Shop",
+    "gross_revenue": 59.69,
+    "unit_cost": 21.97,
+    "platform_fee": 2.98,
+    "shipping_cost": 5.93,
+    "timestamp": "2026-04-21T08:04:49.295Z"
+  },
+  {
+    "transaction_id": "fae52d6b-b7fb-4774-a677-0c43621aa06e",
+    "sku": "SHO-ACC-2064",
+    "channel": "Shopify",
+    "gross_revenue": 263.06,
+    "unit_cost": 82.79,
+    "platform_fee": 7.63,
+    "shipping_cost": 7.95,
+    "timestamp": "2026-04-21T06:39:36.245Z"
+  },
+  {
+    "transaction_id": "03fd4962-6595-4936-a560-fe0519d4cb7e",
+    "sku": "PHY-ACC-1171",
+    "channel": "Amazon",
+    "gross_revenue": 154.02,
+    "unit_cost": 53.63,
+    "platform_fee": 23.1,
+    "shipping_cost": 3.29,
+    "timestamp": "2026-04-21T05:47:03.257Z"
+  },
+  {
+    "transaction_id": "78f109b6-3f1e-4b21-aa27-cc571e054165",
+    "sku": "PHY-HOM-2790",
+    "channel": "Shopify",
+    "gross_revenue": 24.85,
+    "unit_cost": 10.21,
+    "platform_fee": 0.72,
+    "shipping_cost": 6.96,
+    "timestamp": "2026-04-21T05:01:18.071Z"
+  },
+  {
+    "transaction_id": "9cfbd09e-e19e-4996-a3ff-6f498219395f",
+    "sku": "SHO-HEA-8932",
+    "channel": "Shopify",
+    "gross_revenue": 177.67,
+    "unit_cost": 81.22,
+    "platform_fee": 5.15,
+    "shipping_cost": 3.82,
+    "timestamp": "2026-04-21T03:37:12.410Z"
+  },
+  {
+    "transaction_id": "6cb7d0b6-676e-4c76-bdc5-8f0b4d0ae478",
+    "sku": "TIK-HEA-6488",
+    "channel": "Amazon",
+    "gross_revenue": 279.48,
+    "unit_cost": 93.88,
+    "platform_fee": 41.92,
+    "shipping_cost": 5.71,
+    "timestamp": "2026-04-21T03:02:52.421Z"
+  },
+  {
+    "transaction_id": "f086a9e9-8800-41a7-aad5-bbe6d071e616",
+    "sku": "PHY-APP-3997",
+    "channel": "TikTok Shop",
+    "gross_revenue": 280.04,
+    "unit_cost": 81.28,
+    "platform_fee": 14,
+    "shipping_cost": 4.28,
+    "timestamp": "2026-04-21T02:33:46.306Z"
+  },
+  {
+    "transaction_id": "85c4b967-cf11-4d4f-8d39-80166c5af169",
+    "sku": "TIK-HOM-7831",
+    "channel": "Physical POS",
+    "gross_revenue": 193.76,
+    "unit_cost": 98.77,
+    "platform_fee": 1.94,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-21T01:23:47.234Z"
+  },
+  {
+    "transaction_id": "e9e7edd8-07fc-42ed-aef3-1e1710c7138d",
+    "sku": "SHO-HEA-4211",
+    "channel": "Shopify",
+    "gross_revenue": 182.68,
+    "unit_cost": 48.85,
+    "platform_fee": 5.3,
+    "shipping_cost": 2.75,
+    "timestamp": "2026-04-20T23:14:32.860Z"
+  },
+  {
+    "transaction_id": "8664aae4-74b2-4a1a-9d11-e5483a9d66d5",
+    "sku": "TIK-HEA-3190",
+    "channel": "Shopify",
+    "gross_revenue": 211.85,
+    "unit_cost": 59.14,
+    "platform_fee": 6.14,
+    "shipping_cost": 6.15,
+    "timestamp": "2026-04-20T14:57:45.209Z"
+  },
+  {
+    "transaction_id": "dd2e9165-1881-4d3f-98fc-2ba48aaa9141",
+    "sku": "TIK-HOM-9008",
+    "channel": "Physical POS",
+    "gross_revenue": 73.01,
+    "unit_cost": 44.84,
+    "platform_fee": 0.73,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-20T14:47:13.590Z"
+  },
+  {
+    "transaction_id": "1271db61-ce9b-4074-92ed-3c6c3b125a55",
+    "sku": "AMA-HEA-7131",
+    "channel": "Shopify",
+    "gross_revenue": 218.53,
+    "unit_cost": 75.17,
+    "platform_fee": 6.34,
+    "shipping_cost": 6.22,
+    "timestamp": "2026-04-20T14:05:50.874Z"
+  },
+  {
+    "transaction_id": "870c2bf1-e79d-4764-8fd9-9e6ea17ead62",
+    "sku": "PHY-APP-3997",
+    "channel": "TikTok Shop",
+    "gross_revenue": 280.04,
+    "unit_cost": 81.28,
+    "platform_fee": 14,
+    "shipping_cost": 2.29,
+    "timestamp": "2026-04-20T11:56:06.527Z"
+  },
+  {
+    "transaction_id": "1275f38a-95a6-4d8a-abee-8c45738f5a18",
+    "sku": "PHY-APP-4434",
+    "channel": "TikTok Shop",
+    "gross_revenue": 158.43,
+    "unit_cost": 75.48,
+    "platform_fee": 7.92,
+    "shipping_cost": 3.26,
+    "timestamp": "2026-04-20T10:32:15.746Z"
+  },
+  {
+    "transaction_id": "f338d1d5-ca2d-471b-9fcc-c9d5ff404072",
+    "sku": "TIK-HEA-3406",
+    "channel": "Shopify",
+    "gross_revenue": 45.05,
+    "unit_cost": 12.07,
+    "platform_fee": 1.31,
+    "shipping_cost": 4.9,
+    "timestamp": "2026-04-20T07:12:53.586Z"
+  },
+  {
+    "transaction_id": "0670d7ad-5d52-49a8-a546-d715e9495140",
+    "sku": "TIK-HEA-1334",
+    "channel": "TikTok Shop",
+    "gross_revenue": 155.69,
+    "unit_cost": 63.83,
+    "platform_fee": 7.78,
+    "shipping_cost": 4.85,
+    "timestamp": "2026-04-20T06:49:23.648Z"
+  },
+  {
+    "transaction_id": "94543a17-eb78-425c-9781-056dc57d28da",
+    "sku": "TIK-HOM-3841",
+    "channel": "TikTok Shop",
+    "gross_revenue": 238.74,
+    "unit_cost": 65.83,
+    "platform_fee": 11.94,
+    "shipping_cost": 7.76,
+    "timestamp": "2026-04-20T06:09:16.121Z"
+  },
+  {
+    "transaction_id": "e866759e-75b1-49dc-90d6-37dc799e2ec7",
+    "sku": "AMA-ACC-5216",
+    "channel": "TikTok Shop",
+    "gross_revenue": 31.93,
+    "unit_cost": 17.64,
+    "platform_fee": 1.6,
+    "shipping_cost": 2.49,
+    "timestamp": "2026-04-20T05:47:19.214Z"
+  },
+  {
+    "transaction_id": "4818b41c-4896-427e-b02e-8dd710d48e14",
+    "sku": "AMA-ELE-5763",
+    "channel": "Amazon",
+    "gross_revenue": 95.75,
+    "unit_cost": 27.56,
+    "platform_fee": 14.36,
+    "shipping_cost": 3.58,
+    "timestamp": "2026-04-20T03:04:29.969Z"
+  },
+  {
+    "transaction_id": "dc76ca95-5cde-4079-bb72-d37160096d4d",
+    "sku": "PHY-APP-3997",
+    "channel": "Physical POS",
+    "gross_revenue": 280.04,
+    "unit_cost": 81.28,
+    "platform_fee": 2.8,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-20T01:34:39.044Z"
+  },
+  {
+    "transaction_id": "cd271173-ce67-4c6b-8d43-908ee4e72483",
+    "sku": "SHO-HOM-4901",
+    "channel": "Amazon",
+    "gross_revenue": 231.33,
+    "unit_cost": 68.78,
+    "platform_fee": 34.7,
+    "shipping_cost": 2.01,
+    "timestamp": "2026-04-20T01:22:04.843Z"
+  },
+  {
+    "transaction_id": "40c0453e-0a6a-4c02-86e0-d18d8491ac3d",
+    "sku": "PHY-APP-4434",
+    "channel": "Physical POS",
+    "gross_revenue": 158.43,
+    "unit_cost": 75.48,
+    "platform_fee": 1.58,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-19T22:31:39.201Z"
+  },
+  {
+    "transaction_id": "b08ad08c-feaa-42ef-8f30-57e1641042ab",
+    "sku": "TIK-HEA-4759",
+    "channel": "Physical POS",
+    "gross_revenue": 130.15,
+    "unit_cost": 57.22,
+    "platform_fee": 1.3,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-19T21:59:20.726Z"
+  },
+  {
+    "transaction_id": "0899fde5-c96c-41b9-a8e7-a6f433e51120",
+    "sku": "AMA-ACC-1575",
+    "channel": "Amazon",
+    "gross_revenue": 198.17,
+    "unit_cost": 99.62,
+    "platform_fee": 29.73,
+    "shipping_cost": 2.8,
+    "timestamp": "2026-04-19T21:46:44.207Z"
+  },
+  {
+    "transaction_id": "84bfab30-cab0-4687-8ca3-daac573add0a",
+    "sku": "TIK-APP-6464",
+    "channel": "Amazon",
+    "gross_revenue": 65.94,
+    "unit_cost": 40.41,
+    "platform_fee": 9.89,
+    "shipping_cost": 6.47,
+    "timestamp": "2026-04-19T18:42:26.174Z"
+  },
+  {
+    "transaction_id": "824cdf17-6e9a-4a9a-b8cd-bc223934f3b8",
+    "sku": "AMA-APP-9088",
+    "channel": "Physical POS",
+    "gross_revenue": 87.46,
+    "unit_cost": 29.52,
+    "platform_fee": 0.87,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-19T18:33:48.015Z"
+  },
+  {
+    "transaction_id": "4fc00c32-ddba-41e6-81c8-110f9c95e75f",
+    "sku": "AMA-HEA-6596",
+    "channel": "Shopify",
+    "gross_revenue": 28.57,
+    "unit_cost": 15.25,
+    "platform_fee": 0.83,
+    "shipping_cost": 5.8,
+    "timestamp": "2026-04-19T15:44:37.219Z"
+  },
+  {
+    "transaction_id": "517f25f6-6a43-4585-a57b-216566886cf1",
+    "sku": "PHY-HEA-8240",
+    "channel": "TikTok Shop",
+    "gross_revenue": 335.73,
+    "unit_cost": 93.37,
+    "platform_fee": 16.79,
+    "shipping_cost": 4.78,
+    "timestamp": "2026-04-19T14:23:38.961Z"
+  },
+  {
+    "transaction_id": "4436a1f4-38e5-4567-9601-a54077c0b577",
+    "sku": "PHY-HEA-8240",
+    "channel": "Shopify",
+    "gross_revenue": 335.73,
+    "unit_cost": 93.37,
+    "platform_fee": 9.74,
+    "shipping_cost": 6.36,
+    "timestamp": "2026-04-19T13:11:39.023Z"
+  },
+  {
+    "transaction_id": "dfd60ba9-d55a-476c-8766-141c1c8be87a",
+    "sku": "AMA-HEA-5267",
+    "channel": "Physical POS",
+    "gross_revenue": 186.85,
+    "unit_cost": 72.83,
+    "platform_fee": 1.87,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-19T12:57:33.185Z"
+  },
+  {
+    "transaction_id": "f451b37b-0646-4f6a-9862-303738def415",
+    "sku": "SHO-APP-9355",
+    "channel": "Shopify",
+    "gross_revenue": 67.78,
+    "unit_cost": 23.05,
+    "platform_fee": 1.97,
+    "shipping_cost": 2.67,
+    "timestamp": "2026-04-19T08:11:22.732Z"
+  },
+  {
+    "transaction_id": "ae7d75b4-2fac-412b-b602-ec031fda7c99",
+    "sku": "SHO-HEA-4211",
+    "channel": "Physical POS",
+    "gross_revenue": 182.68,
+    "unit_cost": 48.85,
+    "platform_fee": 1.83,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-19T07:58:11.943Z"
+  },
+  {
+    "transaction_id": "7850bdbf-c5fc-4973-8c62-505a4c917575",
+    "sku": "PHY-APP-1230",
+    "channel": "Shopify",
+    "gross_revenue": 123.37,
+    "unit_cost": 38.06,
+    "platform_fee": 3.58,
+    "shipping_cost": 6.65,
+    "timestamp": "2026-04-19T06:28:19.682Z"
+  },
+  {
+    "transaction_id": "589cef55-c272-4691-a073-9019a7581be4",
+    "sku": "SHO-APP-9355",
+    "channel": "Physical POS",
+    "gross_revenue": 67.78,
+    "unit_cost": 23.05,
+    "platform_fee": 0.68,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-19T06:11:53.740Z"
+  },
+  {
+    "transaction_id": "e2b27b80-fd47-45ac-8cf5-f27c680056f3",
+    "sku": "TIK-APP-6464",
+    "channel": "Shopify",
+    "gross_revenue": 65.94,
+    "unit_cost": 40.41,
+    "platform_fee": 1.91,
+    "shipping_cost": 7.78,
+    "timestamp": "2026-04-19T05:52:09.882Z"
+  },
+  {
+    "transaction_id": "a6fad070-5d4f-4072-bb71-35dbf4b3f6ff",
+    "sku": "SHO-APP-6240",
+    "channel": "Amazon",
+    "gross_revenue": 51.59,
+    "unit_cost": 21.87,
+    "platform_fee": 7.74,
+    "shipping_cost": 2.56,
+    "timestamp": "2026-04-19T05:07:41.792Z"
+  },
+  {
+    "transaction_id": "5472faec-e41a-4962-be9e-6fb0ab91cb88",
+    "sku": "SHO-APP-9355",
+    "channel": "Amazon",
+    "gross_revenue": 67.78,
+    "unit_cost": 23.05,
+    "platform_fee": 10.17,
+    "shipping_cost": 4.41,
+    "timestamp": "2026-04-19T04:40:52.798Z"
+  },
+  {
+    "transaction_id": "154b905b-b1c6-4653-b79a-9382f41d3cca",
+    "sku": "PHY-APP-2256",
+    "channel": "Amazon",
+    "gross_revenue": 184.95,
+    "unit_cost": 60.67,
+    "platform_fee": 27.74,
+    "shipping_cost": 6.09,
+    "timestamp": "2026-04-19T00:31:43.125Z"
+  },
+  {
+    "transaction_id": "bf9c1b40-8e5c-4bd2-a302-38f0ae046215",
+    "sku": "TIK-HEA-1334",
+    "channel": "TikTok Shop",
+    "gross_revenue": 155.69,
+    "unit_cost": 63.83,
+    "platform_fee": 7.78,
+    "shipping_cost": 5.7,
+    "timestamp": "2026-04-19T00:31:31.447Z"
+  },
+  {
+    "transaction_id": "5c1a6a0f-d1e8-44a6-86f2-3fbe47700b8c",
+    "sku": "TIK-APP-4014",
+    "channel": "Amazon",
+    "gross_revenue": 39.46,
+    "unit_cost": 16.31,
+    "platform_fee": 5.92,
+    "shipping_cost": 7.47,
+    "timestamp": "2026-04-19T00:05:39.109Z"
+  },
+  {
+    "transaction_id": "36a31a82-9227-40bb-afca-722c725d42f1",
+    "sku": "TIK-APP-6464",
+    "channel": "Amazon",
+    "gross_revenue": 65.94,
+    "unit_cost": 40.41,
+    "platform_fee": 9.89,
+    "shipping_cost": 4.91,
+    "timestamp": "2026-04-18T23:02:07.161Z"
+  },
+  {
+    "transaction_id": "533b5724-bc9f-4107-aa00-def2a44aab8a",
+    "sku": "TIK-HEA-3190",
+    "channel": "Physical POS",
+    "gross_revenue": 211.85,
+    "unit_cost": 59.14,
+    "platform_fee": 2.12,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-18T22:42:14.964Z"
+  },
+  {
+    "transaction_id": "b15e38f1-e63a-45f9-b2d9-23e4593a8805",
+    "sku": "SHO-ACC-5747",
+    "channel": "Amazon",
+    "gross_revenue": 43.94,
+    "unit_cost": 28.79,
+    "platform_fee": 6.59,
+    "shipping_cost": 6.88,
+    "timestamp": "2026-04-18T18:17:11.394Z"
+  },
+  {
+    "transaction_id": "ed9419c8-5c88-4a49-9761-bda3efd7f2ce",
+    "sku": "SHO-HEA-4211",
+    "channel": "TikTok Shop",
+    "gross_revenue": 182.68,
+    "unit_cost": 48.85,
+    "platform_fee": 9.13,
+    "shipping_cost": 5.29,
+    "timestamp": "2026-04-18T13:37:02.384Z"
+  },
+  {
+    "transaction_id": "a51266ee-b45f-4033-b483-c322f5e09fe8",
+    "sku": "PHY-HOM-9412",
+    "channel": "TikTok Shop",
+    "gross_revenue": 217.47,
+    "unit_cost": 81.56,
+    "platform_fee": 10.87,
+    "shipping_cost": 3.16,
+    "timestamp": "2026-04-18T12:31:50.174Z"
+  },
+  {
+    "transaction_id": "019edd4b-5b2b-4e46-b373-72d34c194fed",
+    "sku": "AMA-ACC-6845",
+    "channel": "TikTok Shop",
+    "gross_revenue": 271.28,
+    "unit_cost": 83.78,
+    "platform_fee": 13.56,
+    "shipping_cost": 3.86,
+    "timestamp": "2026-04-18T10:52:55.172Z"
+  },
+  {
+    "transaction_id": "44f043af-582d-47b5-97c5-83cb153d827e",
+    "sku": "AMA-APP-7978",
+    "channel": "Amazon",
+    "gross_revenue": 125.57,
+    "unit_cost": 43.25,
+    "platform_fee": 18.84,
+    "shipping_cost": 7.79,
+    "timestamp": "2026-04-18T08:31:33.637Z"
+  },
+  {
+    "transaction_id": "e6359e46-b7c7-400e-8013-13bc9eaa6789",
+    "sku": "PHY-ACC-3213",
+    "channel": "Physical POS",
+    "gross_revenue": 140.97,
+    "unit_cost": 67.56,
+    "platform_fee": 1.41,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-18T06:46:17.349Z"
+  },
+  {
+    "transaction_id": "a59c4a1e-d61c-475d-9519-c9167aea518a",
+    "sku": "SHO-APP-9355",
+    "channel": "TikTok Shop",
+    "gross_revenue": 67.78,
+    "unit_cost": 23.05,
+    "platform_fee": 3.39,
+    "shipping_cost": 5.12,
+    "timestamp": "2026-04-18T04:20:55.096Z"
+  },
+  {
+    "transaction_id": "b15255af-9deb-43f0-ba71-78155d6bc8d0",
+    "sku": "SS-ELC-EAR-WHT",
+    "channel": "Shopify",
+    "gross_revenue": 89,
+    "unit_cost": 32,
+    "platform_fee": 2.58,
+    "shipping_cost": 4.16,
+    "timestamp": "2026-04-18T03:28:19.862Z"
+  },
+  {
+    "transaction_id": "74b6064b-9d0f-4129-9b4d-c620fc294036",
+    "sku": "SHO-ACC-6080",
+    "channel": "Shopify",
+    "gross_revenue": 111.15,
+    "unit_cost": 28.94,
+    "platform_fee": 3.22,
+    "shipping_cost": 2.88,
+    "timestamp": "2026-04-18T00:37:12.474Z"
+  },
+  {
+    "transaction_id": "6f45a704-f314-49dc-bb5b-4715e54949c1",
+    "sku": "SS-ELC-EAR-WHT",
+    "channel": "Amazon",
+    "gross_revenue": 89,
+    "unit_cost": 32,
+    "platform_fee": 13.35,
+    "shipping_cost": 4.09,
+    "timestamp": "2026-04-17T21:17:20.101Z"
+  },
+  {
+    "transaction_id": "17457f1f-8252-4ee7-9533-e40fab0c5a57",
+    "sku": "AMA-HOM-8724",
+    "channel": "Physical POS",
+    "gross_revenue": 238.68,
+    "unit_cost": 87.18,
+    "platform_fee": 2.39,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-17T19:31:24.598Z"
+  },
+  {
+    "transaction_id": "81a6d94c-91d5-40bf-9401-60f0af9b537a",
+    "sku": "SHO-ELE-6484",
+    "channel": "TikTok Shop",
+    "gross_revenue": 109.25,
+    "unit_cost": 32.67,
+    "platform_fee": 5.46,
+    "shipping_cost": 5.32,
+    "timestamp": "2026-04-17T19:31:00.774Z"
+  },
+  {
+    "transaction_id": "c65108ab-1253-4435-a787-76c27f9016dd",
+    "sku": "PHY-APP-4434",
+    "channel": "Shopify",
+    "gross_revenue": 158.43,
+    "unit_cost": 75.48,
+    "platform_fee": 4.59,
+    "shipping_cost": 4.02,
+    "timestamp": "2026-04-17T19:05:19.574Z"
+  },
+  {
+    "transaction_id": "be89bc79-3a92-49f5-985e-f8759457c7ab",
+    "sku": "TIK-HOM-5974",
+    "channel": "Shopify",
+    "gross_revenue": 59.69,
+    "unit_cost": 21.97,
+    "platform_fee": 1.73,
+    "shipping_cost": 5.69,
+    "timestamp": "2026-04-17T18:24:10.540Z"
+  },
+  {
+    "transaction_id": "fe48f5c0-1bc6-4794-8fef-db2230e0a456",
+    "sku": "AMA-HEA-4401",
+    "channel": "Shopify",
+    "gross_revenue": 219.69,
+    "unit_cost": 61.56,
+    "platform_fee": 6.37,
+    "shipping_cost": 4.47,
+    "timestamp": "2026-04-17T12:56:36.375Z"
+  },
+  {
+    "transaction_id": "05d823ce-788f-4c4b-ab0c-36f736ebb3d1",
+    "sku": "TIK-HOM-7831",
+    "channel": "Amazon",
+    "gross_revenue": 193.76,
+    "unit_cost": 98.77,
+    "platform_fee": 29.06,
+    "shipping_cost": 6.9,
+    "timestamp": "2026-04-17T12:13:19.232Z"
+  },
+  {
+    "transaction_id": "1ab704e1-75ec-438d-a0a2-6369444bbe17",
+    "sku": "SHO-APP-6586",
+    "channel": "Shopify",
+    "gross_revenue": 117.14,
+    "unit_cost": 42.73,
+    "platform_fee": 3.4,
+    "shipping_cost": 7.5,
+    "timestamp": "2026-04-17T08:59:05.844Z"
+  },
+  {
+    "transaction_id": "b02693a7-0b47-4a61-aaf9-3648e3c3cafe",
+    "sku": "AMA-HOM-7426",
+    "channel": "Amazon",
+    "gross_revenue": 312.65,
+    "unit_cost": 89.94,
+    "platform_fee": 46.9,
+    "shipping_cost": 7.43,
+    "timestamp": "2026-04-17T08:07:34.141Z"
+  },
+  {
+    "transaction_id": "fb7bcb48-0084-4cce-9a1d-58359d0e7d9a",
+    "sku": "SHO-HOM-4901",
+    "channel": "Amazon",
+    "gross_revenue": 231.33,
+    "unit_cost": 68.78,
+    "platform_fee": 34.7,
+    "shipping_cost": 2.64,
+    "timestamp": "2026-04-17T07:23:38.677Z"
+  },
+  {
+    "transaction_id": "025a0489-0830-4ae9-8252-179433e61e3c",
+    "sku": "TIK-HOM-6629",
+    "channel": "Physical POS",
+    "gross_revenue": 139.27,
+    "unit_cost": 85.83,
+    "platform_fee": 1.39,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-17T06:37:50.058Z"
+  },
+  {
+    "transaction_id": "2184870e-25f0-4167-817b-216c247d03bb",
+    "sku": "TIK-ACC-6661",
+    "channel": "Physical POS",
+    "gross_revenue": 63.52,
+    "unit_cost": 16.63,
+    "platform_fee": 0.64,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-17T05:29:54.002Z"
+  },
+  {
+    "transaction_id": "b22fcbe0-5d36-4bdd-8415-2b8d27ab3673",
+    "sku": "SHO-ACC-5747",
+    "channel": "Physical POS",
+    "gross_revenue": 43.94,
+    "unit_cost": 28.79,
+    "platform_fee": 0.44,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-17T04:55:05.086Z"
+  },
+  {
+    "transaction_id": "c8f536e4-c9ed-4e3a-8281-de5e011ac525",
+    "sku": "SHO-HEA-5176",
+    "channel": "Shopify",
+    "gross_revenue": 83.37,
+    "unit_cost": 22.37,
+    "platform_fee": 2.42,
+    "shipping_cost": 7.78,
+    "timestamp": "2026-04-17T04:32:20.526Z"
+  },
+  {
+    "transaction_id": "22657fce-1562-4656-a018-7c979e867ece",
+    "sku": "AMA-HOM-9115",
+    "channel": "TikTok Shop",
+    "gross_revenue": 184.74,
+    "unit_cost": 79.71,
+    "platform_fee": 9.24,
+    "shipping_cost": 3.49,
+    "timestamp": "2026-04-17T03:37:40.091Z"
+  },
+  {
+    "transaction_id": "8d332733-0b76-48f3-a7a8-a98136415483",
+    "sku": "SHO-APP-9355",
+    "channel": "TikTok Shop",
+    "gross_revenue": 67.78,
+    "unit_cost": 23.05,
+    "platform_fee": 3.39,
+    "shipping_cost": 5.01,
+    "timestamp": "2026-04-16T23:46:33.367Z"
+  },
+  {
+    "transaction_id": "8a793aab-28c3-467e-972a-9d8828ecc0ed",
+    "sku": "AMA-ACC-5717",
+    "channel": "Physical POS",
+    "gross_revenue": 161.63,
+    "unit_cost": 70.45,
+    "platform_fee": 1.62,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-16T23:32:20.287Z"
+  },
+  {
+    "transaction_id": "b5800f37-9d1b-42b2-a594-e58e14efb74a",
+    "sku": "SHO-ACC-2064",
+    "channel": "Shopify",
+    "gross_revenue": 263.06,
+    "unit_cost": 82.79,
+    "platform_fee": 7.63,
+    "shipping_cost": 4.85,
+    "timestamp": "2026-04-16T22:35:37.156Z"
+  },
+  {
+    "transaction_id": "61148cb1-bfa0-4368-8361-db35dd706ec2",
+    "sku": "TIK-ACC-6661",
+    "channel": "Physical POS",
+    "gross_revenue": 63.52,
+    "unit_cost": 16.63,
+    "platform_fee": 0.64,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-16T21:41:25.030Z"
+  },
+  {
+    "transaction_id": "3a8aa686-669c-405a-85fe-7292e480bd93",
+    "sku": "AMA-ACC-1575",
+    "channel": "TikTok Shop",
+    "gross_revenue": 198.17,
+    "unit_cost": 99.62,
+    "platform_fee": 9.91,
+    "shipping_cost": 6.9,
+    "timestamp": "2026-04-16T21:24:14.020Z"
+  },
+  {
+    "transaction_id": "b33892bf-024a-4884-bbde-71cd0a3546b2",
+    "sku": "PHY-HEA-8240",
+    "channel": "TikTok Shop",
+    "gross_revenue": 335.73,
+    "unit_cost": 93.37,
+    "platform_fee": 16.79,
+    "shipping_cost": 5.19,
+    "timestamp": "2026-04-16T17:37:48.939Z"
+  },
+  {
+    "transaction_id": "52265cac-fdb1-41c0-8e58-2d62036ef6b6",
+    "sku": "TIK-HOM-8287",
+    "channel": "Physical POS",
+    "gross_revenue": 31.31,
+    "unit_cost": 12.92,
+    "platform_fee": 0.31,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-16T17:21:16.278Z"
+  },
+  {
+    "transaction_id": "2d18b916-b850-4ad6-990e-0b42a676d2f2",
+    "sku": "PHY-HOM-9412",
+    "channel": "TikTok Shop",
+    "gross_revenue": 217.47,
+    "unit_cost": 81.56,
+    "platform_fee": 10.87,
+    "shipping_cost": 2.94,
+    "timestamp": "2026-04-16T16:57:20.289Z"
+  },
+  {
+    "transaction_id": "777009f7-970d-4009-ad9d-6475d144622e",
+    "sku": "PHY-APP-2256",
+    "channel": "Shopify",
+    "gross_revenue": 184.95,
+    "unit_cost": 60.67,
+    "platform_fee": 5.36,
+    "shipping_cost": 3.26,
+    "timestamp": "2026-04-16T16:29:49.674Z"
+  },
+  {
+    "transaction_id": "98057d20-69ef-4d5f-875f-e17209128e11",
+    "sku": "SS-LST-TEE-Gry-L",
+    "channel": "Amazon",
+    "gross_revenue": 24.5,
+    "unit_cost": 8,
+    "platform_fee": 3.67,
+    "shipping_cost": 4.14,
+    "timestamp": "2026-04-16T15:33:11.641Z"
+  },
+  {
+    "transaction_id": "57999d4d-0a20-4b26-80d0-f77605382666",
+    "sku": "PHY-HEA-8240",
+    "channel": "Shopify",
+    "gross_revenue": 335.73,
+    "unit_cost": 93.37,
+    "platform_fee": 9.74,
+    "shipping_cost": 7.64,
+    "timestamp": "2026-04-16T14:51:57.408Z"
+  },
+  {
+    "transaction_id": "64bd1c57-ebe6-4073-b8ce-9893db90fa82",
+    "sku": "AMA-HOM-4178",
+    "channel": "Physical POS",
+    "gross_revenue": 312.04,
+    "unit_cost": 81.55,
+    "platform_fee": 3.12,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-16T14:10:20.290Z"
+  },
+  {
+    "transaction_id": "fc839288-6f6a-462f-927f-06c24acbc002",
+    "sku": "AMA-ELE-9866",
+    "channel": "Amazon",
+    "gross_revenue": 185.27,
+    "unit_cost": 55.1,
+    "platform_fee": 27.79,
+    "shipping_cost": 3.75,
+    "timestamp": "2026-04-16T13:46:06.189Z"
+  },
+  {
+    "transaction_id": "40d3ecc2-f6a3-42c9-8070-1babde96c32d",
+    "sku": "PHY-HOM-9542",
+    "channel": "Shopify",
+    "gross_revenue": 115.6,
+    "unit_cost": 35.38,
+    "platform_fee": 3.35,
+    "shipping_cost": 4.9,
+    "timestamp": "2026-04-16T13:32:33.159Z"
+  },
+  {
+    "transaction_id": "52a8ad0b-50b5-48d0-b43c-c5ef716dc529",
+    "sku": "SHO-ELE-2117",
+    "channel": "Physical POS",
+    "gross_revenue": 193.02,
+    "unit_cost": 67.82,
+    "platform_fee": 1.93,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-16T12:28:20.197Z"
+  },
+  {
+    "transaction_id": "8fe7cc91-6aa7-4ea9-848a-9b7ab5928cec",
+    "sku": "AMA-HEA-4401",
+    "channel": "Physical POS",
+    "gross_revenue": 219.69,
+    "unit_cost": 61.56,
+    "platform_fee": 2.2,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-16T05:52:11.145Z"
+  },
+  {
+    "transaction_id": "ce105224-10b1-4f8e-846e-c2a52dec275d",
+    "sku": "PHY-APP-1008",
+    "channel": "Physical POS",
+    "gross_revenue": 75.26,
+    "unit_cost": 49.03,
+    "platform_fee": 0.75,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-16T05:08:39.061Z"
+  },
+  {
+    "transaction_id": "6493d257-3238-43fb-b7a9-fa3ea6c12ea9",
+    "sku": "AMA-ACC-5717",
+    "channel": "TikTok Shop",
+    "gross_revenue": 161.63,
+    "unit_cost": 70.45,
+    "platform_fee": 8.08,
+    "shipping_cost": 7.8,
+    "timestamp": "2026-04-16T04:57:19.030Z"
+  },
+  {
+    "transaction_id": "b0f66450-efa8-4f4b-9e92-23fd9c8bda0c",
+    "sku": "SHO-APP-1136",
+    "channel": "Physical POS",
+    "gross_revenue": 197.66,
+    "unit_cost": 55.57,
+    "platform_fee": 1.98,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-16T00:28:58.576Z"
+  },
+  {
+    "transaction_id": "98b46b14-ae54-473d-823a-bab4da404858",
+    "sku": "PHY-ACC-3213",
+    "channel": "TikTok Shop",
+    "gross_revenue": 140.97,
+    "unit_cost": 67.56,
+    "platform_fee": 7.05,
+    "shipping_cost": 4.15,
+    "timestamp": "2026-04-15T23:32:04.851Z"
+  },
+  {
+    "transaction_id": "ce016213-5727-4bb6-99b9-a6c92aa798f8",
+    "sku": "TIK-ACC-6661",
+    "channel": "TikTok Shop",
+    "gross_revenue": 63.52,
+    "unit_cost": 16.63,
+    "platform_fee": 3.18,
+    "shipping_cost": 6.19,
+    "timestamp": "2026-04-15T21:07:31.593Z"
+  },
+  {
+    "transaction_id": "809025fa-b4c8-44e3-8399-b32542189445",
+    "sku": "AMA-HOM-8724",
+    "channel": "TikTok Shop",
+    "gross_revenue": 238.68,
+    "unit_cost": 87.18,
+    "platform_fee": 11.93,
+    "shipping_cost": 3.75,
+    "timestamp": "2026-04-15T18:49:54.630Z"
+  },
+  {
+    "transaction_id": "742fab93-635f-4c3f-8915-7a82e3204858",
+    "sku": "AMA-HOM-8724",
+    "channel": "Amazon",
+    "gross_revenue": 238.68,
+    "unit_cost": 87.18,
+    "platform_fee": 35.8,
+    "shipping_cost": 7.49,
+    "timestamp": "2026-04-15T18:29:21.120Z"
+  },
+  {
+    "transaction_id": "1e8676b7-c197-4995-ba3a-fa183c7e8dd1",
+    "sku": "TIK-ACC-3808",
+    "channel": "TikTok Shop",
+    "gross_revenue": 74.59,
+    "unit_cost": 27.75,
+    "platform_fee": 3.73,
+    "shipping_cost": 5.28,
+    "timestamp": "2026-04-15T17:27:51.440Z"
+  },
+  {
+    "transaction_id": "faef3030-f7f7-48e8-b980-15e4b154ecd1",
+    "sku": "SHO-ACC-5747",
+    "channel": "Physical POS",
+    "gross_revenue": 43.94,
+    "unit_cost": 28.79,
+    "platform_fee": 0.44,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-15T14:01:52.023Z"
+  },
+  {
+    "transaction_id": "0e9a2751-0089-45e3-8a0b-1e748916119f",
+    "sku": "PHY-HOM-9542",
+    "channel": "Physical POS",
+    "gross_revenue": 115.6,
+    "unit_cost": 35.38,
+    "platform_fee": 1.16,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-15T13:48:43.396Z"
+  },
+  {
+    "transaction_id": "c7319771-196a-4c1d-88e0-3770e35248c3",
+    "sku": "TIK-HEA-3190",
+    "channel": "Shopify",
+    "gross_revenue": 211.85,
+    "unit_cost": 59.14,
+    "platform_fee": 6.14,
+    "shipping_cost": 6.22,
+    "timestamp": "2026-04-15T13:17:05.784Z"
+  },
+  {
+    "transaction_id": "34f75ac9-466b-438a-9e0d-cf33cce471d7",
+    "sku": "TIK-ACC-9615",
+    "channel": "TikTok Shop",
+    "gross_revenue": 120.5,
+    "unit_cost": 58.46,
+    "platform_fee": 6.03,
+    "shipping_cost": 7.23,
+    "timestamp": "2026-04-15T11:49:20.961Z"
+  },
+  {
+    "transaction_id": "f64ba64c-9558-4869-86e4-454b2838c37d",
+    "sku": "SHO-APP-9355",
+    "channel": "Physical POS",
+    "gross_revenue": 67.78,
+    "unit_cost": 23.05,
+    "platform_fee": 0.68,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-15T10:24:21.891Z"
+  },
+  {
+    "transaction_id": "8f5c4d87-a042-41ad-8c6f-7e3c71e2f2ea",
+    "sku": "TIK-HEA-4759",
+    "channel": "Physical POS",
+    "gross_revenue": 130.15,
+    "unit_cost": 57.22,
+    "platform_fee": 1.3,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-15T09:16:24.911Z"
+  },
+  {
+    "transaction_id": "8b3e05b4-6aa0-4574-8401-d48ef662d416",
+    "sku": "PHY-ACC-9855",
+    "channel": "TikTok Shop",
+    "gross_revenue": 77.58,
+    "unit_cost": 28.48,
+    "platform_fee": 3.88,
+    "shipping_cost": 2.86,
+    "timestamp": "2026-04-15T07:54:21.039Z"
+  },
+  {
+    "transaction_id": "73f8da19-4ace-4252-95f8-294c579e8803",
+    "sku": "PHY-APP-4149",
+    "channel": "Shopify",
+    "gross_revenue": 202.01,
+    "unit_cost": 62.66,
+    "platform_fee": 5.86,
+    "shipping_cost": 2.91,
+    "timestamp": "2026-04-15T06:12:29.281Z"
+  },
+  {
+    "transaction_id": "31846ad5-aff7-4891-9a4f-74bb23e83c73",
+    "sku": "PHY-ACC-7313",
+    "channel": "Amazon",
+    "gross_revenue": 98.92,
+    "unit_cost": 36.56,
+    "platform_fee": 14.84,
+    "shipping_cost": 5.47,
+    "timestamp": "2026-04-15T02:18:41.978Z"
+  },
+  {
+    "transaction_id": "2deec30f-88b1-4998-b3e5-1d9d975acd0b",
+    "sku": "TIK-APP-6464",
+    "channel": "Physical POS",
+    "gross_revenue": 65.94,
+    "unit_cost": 40.41,
+    "platform_fee": 0.66,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-15T02:05:13.640Z"
+  },
+  {
+    "transaction_id": "97bcc503-4a00-447f-8b3a-750e65bee666",
+    "sku": "AMA-HEA-3123",
+    "channel": "Physical POS",
+    "gross_revenue": 262.66,
+    "unit_cost": 67.63,
+    "platform_fee": 2.63,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-15T01:53:47.247Z"
+  },
+  {
+    "transaction_id": "38040e4a-a2f4-4886-a33d-eb45a3d2098f",
+    "sku": "AMA-ACC-5717",
+    "channel": "Physical POS",
+    "gross_revenue": 161.63,
+    "unit_cost": 70.45,
+    "platform_fee": 1.62,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-14T23:18:45.421Z"
+  },
+  {
+    "transaction_id": "79ed9558-4818-4cb9-964b-71e72c4b3fb6",
+    "sku": "PHY-ACC-1171",
+    "channel": "Physical POS",
+    "gross_revenue": 154.02,
+    "unit_cost": 53.63,
+    "platform_fee": 1.54,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-14T22:32:44.518Z"
+  },
+  {
+    "transaction_id": "c724f0b5-43aa-4e3d-bdcb-8ec18e97ed67",
+    "sku": "TIK-HEA-1334",
+    "channel": "Amazon",
+    "gross_revenue": 155.69,
+    "unit_cost": 63.83,
+    "platform_fee": 23.35,
+    "shipping_cost": 3.17,
+    "timestamp": "2026-04-14T21:15:03.197Z"
+  },
+  {
+    "transaction_id": "e6e33f11-f2a1-451f-a781-4a3a79b06779",
+    "sku": "SHO-HEA-8932",
+    "channel": "Physical POS",
+    "gross_revenue": 177.67,
+    "unit_cost": 81.22,
+    "platform_fee": 1.78,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-14T20:45:51.750Z"
+  },
+  {
+    "transaction_id": "a464d78e-9b81-4ed4-b0a7-d4780f414154",
+    "sku": "TIK-HEA-4759",
+    "channel": "TikTok Shop",
+    "gross_revenue": 130.15,
+    "unit_cost": 57.22,
+    "platform_fee": 6.51,
+    "shipping_cost": 4.12,
+    "timestamp": "2026-04-14T18:25:49.461Z"
+  },
+  {
+    "transaction_id": "905f657e-d347-42e5-ab89-af1e653ab442",
+    "sku": "PHY-HOM-7404",
+    "channel": "TikTok Shop",
+    "gross_revenue": 107.42,
+    "unit_cost": 48.64,
+    "platform_fee": 5.37,
+    "shipping_cost": 7.29,
+    "timestamp": "2026-04-14T17:19:43.737Z"
+  },
+  {
+    "transaction_id": "c01715e2-b4e4-4e2e-910d-5bcf21ee0230",
+    "sku": "PHY-APP-1008",
+    "channel": "Shopify",
+    "gross_revenue": 75.26,
+    "unit_cost": 49.03,
+    "platform_fee": 2.18,
+    "shipping_cost": 7.32,
+    "timestamp": "2026-04-14T14:56:37.133Z"
+  },
+  {
+    "transaction_id": "3f2dde61-9090-4aeb-831f-9b3c8409c71c",
+    "sku": "PHY-HEA-6796",
+    "channel": "Physical POS",
+    "gross_revenue": 124.29,
+    "unit_cost": 71.47,
+    "platform_fee": 1.24,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-14T14:35:46.099Z"
+  },
+  {
+    "transaction_id": "5162ef2e-f3c1-498c-a9d2-fb60db5f14b3",
+    "sku": "PHY-ELE-8020",
+    "channel": "Amazon",
+    "gross_revenue": 213.15,
+    "unit_cost": 65.66,
+    "platform_fee": 31.97,
+    "shipping_cost": 4.64,
+    "timestamp": "2026-04-14T10:09:09.433Z"
+  },
+  {
+    "transaction_id": "cfcb9600-1b21-4454-a8cd-31fcad38d963",
+    "sku": "TIK-HOM-9412",
+    "channel": "TikTok Shop",
+    "gross_revenue": 29.63,
+    "unit_cost": 8.35,
+    "platform_fee": 1.48,
+    "shipping_cost": 5.42,
+    "timestamp": "2026-04-14T08:48:10.947Z"
+  },
+  {
+    "transaction_id": "9bc26023-f156-4f76-a3eb-9769536c8af0",
+    "sku": "AMA-ACC-5717",
+    "channel": "Physical POS",
+    "gross_revenue": 161.63,
+    "unit_cost": 70.45,
+    "platform_fee": 1.62,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-14T08:17:21.278Z"
+  },
+  {
+    "transaction_id": "00f7d4c1-11f6-4086-bfa9-85b82fb02ef4",
+    "sku": "PHY-HOM-1897",
+    "channel": "Physical POS",
+    "gross_revenue": 140.43,
+    "unit_cost": 89.44,
+    "platform_fee": 1.4,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-14T08:09:12.881Z"
+  },
+  {
+    "transaction_id": "280c2624-70ed-420d-bd23-2fd3609242e4",
+    "sku": "PHY-HOM-1897",
+    "channel": "Physical POS",
+    "gross_revenue": 140.43,
+    "unit_cost": 89.44,
+    "platform_fee": 1.4,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-14T06:25:42.313Z"
+  },
+  {
+    "transaction_id": "e234ab21-c0f4-48cc-a807-593ddcea3696",
+    "sku": "PHY-APP-2256",
+    "channel": "Physical POS",
+    "gross_revenue": 184.95,
+    "unit_cost": 60.67,
+    "platform_fee": 1.85,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-14T05:26:04.020Z"
+  },
+  {
+    "transaction_id": "7444460e-aa4b-4209-a04e-e5c64d49c558",
+    "sku": "TIK-HOM-2809",
+    "channel": "Amazon",
+    "gross_revenue": 65.23,
+    "unit_cost": 36.38,
+    "platform_fee": 9.78,
+    "shipping_cost": 3.35,
+    "timestamp": "2026-04-14T01:17:45.561Z"
+  },
+  {
+    "transaction_id": "85123f36-a059-40d3-a719-c43c1fe69b40",
+    "sku": "AMA-HEA-7933",
+    "channel": "Shopify",
+    "gross_revenue": 193.88,
+    "unit_cost": 98.61,
+    "platform_fee": 5.62,
+    "shipping_cost": 5.91,
+    "timestamp": "2026-04-14T01:08:31.448Z"
+  },
+  {
+    "transaction_id": "4cb0a4c9-8db0-453f-af4b-a798c896ed83",
+    "sku": "AMA-APP-7978",
+    "channel": "Amazon",
+    "gross_revenue": 125.57,
+    "unit_cost": 43.25,
+    "platform_fee": 18.84,
+    "shipping_cost": 2.75,
+    "timestamp": "2026-04-13T22:28:57.623Z"
+  },
+  {
+    "transaction_id": "475b41cc-6d60-448e-be76-6758b5dc6aec",
+    "sku": "TIK-APP-6464",
+    "channel": "Physical POS",
+    "gross_revenue": 65.94,
+    "unit_cost": 40.41,
+    "platform_fee": 0.66,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-13T21:52:52.975Z"
+  },
+  {
+    "transaction_id": "dd87da25-ad89-4d63-b6de-c3be9203019b",
+    "sku": "AMA-HOM-2661",
+    "channel": "Amazon",
+    "gross_revenue": 179.01,
+    "unit_cost": 67.61,
+    "platform_fee": 26.85,
+    "shipping_cost": 2.09,
+    "timestamp": "2026-04-13T21:41:48.650Z"
+  },
+  {
+    "transaction_id": "0303f1b7-d0f3-47fb-9d0c-f4c38b067558",
+    "sku": "SHO-APP-6586",
+    "channel": "TikTok Shop",
+    "gross_revenue": 117.14,
+    "unit_cost": 42.73,
+    "platform_fee": 5.86,
+    "shipping_cost": 5.79,
+    "timestamp": "2026-04-13T20:00:06.678Z"
+  },
+  {
+    "transaction_id": "ad3be2f7-8a09-443b-bc5f-170c0335f805",
+    "sku": "SS-ACC-WTCH-GLD",
+    "channel": "Shopify",
+    "gross_revenue": 129.99,
+    "unit_cost": 45,
+    "platform_fee": 3.77,
+    "shipping_cost": 3.75,
+    "timestamp": "2026-04-13T18:30:52.951Z"
+  },
+  {
+    "transaction_id": "b0da079c-61f7-4ca3-afa6-4ea165816eae",
+    "sku": "PHY-APP-5599",
+    "channel": "Physical POS",
+    "gross_revenue": 46.55,
+    "unit_cost": 14.8,
+    "platform_fee": 0.47,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-13T12:57:43.882Z"
+  },
+  {
+    "transaction_id": "3c971b52-5b0b-4078-891c-5feb4c2906ee",
+    "sku": "SS-ACC-WTCH-GLD",
+    "channel": "Amazon",
+    "gross_revenue": 129.99,
+    "unit_cost": 45,
+    "platform_fee": 19.5,
+    "shipping_cost": 7.71,
+    "timestamp": "2026-04-13T11:28:14.409Z"
+  },
+  {
+    "transaction_id": "ba03c838-c59f-4b13-b6b3-c12b3221548d",
+    "sku": "SHO-ELE-8268",
+    "channel": "Shopify",
+    "gross_revenue": 163.93,
+    "unit_cost": 89.8,
+    "platform_fee": 4.75,
+    "shipping_cost": 7.28,
+    "timestamp": "2026-04-13T10:47:18.190Z"
+  },
+  {
+    "transaction_id": "853a5e9a-7ed4-4901-a90f-0ae8c699b9a6",
+    "sku": "TIK-HOM-4599",
+    "channel": "Physical POS",
+    "gross_revenue": 168.41,
+    "unit_cost": 72.68,
+    "platform_fee": 1.68,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-13T09:30:56.571Z"
+  },
+  {
+    "transaction_id": "8e898abb-4aae-4dad-a74f-ff92b9f76efe",
+    "sku": "PHY-APP-4149",
+    "channel": "Amazon",
+    "gross_revenue": 202.01,
+    "unit_cost": 62.66,
+    "platform_fee": 30.3,
+    "shipping_cost": 3.39,
+    "timestamp": "2026-04-13T07:14:34.085Z"
+  },
+  {
+    "transaction_id": "7ca922d6-8c55-468a-9d85-2f9dd70652f0",
+    "sku": "TIK-ACC-6661",
+    "channel": "Amazon",
+    "gross_revenue": 63.52,
+    "unit_cost": 16.63,
+    "platform_fee": 9.53,
+    "shipping_cost": 2.02,
+    "timestamp": "2026-04-13T01:53:45.786Z"
+  },
+  {
+    "transaction_id": "289077dd-41f9-4254-8054-bd0019b59f19",
+    "sku": "SHO-HEA-8932",
+    "channel": "Shopify",
+    "gross_revenue": 177.67,
+    "unit_cost": 81.22,
+    "platform_fee": 5.15,
+    "shipping_cost": 7.05,
+    "timestamp": "2026-04-13T01:02:50.093Z"
+  },
+  {
+    "transaction_id": "bbeceb20-27b7-4a78-9706-cfab2f752374",
+    "sku": "AMA-ELE-5763",
+    "channel": "Shopify",
+    "gross_revenue": 95.75,
+    "unit_cost": 27.56,
+    "platform_fee": 2.78,
+    "shipping_cost": 6.9,
+    "timestamp": "2026-04-13T00:57:40.068Z"
+  },
+  {
+    "transaction_id": "8d46ac0b-66ef-4e83-8ff8-61157628c65a",
+    "sku": "PHY-ELE-8020",
+    "channel": "TikTok Shop",
+    "gross_revenue": 213.15,
+    "unit_cost": 65.66,
+    "platform_fee": 10.66,
+    "shipping_cost": 3.9,
+    "timestamp": "2026-04-13T00:09:52.633Z"
+  },
+  {
+    "transaction_id": "7284a106-230b-49a3-af4a-70d619d0e353",
+    "sku": "PHY-APP-3955",
+    "channel": "Shopify",
+    "gross_revenue": 82.86,
+    "unit_cost": 21.03,
+    "platform_fee": 2.4,
+    "shipping_cost": 2.42,
+    "timestamp": "2026-04-12T16:01:44.370Z"
+  },
+  {
+    "transaction_id": "90873fe0-c784-4dd7-ae90-fdcc07e91666",
+    "sku": "TIK-HEA-3599",
+    "channel": "Amazon",
+    "gross_revenue": 130.63,
+    "unit_cost": 42.1,
+    "platform_fee": 19.59,
+    "shipping_cost": 2.99,
+    "timestamp": "2026-04-12T15:37:49.053Z"
+  },
+  {
+    "transaction_id": "cc672feb-776d-453a-b38d-282ebe951e3b",
+    "sku": "AMA-APP-7446",
+    "channel": "Physical POS",
+    "gross_revenue": 14.35,
+    "unit_cost": 7.45,
+    "platform_fee": 0.14,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-12T14:25:55.882Z"
+  },
+  {
+    "transaction_id": "ab599a46-1dae-4039-a135-2e021abfbcf5",
+    "sku": "SHO-ELE-8268",
+    "channel": "Physical POS",
+    "gross_revenue": 163.93,
+    "unit_cost": 89.8,
+    "platform_fee": 1.64,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-12T12:48:26.164Z"
+  },
+  {
+    "transaction_id": "4d5c3028-1d62-4b70-a142-0efe8c4df610",
+    "sku": "PHY-APP-2941",
+    "channel": "Amazon",
+    "gross_revenue": 114.7,
+    "unit_cost": 65.55,
+    "platform_fee": 17.2,
+    "shipping_cost": 4.45,
+    "timestamp": "2026-04-12T10:18:20.053Z"
+  },
+  {
+    "transaction_id": "9bbe90b0-0e68-4cb4-aaac-30dc1ac825ea",
+    "sku": "PHY-ACC-1171",
+    "channel": "TikTok Shop",
+    "gross_revenue": 154.02,
+    "unit_cost": 53.63,
+    "platform_fee": 7.7,
+    "shipping_cost": 7.18,
+    "timestamp": "2026-04-12T06:37:55.140Z"
+  },
+  {
+    "transaction_id": "6b18b158-5fb8-4865-bc17-0bb4b73586d1",
+    "sku": "SS-ACC-WTCH-GLD",
+    "channel": "Shopify",
+    "gross_revenue": 129.99,
+    "unit_cost": 45,
+    "platform_fee": 3.77,
+    "shipping_cost": 7.98,
+    "timestamp": "2026-04-12T05:18:58.480Z"
+  },
+  {
+    "transaction_id": "20f6f398-d5fc-400a-b4f9-eff6969af069",
+    "sku": "SHO-ELE-2117",
+    "channel": "TikTok Shop",
+    "gross_revenue": 193.02,
+    "unit_cost": 67.82,
+    "platform_fee": 9.65,
+    "shipping_cost": 3.03,
+    "timestamp": "2026-04-11T18:27:05.893Z"
+  },
+  {
+    "transaction_id": "1a0234cd-a558-4a0d-900e-42820c3fa072",
+    "sku": "AMA-ACC-5717",
+    "channel": "Shopify",
+    "gross_revenue": 161.63,
+    "unit_cost": 70.45,
+    "platform_fee": 4.69,
+    "shipping_cost": 6.75,
+    "timestamp": "2026-04-11T18:09:46.862Z"
+  },
+  {
+    "transaction_id": "223f64ba-702b-4a9a-8525-73401ba371d6",
+    "sku": "PHY-APP-2256",
+    "channel": "Shopify",
+    "gross_revenue": 184.95,
+    "unit_cost": 60.67,
+    "platform_fee": 5.36,
+    "shipping_cost": 4.42,
+    "timestamp": "2026-04-11T17:16:31.220Z"
+  },
+  {
+    "transaction_id": "63567890-e499-4773-96b0-d4c70ed8e977",
+    "sku": "PHY-APP-3955",
+    "channel": "Shopify",
+    "gross_revenue": 82.86,
+    "unit_cost": 21.03,
+    "platform_fee": 2.4,
+    "shipping_cost": 7.2,
+    "timestamp": "2026-04-11T13:39:26.901Z"
+  },
+  {
+    "transaction_id": "9b259593-4dbd-4377-916b-c22b3ddfaefe",
+    "sku": "PHY-APP-3955",
+    "channel": "Physical POS",
+    "gross_revenue": 82.86,
+    "unit_cost": 21.03,
+    "platform_fee": 0.83,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-11T12:54:52.608Z"
+  },
+  {
+    "transaction_id": "b282a356-08ab-4921-8c2d-ccc8f2896765",
+    "sku": "SHO-HEA-4211",
+    "channel": "Physical POS",
+    "gross_revenue": 182.68,
+    "unit_cost": 48.85,
+    "platform_fee": 1.83,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-11T11:06:01.806Z"
+  },
+  {
+    "transaction_id": "ed73af80-7cf8-437f-86a7-007c4dbd2859",
+    "sku": "TIK-ACC-9605",
+    "channel": "Physical POS",
+    "gross_revenue": 124.78,
+    "unit_cost": 70.69,
+    "platform_fee": 1.25,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-11T10:31:02.002Z"
+  },
+  {
+    "transaction_id": "0a5fe235-a040-4887-b48c-66835a31e0ec",
+    "sku": "SS-ACC-WTCH-GLD",
+    "channel": "Shopify",
+    "gross_revenue": 129.99,
+    "unit_cost": 45,
+    "platform_fee": 3.77,
+    "shipping_cost": 4.5,
+    "timestamp": "2026-04-11T02:46:51.715Z"
+  },
+  {
+    "transaction_id": "72ca070f-0858-42ec-88de-58dc01f946d7",
+    "sku": "TIK-APP-4014",
+    "channel": "Physical POS",
+    "gross_revenue": 39.46,
+    "unit_cost": 16.31,
+    "platform_fee": 0.39,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-10T18:05:05.553Z"
+  },
+  {
+    "transaction_id": "3dd686c6-446e-46db-9bb4-de194a7e0820",
+    "sku": "SHO-HOM-4992",
+    "channel": "Physical POS",
+    "gross_revenue": 54.15,
+    "unit_cost": 19.66,
+    "platform_fee": 0.54,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-10T15:00:55.068Z"
+  },
+  {
+    "transaction_id": "770799e5-3085-4b59-b28e-1d0fb960cc8d",
+    "sku": "SHO-HEA-2397",
+    "channel": "Physical POS",
+    "gross_revenue": 74.09,
+    "unit_cost": 28.73,
+    "platform_fee": 0.74,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-10T13:37:08.819Z"
+  },
+  {
+    "transaction_id": "f13d3493-6417-46c2-a5e0-f8f07fc6a1c6",
+    "sku": "SHO-HOM-3898",
+    "channel": "Amazon",
+    "gross_revenue": 244.33,
+    "unit_cost": 76.67,
+    "platform_fee": 36.65,
+    "shipping_cost": 4.28,
+    "timestamp": "2026-04-10T09:55:31.908Z"
+  },
+  {
+    "transaction_id": "b5cc1d3b-c20e-462b-85ef-e6ff758c75b9",
+    "sku": "PHY-HOM-1897",
+    "channel": "Amazon",
+    "gross_revenue": 140.43,
+    "unit_cost": 89.44,
+    "platform_fee": 21.06,
+    "shipping_cost": 7.24,
+    "timestamp": "2026-04-10T02:51:07.732Z"
+  },
+  {
+    "transaction_id": "9595390e-161d-40cd-a3b0-50ea72d6f7d6",
+    "sku": "TIK-APP-4014",
+    "channel": "Physical POS",
+    "gross_revenue": 39.46,
+    "unit_cost": 16.31,
+    "platform_fee": 0.39,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-10T02:05:48.956Z"
+  },
+  {
+    "transaction_id": "a0b8697d-1557-443a-9343-42ce4e6d368a",
+    "sku": "SHO-HOM-3898",
+    "channel": "TikTok Shop",
+    "gross_revenue": 244.33,
+    "unit_cost": 76.67,
+    "platform_fee": 12.22,
+    "shipping_cost": 5.47,
+    "timestamp": "2026-04-10T00:15:32.950Z"
+  },
+  {
+    "transaction_id": "66edaf22-c79c-4ce5-a1bb-9494f8473490",
+    "sku": "PHY-HOM-1897",
+    "channel": "Physical POS",
+    "gross_revenue": 140.43,
+    "unit_cost": 89.44,
+    "platform_fee": 1.4,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-09T18:44:59.981Z"
+  },
+  {
+    "transaction_id": "c641c3de-c394-438b-bca3-55528d8c7c04",
+    "sku": "TIK-ACC-1841",
+    "channel": "Amazon",
+    "gross_revenue": 31.53,
+    "unit_cost": 13.99,
+    "platform_fee": 4.73,
+    "shipping_cost": 3.06,
+    "timestamp": "2026-04-09T18:02:40.981Z"
+  },
+  {
+    "transaction_id": "934f0737-4661-484e-85e3-41dff9464afc",
+    "sku": "SHO-HOM-4992",
+    "channel": "Amazon",
+    "gross_revenue": 54.15,
+    "unit_cost": 19.66,
+    "platform_fee": 8.12,
+    "shipping_cost": 4.44,
+    "timestamp": "2026-04-09T17:51:57.936Z"
+  },
+  {
+    "transaction_id": "68f29e5e-6518-40fb-a094-e0f8d34966ec",
+    "sku": "TIK-HOM-9412",
+    "channel": "Shopify",
+    "gross_revenue": 29.63,
+    "unit_cost": 8.35,
+    "platform_fee": 0.86,
+    "shipping_cost": 5.85,
+    "timestamp": "2026-04-09T15:37:52.123Z"
+  },
+  {
+    "transaction_id": "a13202eb-1301-4217-b26f-022380db83db",
+    "sku": "PHY-APP-2941",
+    "channel": "TikTok Shop",
+    "gross_revenue": 114.7,
+    "unit_cost": 65.55,
+    "platform_fee": 5.74,
+    "shipping_cost": 2.94,
+    "timestamp": "2026-04-09T13:47:30.706Z"
+  },
+  {
+    "transaction_id": "db70b391-bfb8-44a9-b389-069219ca8703",
+    "sku": "SHO-ELE-8268",
+    "channel": "Amazon",
+    "gross_revenue": 163.93,
+    "unit_cost": 89.8,
+    "platform_fee": 24.59,
+    "shipping_cost": 6.58,
+    "timestamp": "2026-04-09T03:58:49.072Z"
+  },
+  {
+    "transaction_id": "846908e7-f1c4-41b4-85c7-493a2c657f9f",
+    "sku": "AMA-APP-7978",
+    "channel": "Amazon",
+    "gross_revenue": 125.57,
+    "unit_cost": 43.25,
+    "platform_fee": 18.84,
+    "shipping_cost": 7.81,
+    "timestamp": "2026-04-09T02:01:05.011Z"
+  },
+  {
+    "transaction_id": "35d0c427-48e5-4e7b-a363-949bcb7f45c3",
+    "sku": "PHY-APP-2941",
+    "channel": "TikTok Shop",
+    "gross_revenue": 114.7,
+    "unit_cost": 65.55,
+    "platform_fee": 5.74,
+    "shipping_cost": 4.03,
+    "timestamp": "2026-04-08T23:51:06.464Z"
+  },
+  {
+    "transaction_id": "0f669c96-b570-4299-8db5-8aca484e9f7c",
+    "sku": "AMA-APP-9088",
+    "channel": "TikTok Shop",
+    "gross_revenue": 87.46,
+    "unit_cost": 29.52,
+    "platform_fee": 4.37,
+    "shipping_cost": 4.59,
+    "timestamp": "2026-04-08T23:22:58.509Z"
+  },
+  {
+    "transaction_id": "2ad0d67a-962c-41a4-ab24-7ca6f4bd9fd2",
+    "sku": "SHO-HOM-3898",
+    "channel": "TikTok Shop",
+    "gross_revenue": 244.33,
+    "unit_cost": 76.67,
+    "platform_fee": 12.22,
+    "shipping_cost": 4.41,
+    "timestamp": "2026-04-08T20:16:01.854Z"
+  },
+  {
+    "transaction_id": "0d4bbb60-80e2-4caf-adf5-546a96685eaa",
+    "sku": "TIK-HOM-9412",
+    "channel": "Amazon",
+    "gross_revenue": 29.63,
+    "unit_cost": 8.35,
+    "platform_fee": 4.44,
+    "shipping_cost": 7.87,
+    "timestamp": "2026-04-08T18:08:45.337Z"
+  },
+  {
+    "transaction_id": "3e5d54ea-8b0b-4149-b4e0-b435e7c0b192",
+    "sku": "AMA-HEA-7933",
+    "channel": "Physical POS",
+    "gross_revenue": 193.88,
+    "unit_cost": 98.61,
+    "platform_fee": 1.94,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-08T17:54:12.582Z"
+  },
+  {
+    "transaction_id": "38783f63-8d53-424d-8e97-7c8bada53c03",
+    "sku": "SS-ACC-WTCH-GLD",
+    "channel": "TikTok Shop",
+    "gross_revenue": 129.99,
+    "unit_cost": 45,
+    "platform_fee": 6.5,
+    "shipping_cost": 4.77,
+    "timestamp": "2026-04-08T15:21:46.769Z"
+  },
+  {
+    "transaction_id": "bc30a0cb-8179-4a5e-b7d6-eb6db35c39a9",
+    "sku": "PHY-HEA-8240",
+    "channel": "Physical POS",
+    "gross_revenue": 335.73,
+    "unit_cost": 93.37,
+    "platform_fee": 3.36,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-08T10:32:14.112Z"
+  },
+  {
+    "transaction_id": "e3cfa154-df75-48ab-81a8-93e9c029157f",
+    "sku": "TIK-HEA-4759",
+    "channel": "TikTok Shop",
+    "gross_revenue": 130.15,
+    "unit_cost": 57.22,
+    "platform_fee": 6.51,
+    "shipping_cost": 4.85,
+    "timestamp": "2026-04-08T05:12:11.449Z"
+  },
+  {
+    "transaction_id": "a99fccfc-1abe-495d-9c11-513446586c75",
+    "sku": "AMA-ACC-6845",
+    "channel": "TikTok Shop",
+    "gross_revenue": 271.28,
+    "unit_cost": 83.78,
+    "platform_fee": 13.56,
+    "shipping_cost": 6.41,
+    "timestamp": "2026-04-08T05:06:05.063Z"
+  },
+  {
+    "transaction_id": "2dea7dc9-cd4c-47dc-af33-ec3e8dd2dded",
+    "sku": "PHY-ELE-4374",
+    "channel": "Amazon",
+    "gross_revenue": 152.93,
+    "unit_cost": 90.6,
+    "platform_fee": 22.94,
+    "shipping_cost": 7.22,
+    "timestamp": "2026-04-08T04:45:01.528Z"
+  },
+  {
+    "transaction_id": "41315b6d-f42f-4d9e-b594-634d5d9c7011",
+    "sku": "SHO-ACC-2064",
+    "channel": "Physical POS",
+    "gross_revenue": 263.06,
+    "unit_cost": 82.79,
+    "platform_fee": 2.63,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-08T04:19:03.575Z"
+  },
+  {
+    "transaction_id": "86f56e3c-4cc1-4fdd-b745-692fe7e48c72",
+    "sku": "TIK-ACC-1841",
+    "channel": "TikTok Shop",
+    "gross_revenue": 31.53,
+    "unit_cost": 13.99,
+    "platform_fee": 1.58,
+    "shipping_cost": 2.99,
+    "timestamp": "2026-04-07T18:51:39.422Z"
+  },
+  {
+    "transaction_id": "7e40981d-56f0-41d5-ad79-9d1292c479f4",
+    "sku": "PHY-HEA-6796",
+    "channel": "Physical POS",
+    "gross_revenue": 124.29,
+    "unit_cost": 71.47,
+    "platform_fee": 1.24,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-07T13:46:23.056Z"
+  },
+  {
+    "transaction_id": "91ed8a85-4832-4a62-acda-d8e8fa1bee13",
+    "sku": "TIK-ACC-9605",
+    "channel": "Physical POS",
+    "gross_revenue": 124.78,
+    "unit_cost": 70.69,
+    "platform_fee": 1.25,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-07T13:15:21.704Z"
+  },
+  {
+    "transaction_id": "68616d37-f14a-4189-974e-87ac869b9018",
+    "sku": "SS-LST-TEE-Gry-L",
+    "channel": "Shopify",
+    "gross_revenue": 24.5,
+    "unit_cost": 8,
+    "platform_fee": 0.71,
+    "shipping_cost": 2.03,
+    "timestamp": "2026-04-07T12:25:07.488Z"
+  },
+  {
+    "transaction_id": "2ff58808-9000-4f52-898d-75bc05a91770",
+    "sku": "PHY-HOM-2790",
+    "channel": "Physical POS",
+    "gross_revenue": 24.85,
+    "unit_cost": 10.21,
+    "platform_fee": 0.25,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-07T09:52:42.321Z"
+  },
+  {
+    "transaction_id": "13223caf-e95f-4047-9627-0818659a28d4",
+    "sku": "TIK-HOM-7831",
+    "channel": "Shopify",
+    "gross_revenue": 193.76,
+    "unit_cost": 98.77,
+    "platform_fee": 5.62,
+    "shipping_cost": 2.4,
+    "timestamp": "2026-04-07T08:07:52.144Z"
+  },
+  {
+    "transaction_id": "086394d6-f18b-4443-ad6b-08d20a5d8cd1",
+    "sku": "PHY-APP-5599",
+    "channel": "Physical POS",
+    "gross_revenue": 46.55,
+    "unit_cost": 14.8,
+    "platform_fee": 0.47,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-07T07:31:55.405Z"
+  },
+  {
+    "transaction_id": "63711d28-19da-4bb1-bb9c-ba09245881e8",
+    "sku": "SHO-HOM-4901",
+    "channel": "Amazon",
+    "gross_revenue": 231.33,
+    "unit_cost": 68.78,
+    "platform_fee": 34.7,
+    "shipping_cost": 7.73,
+    "timestamp": "2026-04-07T04:26:18.922Z"
+  },
+  {
+    "transaction_id": "529d4bf0-4f41-436c-8c05-4d21cae73599",
+    "sku": "TIK-HOM-5974",
+    "channel": "Amazon",
+    "gross_revenue": 59.69,
+    "unit_cost": 21.97,
+    "platform_fee": 8.95,
+    "shipping_cost": 4.09,
+    "timestamp": "2026-04-07T02:40:16.101Z"
+  },
+  {
+    "transaction_id": "fe4a801e-fdfc-421d-be5d-c292a5506715",
+    "sku": "PHY-HOM-9412",
+    "channel": "Shopify",
+    "gross_revenue": 217.47,
+    "unit_cost": 81.56,
+    "platform_fee": 6.31,
+    "shipping_cost": 5.7,
+    "timestamp": "2026-04-07T00:05:39.685Z"
+  },
+  {
+    "transaction_id": "36ece4ce-c095-4d8d-84c9-5df0df893c3c",
+    "sku": "TIK-HOM-8287",
+    "channel": "Shopify",
+    "gross_revenue": 31.31,
+    "unit_cost": 12.92,
+    "platform_fee": 0.91,
+    "shipping_cost": 3.14,
+    "timestamp": "2026-04-06T19:41:42.932Z"
+  },
+  {
+    "transaction_id": "1260b808-0319-4f32-892b-aa91ec267b93",
+    "sku": "TIK-HOM-9008",
+    "channel": "Amazon",
+    "gross_revenue": 73.01,
+    "unit_cost": 44.84,
+    "platform_fee": 10.95,
+    "shipping_cost": 7.3,
+    "timestamp": "2026-04-06T17:43:18.449Z"
+  },
+  {
+    "transaction_id": "4e74ea61-a2ae-428f-b7bc-81efe7ecdafa",
+    "sku": "TIK-HEA-4759",
+    "channel": "Amazon",
+    "gross_revenue": 130.15,
+    "unit_cost": 57.22,
+    "platform_fee": 19.52,
+    "shipping_cost": 3.1,
+    "timestamp": "2026-04-06T17:00:31.435Z"
+  },
+  {
+    "transaction_id": "9fad0da3-950d-43d8-9c38-7c2d982dae45",
+    "sku": "TIK-ACC-1841",
+    "channel": "Amazon",
+    "gross_revenue": 31.53,
+    "unit_cost": 13.99,
+    "platform_fee": 4.73,
+    "shipping_cost": 6.85,
+    "timestamp": "2026-04-06T15:35:36.950Z"
+  },
+  {
+    "transaction_id": "1ccf1c08-d184-4f29-a371-a48fb847a3f1",
+    "sku": "AMA-HEA-7131",
+    "channel": "Amazon",
+    "gross_revenue": 218.53,
+    "unit_cost": 75.17,
+    "platform_fee": 32.78,
+    "shipping_cost": 2.06,
+    "timestamp": "2026-04-06T15:34:01.860Z"
+  },
+  {
+    "transaction_id": "6b5711fb-45cc-4033-a997-3cd84f11aef3",
+    "sku": "AMA-APP-9088",
+    "channel": "Shopify",
+    "gross_revenue": 87.46,
+    "unit_cost": 29.52,
+    "platform_fee": 2.54,
+    "shipping_cost": 3.91,
+    "timestamp": "2026-04-06T14:03:21.923Z"
+  },
+  {
+    "transaction_id": "92fb0e0e-6625-41c4-890e-e4971d552e5b",
+    "sku": "TIK-HOM-2809",
+    "channel": "TikTok Shop",
+    "gross_revenue": 65.23,
+    "unit_cost": 36.38,
+    "platform_fee": 3.26,
+    "shipping_cost": 2.42,
+    "timestamp": "2026-04-06T08:28:46.069Z"
+  },
+  {
+    "transaction_id": "a9be5fa3-4fc1-4adb-a6c0-ede28b3f4dad",
+    "sku": "SS-PRO-BLK-M",
+    "channel": "Amazon",
+    "gross_revenue": 55,
+    "unit_cost": 18.5,
+    "platform_fee": 8.25,
+    "shipping_cost": 4.01,
+    "timestamp": "2026-04-06T07:15:18.319Z"
+  },
+  {
+    "transaction_id": "3c6ec961-51d5-4f7d-862a-af1ed178853f",
+    "sku": "SHO-HOM-3898",
+    "channel": "Amazon",
+    "gross_revenue": 244.33,
+    "unit_cost": 76.67,
+    "platform_fee": 36.65,
+    "shipping_cost": 6.16,
+    "timestamp": "2026-04-06T05:45:53.908Z"
+  },
+  {
+    "transaction_id": "480decca-b908-477f-b9ee-58f91e7f4d41",
+    "sku": "PHY-APP-1008",
+    "channel": "Physical POS",
+    "gross_revenue": 75.26,
+    "unit_cost": 49.03,
+    "platform_fee": 0.75,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-06T01:28:22.329Z"
+  },
+  {
+    "transaction_id": "1168998b-6e83-4a07-a909-9d2749f119e3",
+    "sku": "SHO-ELE-6484",
+    "channel": "Physical POS",
+    "gross_revenue": 109.25,
+    "unit_cost": 32.67,
+    "platform_fee": 1.09,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-05T23:42:12.198Z"
+  },
+  {
+    "transaction_id": "02e15ef0-3362-435f-96ad-9ac3fef5d55e",
+    "sku": "PHY-HOM-9542",
+    "channel": "Shopify",
+    "gross_revenue": 115.6,
+    "unit_cost": 35.38,
+    "platform_fee": 3.35,
+    "shipping_cost": 4.77,
+    "timestamp": "2026-04-05T17:20:32.045Z"
+  },
+  {
+    "transaction_id": "afc3dfec-6fd0-482a-a9a0-1373bfcbfd27",
+    "sku": "SHO-HEA-4211",
+    "channel": "Amazon",
+    "gross_revenue": 182.68,
+    "unit_cost": 48.85,
+    "platform_fee": 27.4,
+    "shipping_cost": 3.22,
+    "timestamp": "2026-04-05T16:33:33.663Z"
+  },
+  {
+    "transaction_id": "63ae6a3c-a37f-43d1-bdee-4b08acc91070",
+    "sku": "TIK-ACC-6661",
+    "channel": "TikTok Shop",
+    "gross_revenue": 63.52,
+    "unit_cost": 16.63,
+    "platform_fee": 3.18,
+    "shipping_cost": 7.15,
+    "timestamp": "2026-04-05T16:32:05.484Z"
+  },
+  {
+    "transaction_id": "4ec7c184-3f16-412c-b937-3ef4bafcf0b3",
+    "sku": "TIK-ACC-1841",
+    "channel": "Amazon",
+    "gross_revenue": 31.53,
+    "unit_cost": 13.99,
+    "platform_fee": 4.73,
+    "shipping_cost": 2.11,
+    "timestamp": "2026-04-05T16:29:23.992Z"
+  },
+  {
+    "transaction_id": "11c134b6-f922-4b58-a600-ffb30ee9d4ac",
+    "sku": "TIK-HOM-7831",
+    "channel": "TikTok Shop",
+    "gross_revenue": 193.76,
+    "unit_cost": 98.77,
+    "platform_fee": 9.69,
+    "shipping_cost": 3.22,
+    "timestamp": "2026-04-05T14:29:09.284Z"
+  },
+  {
+    "transaction_id": "7e62b6d4-4c0d-4475-9ea0-1b094dd32a8e",
+    "sku": "TIK-HOM-4599",
+    "channel": "Amazon",
+    "gross_revenue": 168.41,
+    "unit_cost": 72.68,
+    "platform_fee": 25.26,
+    "shipping_cost": 7.6,
+    "timestamp": "2026-04-05T14:03:32.726Z"
+  },
+  {
+    "transaction_id": "c7cb077d-eb5e-42f1-974a-69a4d679750f",
+    "sku": "AMA-ELE-9866",
+    "channel": "Shopify",
+    "gross_revenue": 185.27,
+    "unit_cost": 55.1,
+    "platform_fee": 5.37,
+    "shipping_cost": 2.28,
+    "timestamp": "2026-04-05T06:59:17.006Z"
+  },
+  {
+    "transaction_id": "c8af19d4-6692-41b3-b772-d2a0230264f0",
+    "sku": "AMA-HOM-9115",
+    "channel": "TikTok Shop",
+    "gross_revenue": 184.74,
+    "unit_cost": 79.71,
+    "platform_fee": 9.24,
+    "shipping_cost": 3.77,
+    "timestamp": "2026-04-05T05:48:24.857Z"
+  },
+  {
+    "transaction_id": "51b86eec-627b-4a2f-ace5-924cb8473498",
+    "sku": "SHO-ELE-8268",
+    "channel": "Physical POS",
+    "gross_revenue": 163.93,
+    "unit_cost": 89.8,
+    "platform_fee": 1.64,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-05T05:06:34.972Z"
+  },
+  {
+    "transaction_id": "a9ab58a1-dc80-4e9e-9e01-9cd78f578324",
+    "sku": "SHO-HOM-4901",
+    "channel": "Shopify",
+    "gross_revenue": 231.33,
+    "unit_cost": 68.78,
+    "platform_fee": 6.71,
+    "shipping_cost": 3.22,
+    "timestamp": "2026-04-05T04:57:38.280Z"
+  },
+  {
+    "transaction_id": "b26d9cfc-9897-40f7-8ea7-c415e51674ee",
+    "sku": "TIK-ACC-8085",
+    "channel": "Shopify",
+    "gross_revenue": 90.51,
+    "unit_cost": 28.09,
+    "platform_fee": 2.62,
+    "shipping_cost": 5.34,
+    "timestamp": "2026-04-05T04:48:39.318Z"
+  },
+  {
+    "transaction_id": "c39f2c93-899a-4aca-9a6a-556390ac9383",
+    "sku": "SHO-APP-6240",
+    "channel": "TikTok Shop",
+    "gross_revenue": 51.59,
+    "unit_cost": 21.87,
+    "platform_fee": 2.58,
+    "shipping_cost": 5.46,
+    "timestamp": "2026-04-05T00:51:13.626Z"
+  },
+  {
+    "transaction_id": "d1cfb8c8-4494-4eb7-bd4a-fbcb3fbe7f8a",
+    "sku": "SS-ACC-WTCH-GLD",
+    "channel": "Physical POS",
+    "gross_revenue": 129.99,
+    "unit_cost": 45,
+    "platform_fee": 1.3,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-05T00:07:23.213Z"
+  },
+  {
+    "transaction_id": "9e860b99-767c-48cc-b5ea-56b40fbe80e8",
+    "sku": "PHY-APP-4434",
+    "channel": "TikTok Shop",
+    "gross_revenue": 158.43,
+    "unit_cost": 75.48,
+    "platform_fee": 7.92,
+    "shipping_cost": 7.36,
+    "timestamp": "2026-04-04T20:40:00.026Z"
+  },
+  {
+    "transaction_id": "77fe972c-57f3-4326-872b-b6d9f989f340",
+    "sku": "TIK-ACC-9605",
+    "channel": "TikTok Shop",
+    "gross_revenue": 124.78,
+    "unit_cost": 70.69,
+    "platform_fee": 6.24,
+    "shipping_cost": 6.48,
+    "timestamp": "2026-04-04T15:01:59.169Z"
+  },
+  {
+    "transaction_id": "a663f705-edc7-44b2-99a3-f9eb2b1506ad",
+    "sku": "PHY-APP-3997",
+    "channel": "Amazon",
+    "gross_revenue": 280.04,
+    "unit_cost": 81.28,
+    "platform_fee": 42.01,
+    "shipping_cost": 3.95,
+    "timestamp": "2026-04-04T08:09:57.315Z"
+  },
+  {
+    "transaction_id": "97b9c1dd-aa18-4eb9-abb3-97ac53bde2a1",
+    "sku": "TIK-ACC-6661",
+    "channel": "Physical POS",
+    "gross_revenue": 63.52,
+    "unit_cost": 16.63,
+    "platform_fee": 0.64,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-04T07:52:06.851Z"
+  },
+  {
+    "transaction_id": "a0301df6-4a5a-4495-860e-98dc2a892fd7",
+    "sku": "PHY-ACC-7313",
+    "channel": "Amazon",
+    "gross_revenue": 98.92,
+    "unit_cost": 36.56,
+    "platform_fee": 14.84,
+    "shipping_cost": 3.41,
+    "timestamp": "2026-04-04T02:50:03.397Z"
+  },
+  {
+    "transaction_id": "4ea1a18a-29ed-43ca-954f-4e7f0ee7df79",
+    "sku": "AMA-HOM-4178",
+    "channel": "Shopify",
+    "gross_revenue": 312.04,
+    "unit_cost": 81.55,
+    "platform_fee": 9.05,
+    "shipping_cost": 5.78,
+    "timestamp": "2026-04-03T23:32:01.553Z"
+  },
+  {
+    "transaction_id": "a3cd176e-f458-4916-9ad9-269da83d6bd7",
+    "sku": "SHO-HOM-4992",
+    "channel": "Physical POS",
+    "gross_revenue": 54.15,
+    "unit_cost": 19.66,
+    "platform_fee": 0.54,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-03T22:35:58.824Z"
+  },
+  {
+    "transaction_id": "ad1defca-a5fe-4cca-984f-248372c608ca",
+    "sku": "TIK-HEA-4759",
+    "channel": "Shopify",
+    "gross_revenue": 130.15,
+    "unit_cost": 57.22,
+    "platform_fee": 3.77,
+    "shipping_cost": 7.54,
+    "timestamp": "2026-04-03T18:30:08.559Z"
+  },
+  {
+    "transaction_id": "b7601108-cd93-4edd-9bce-baab2a7e3e22",
+    "sku": "TIK-HOM-6647",
+    "channel": "TikTok Shop",
+    "gross_revenue": 222.25,
+    "unit_cost": 73.99,
+    "platform_fee": 11.11,
+    "shipping_cost": 2.96,
+    "timestamp": "2026-04-03T17:04:18.518Z"
+  },
+  {
+    "transaction_id": "5933d70a-23ab-4b0f-a575-d7a521a65368",
+    "sku": "AMA-ACC-5216",
+    "channel": "TikTok Shop",
+    "gross_revenue": 31.93,
+    "unit_cost": 17.64,
+    "platform_fee": 1.6,
+    "shipping_cost": 4.59,
+    "timestamp": "2026-04-03T12:47:01.145Z"
+  },
+  {
+    "transaction_id": "1ffde8fa-3602-45a8-94db-d02b97314844",
+    "sku": "AMA-APP-7978",
+    "channel": "Physical POS",
+    "gross_revenue": 125.57,
+    "unit_cost": 43.25,
+    "platform_fee": 1.26,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-03T11:09:29.707Z"
+  },
+  {
+    "transaction_id": "7ee7234a-4912-442b-8734-e838e5569c81",
+    "sku": "PHY-HOM-9542",
+    "channel": "Amazon",
+    "gross_revenue": 115.6,
+    "unit_cost": 35.38,
+    "platform_fee": 17.34,
+    "shipping_cost": 5.94,
+    "timestamp": "2026-04-03T10:00:26.507Z"
+  },
+  {
+    "transaction_id": "0a7c54c6-7b20-4568-b76f-4b4b7d10ac71",
+    "sku": "SHO-ELE-2042",
+    "channel": "Shopify",
+    "gross_revenue": 61.73,
+    "unit_cost": 20.68,
+    "platform_fee": 1.79,
+    "shipping_cost": 7.91,
+    "timestamp": "2026-04-03T08:33:15.340Z"
+  },
+  {
+    "transaction_id": "ae2c1619-c7c3-4d12-a0da-5195dc19c111",
+    "sku": "TIK-ACC-1841",
+    "channel": "TikTok Shop",
+    "gross_revenue": 31.53,
+    "unit_cost": 13.99,
+    "platform_fee": 1.58,
+    "shipping_cost": 5.19,
+    "timestamp": "2026-04-03T06:36:04.239Z"
+  },
+  {
+    "transaction_id": "e2aa1b09-7e84-4096-aef2-baaac3a53275",
+    "sku": "PHY-HOM-2790",
+    "channel": "Amazon",
+    "gross_revenue": 24.85,
+    "unit_cost": 10.21,
+    "platform_fee": 3.73,
+    "shipping_cost": 6.97,
+    "timestamp": "2026-04-03T05:34:38.222Z"
+  },
+  {
+    "transaction_id": "d14c4788-757e-4949-b412-c532d0516ffc",
+    "sku": "PHY-APP-1230",
+    "channel": "Physical POS",
+    "gross_revenue": 123.37,
+    "unit_cost": 38.06,
+    "platform_fee": 1.23,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-03T05:33:12.371Z"
+  },
+  {
+    "transaction_id": "ba2c668f-cab4-4f10-8659-0f0adc95f9c0",
+    "sku": "AMA-HOM-9115",
+    "channel": "TikTok Shop",
+    "gross_revenue": 184.74,
+    "unit_cost": 79.71,
+    "platform_fee": 9.24,
+    "shipping_cost": 7.55,
+    "timestamp": "2026-04-02T23:27:06.513Z"
+  },
+  {
+    "transaction_id": "240328b5-8456-4199-915d-f6eef48113c8",
+    "sku": "TIK-HEA-3190",
+    "channel": "Shopify",
+    "gross_revenue": 211.85,
+    "unit_cost": 59.14,
+    "platform_fee": 6.14,
+    "shipping_cost": 3.38,
+    "timestamp": "2026-04-02T23:02:53.981Z"
+  },
+  {
+    "transaction_id": "52255e54-089b-41d7-a25e-cece20458825",
+    "sku": "AMA-HEA-6596",
+    "channel": "Shopify",
+    "gross_revenue": 28.57,
+    "unit_cost": 15.25,
+    "platform_fee": 0.83,
+    "shipping_cost": 2.29,
+    "timestamp": "2026-04-02T22:15:46.432Z"
+  },
+  {
+    "transaction_id": "2742a648-7fbf-43ca-8b87-f635a8fd40cf",
+    "sku": "TIK-ACC-1841",
+    "channel": "Physical POS",
+    "gross_revenue": 31.53,
+    "unit_cost": 13.99,
+    "platform_fee": 0.32,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-02T19:33:11.242Z"
+  },
+  {
+    "transaction_id": "82532fe0-c058-4e73-afcc-20970db495c6",
+    "sku": "SHO-ACC-2187",
+    "channel": "TikTok Shop",
+    "gross_revenue": 362.91,
+    "unit_cost": 92.02,
+    "platform_fee": 18.15,
+    "shipping_cost": 6.23,
+    "timestamp": "2026-04-02T17:06:37.206Z"
+  },
+  {
+    "transaction_id": "c5ae9091-56cd-4ca2-a365-c4a1cc5b59da",
+    "sku": "TIK-HEA-3599",
+    "channel": "TikTok Shop",
+    "gross_revenue": 130.63,
+    "unit_cost": 42.1,
+    "platform_fee": 6.53,
+    "shipping_cost": 7,
+    "timestamp": "2026-04-02T15:39:27.555Z"
+  },
+  {
+    "transaction_id": "f32b2db9-3c71-4080-8825-30297d8df0fa",
+    "sku": "SS-PRO-BLK-M",
+    "channel": "TikTok Shop",
+    "gross_revenue": 55,
+    "unit_cost": 18.5,
+    "platform_fee": 2.75,
+    "shipping_cost": 7.59,
+    "timestamp": "2026-04-02T10:13:01.989Z"
+  },
+  {
+    "transaction_id": "c349272e-2879-4c11-8258-5d973d05e348",
+    "sku": "SHO-ACC-6080",
+    "channel": "Physical POS",
+    "gross_revenue": 111.15,
+    "unit_cost": 28.94,
+    "platform_fee": 1.11,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-02T08:36:42.142Z"
+  },
+  {
+    "transaction_id": "9b6faeed-a076-45e3-8c55-38916b5dc2ef",
+    "sku": "TIK-HOM-7831",
+    "channel": "Shopify",
+    "gross_revenue": 193.76,
+    "unit_cost": 98.77,
+    "platform_fee": 5.62,
+    "shipping_cost": 6.84,
+    "timestamp": "2026-04-02T08:15:37.340Z"
+  },
+  {
+    "transaction_id": "5a075e3f-7257-4858-940f-d1e215dfa6e6",
+    "sku": "TIK-ACC-9615",
+    "channel": "Physical POS",
+    "gross_revenue": 120.5,
+    "unit_cost": 58.46,
+    "platform_fee": 1.21,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-02T07:35:06.644Z"
+  },
+  {
+    "transaction_id": "57369d59-f696-437a-a800-bd5e887c6ba9",
+    "sku": "TIK-HEA-3599",
+    "channel": "Physical POS",
+    "gross_revenue": 130.63,
+    "unit_cost": 42.1,
+    "platform_fee": 1.31,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-02T03:56:18.915Z"
+  },
+  {
+    "transaction_id": "df4a3e00-c49c-433b-b75f-d676426a6c2c",
+    "sku": "SHO-ACC-6080",
+    "channel": "Shopify",
+    "gross_revenue": 111.15,
+    "unit_cost": 28.94,
+    "platform_fee": 3.22,
+    "shipping_cost": 3.7,
+    "timestamp": "2026-04-02T02:43:28.799Z"
+  },
+  {
+    "transaction_id": "aec4cfe8-15df-4dd4-b194-842429bbdbb4",
+    "sku": "SHO-APP-6586",
+    "channel": "Shopify",
+    "gross_revenue": 117.14,
+    "unit_cost": 42.73,
+    "platform_fee": 3.4,
+    "shipping_cost": 4.3,
+    "timestamp": "2026-04-02T02:36:12.075Z"
+  },
+  {
+    "transaction_id": "5f5c551a-8f92-494b-90f4-3bcfba90058f",
+    "sku": "PHY-APP-5599",
+    "channel": "TikTok Shop",
+    "gross_revenue": 46.55,
+    "unit_cost": 14.8,
+    "platform_fee": 2.33,
+    "shipping_cost": 3.83,
+    "timestamp": "2026-04-02T00:33:16.803Z"
+  },
+  {
+    "transaction_id": "2bc62313-b15e-4282-8a60-b00803c0f075",
+    "sku": "TIK-HOM-7831",
+    "channel": "Shopify",
+    "gross_revenue": 193.76,
+    "unit_cost": 98.77,
+    "platform_fee": 5.62,
+    "shipping_cost": 4.74,
+    "timestamp": "2026-04-02T00:15:03.911Z"
+  },
+  {
+    "transaction_id": "73497c90-fa10-4166-8092-036dbb7832a2",
+    "sku": "PHY-ELE-8020",
+    "channel": "Shopify",
+    "gross_revenue": 213.15,
+    "unit_cost": 65.66,
+    "platform_fee": 6.18,
+    "shipping_cost": 2.2,
+    "timestamp": "2026-04-01T21:47:09.967Z"
+  },
+  {
+    "transaction_id": "5b658c0c-2765-4332-b65b-3b82af714f71",
+    "sku": "TIK-ACC-8085",
+    "channel": "Amazon",
+    "gross_revenue": 90.51,
+    "unit_cost": 28.09,
+    "platform_fee": 13.58,
+    "shipping_cost": 6.6,
+    "timestamp": "2026-04-01T21:21:49.888Z"
+  },
+  {
+    "transaction_id": "9ee13f94-a2da-4df1-b693-3170d041ca87",
+    "sku": "AMA-HEA-4401",
+    "channel": "TikTok Shop",
+    "gross_revenue": 219.69,
+    "unit_cost": 61.56,
+    "platform_fee": 10.98,
+    "shipping_cost": 2.71,
+    "timestamp": "2026-04-01T16:48:53.417Z"
+  },
+  {
+    "transaction_id": "7e5063ed-f79a-415b-97ca-72f213e4febd",
+    "sku": "PHY-APP-5599",
+    "channel": "Amazon",
+    "gross_revenue": 46.55,
+    "unit_cost": 14.8,
+    "platform_fee": 6.98,
+    "shipping_cost": 2.14,
+    "timestamp": "2026-04-01T12:47:15.289Z"
+  },
+  {
+    "transaction_id": "7e308d2e-8626-49bb-9607-4110a84ed2c7",
+    "sku": "SHO-ELE-8268",
+    "channel": "Shopify",
+    "gross_revenue": 163.93,
+    "unit_cost": 89.8,
+    "platform_fee": 4.75,
+    "shipping_cost": 4.62,
+    "timestamp": "2026-04-01T12:03:11.352Z"
+  },
+  {
+    "transaction_id": "d22300ec-7a56-4478-9870-75197584a1ea",
+    "sku": "SS-ELC-EAR-WHT",
+    "channel": "Physical POS",
+    "gross_revenue": 89,
+    "unit_cost": 32,
+    "platform_fee": 0.89,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-01T10:49:57.505Z"
+  },
+  {
+    "transaction_id": "8efc58b8-7506-4987-8edc-4b2dce52addf",
+    "sku": "AMA-ELE-5763",
+    "channel": "Shopify",
+    "gross_revenue": 95.75,
+    "unit_cost": 27.56,
+    "platform_fee": 2.78,
+    "shipping_cost": 5.26,
+    "timestamp": "2026-04-01T09:28:03.213Z"
+  },
+  {
+    "transaction_id": "f9dd29d6-615a-43ea-8c7a-199f562d0ba4",
+    "sku": "AMA-HOM-8724",
+    "channel": "Amazon",
+    "gross_revenue": 238.68,
+    "unit_cost": 87.18,
+    "platform_fee": 35.8,
+    "shipping_cost": 4.04,
+    "timestamp": "2026-04-01T09:05:39.990Z"
+  },
+  {
+    "transaction_id": "3e7a8be4-bd48-40ff-9252-6f4c3589ce23",
+    "sku": "PHY-APP-5599",
+    "channel": "TikTok Shop",
+    "gross_revenue": 46.55,
+    "unit_cost": 14.8,
+    "platform_fee": 2.33,
+    "shipping_cost": 4.78,
+    "timestamp": "2026-04-01T07:52:01.368Z"
+  },
+  {
+    "transaction_id": "f64c7b4a-f94e-4b68-b2f7-4456310d548f",
+    "sku": "SHO-ACC-4526",
+    "channel": "Physical POS",
+    "gross_revenue": 113.72,
+    "unit_cost": 54.99,
+    "platform_fee": 1.14,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-01T06:50:09.213Z"
+  },
+  {
+    "transaction_id": "6671ba42-faae-4533-bf81-3877590258d6",
+    "sku": "SHO-ELE-2117",
+    "channel": "Physical POS",
+    "gross_revenue": 193.02,
+    "unit_cost": 67.82,
+    "platform_fee": 1.93,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-01T05:35:49.586Z"
+  },
+  {
+    "transaction_id": "85319fce-b4b8-408c-a901-aa76389a51d8",
+    "sku": "AMA-HOM-4178",
+    "channel": "Amazon",
+    "gross_revenue": 312.04,
+    "unit_cost": 81.55,
+    "platform_fee": 46.81,
+    "shipping_cost": 5.06,
+    "timestamp": "2026-04-01T04:15:13.228Z"
+  },
+  {
+    "transaction_id": "34da3fbd-59af-4611-927c-9adebfb9ee1d",
+    "sku": "AMA-APP-7488",
+    "channel": "Physical POS",
+    "gross_revenue": 18.47,
+    "unit_cost": 5.23,
+    "platform_fee": 0.18,
+    "shipping_cost": 0,
+    "timestamp": "2026-04-01T03:27:07.268Z"
+  },
+  {
+    "transaction_id": "c7eb0bf8-c2d5-4c0e-bf03-8e572d887b1b",
+    "sku": "SHO-HOM-4220",
+    "channel": "Shopify",
+    "gross_revenue": 180.71,
+    "unit_cost": 57.94,
+    "platform_fee": 5.24,
+    "shipping_cost": 2.17,
+    "timestamp": "2026-03-31T23:52:00.399Z"
+  },
+  {
+    "transaction_id": "37726ba2-e5d9-4384-851d-2d54f30c04aa",
+    "sku": "SHO-HOM-3898",
+    "channel": "Amazon",
+    "gross_revenue": 244.33,
+    "unit_cost": 76.67,
+    "platform_fee": 36.65,
+    "shipping_cost": 7.25,
+    "timestamp": "2026-03-31T23:12:23.367Z"
+  },
+  {
+    "transaction_id": "a762ca7e-3c99-4c11-a856-781c5bb1d53b",
+    "sku": "SHO-ELE-2117",
+    "channel": "Physical POS",
+    "gross_revenue": 193.02,
+    "unit_cost": 67.82,
+    "platform_fee": 1.93,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-31T22:23:41.917Z"
+  },
+  {
+    "transaction_id": "cdf41401-2e58-43b6-9c1d-5feb8a9c0c68",
+    "sku": "TIK-HOM-6647",
+    "channel": "Physical POS",
+    "gross_revenue": 222.25,
+    "unit_cost": 73.99,
+    "platform_fee": 2.22,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-31T21:23:21.323Z"
+  },
+  {
+    "transaction_id": "ab930839-1a58-4c3b-b9bf-8eff5d875e69",
+    "sku": "SHO-ACC-1535",
+    "channel": "Physical POS",
+    "gross_revenue": 58.5,
+    "unit_cost": 28.31,
+    "platform_fee": 0.58,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-31T15:07:50.595Z"
+  },
+  {
+    "transaction_id": "ae776a61-6794-4a8f-99ba-8ff3c360a036",
+    "sku": "PHY-ACC-9855",
+    "channel": "TikTok Shop",
+    "gross_revenue": 77.58,
+    "unit_cost": 28.48,
+    "platform_fee": 3.88,
+    "shipping_cost": 3.14,
+    "timestamp": "2026-03-31T14:36:56.768Z"
+  },
+  {
+    "transaction_id": "413d9665-0305-43e6-8380-3ac0f6ff7c48",
+    "sku": "AMA-APP-7446",
+    "channel": "TikTok Shop",
+    "gross_revenue": 14.35,
+    "unit_cost": 7.45,
+    "platform_fee": 0.72,
+    "shipping_cost": 8,
+    "timestamp": "2026-03-31T14:35:13.119Z"
+  },
+  {
+    "transaction_id": "a36a04e7-f8a7-4429-853f-ea3d806d4859",
+    "sku": "TIK-ACC-3808",
+    "channel": "Physical POS",
+    "gross_revenue": 74.59,
+    "unit_cost": 27.75,
+    "platform_fee": 0.75,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-31T14:32:08.575Z"
+  },
+  {
+    "transaction_id": "57517569-9b14-486d-8102-80378b9fbe6b",
+    "sku": "AMA-HEA-3123",
+    "channel": "Physical POS",
+    "gross_revenue": 262.66,
+    "unit_cost": 67.63,
+    "platform_fee": 2.63,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-31T12:54:53.375Z"
+  },
+  {
+    "transaction_id": "dab26ee2-4d00-45d7-8334-0184dd1894e6",
+    "sku": "PHY-APP-3955",
+    "channel": "Amazon",
+    "gross_revenue": 82.86,
+    "unit_cost": 21.03,
+    "platform_fee": 12.43,
+    "shipping_cost": 6.5,
+    "timestamp": "2026-03-31T12:31:37.030Z"
+  },
+  {
+    "transaction_id": "9371b747-3d70-4f29-b416-2827a15bdaaf",
+    "sku": "SHO-HOM-4992",
+    "channel": "Amazon",
+    "gross_revenue": 54.15,
+    "unit_cost": 19.66,
+    "platform_fee": 8.12,
+    "shipping_cost": 5.93,
+    "timestamp": "2026-03-31T11:36:17.664Z"
+  },
+  {
+    "transaction_id": "e79553eb-d33c-4d3c-953e-e18312e1a4c4",
+    "sku": "AMA-ELE-5763",
+    "channel": "Amazon",
+    "gross_revenue": 95.75,
+    "unit_cost": 27.56,
+    "platform_fee": 14.36,
+    "shipping_cost": 5.72,
+    "timestamp": "2026-03-31T11:34:30.200Z"
+  },
+  {
+    "transaction_id": "1a1a2b72-73ca-4d66-b770-c2ba5060405f",
+    "sku": "SHO-ELE-2117",
+    "channel": "Physical POS",
+    "gross_revenue": 193.02,
+    "unit_cost": 67.82,
+    "platform_fee": 1.93,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-31T07:36:07.835Z"
+  },
+  {
+    "transaction_id": "0bfff661-da31-433d-bfeb-b9e43bbdbc3c",
+    "sku": "PHY-APP-4434",
+    "channel": "Physical POS",
+    "gross_revenue": 158.43,
+    "unit_cost": 75.48,
+    "platform_fee": 1.58,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-31T06:33:55.032Z"
+  },
+  {
+    "transaction_id": "3a5c3eef-e1c0-4fdc-b32a-a4effd4d77da",
+    "sku": "PHY-APP-1008",
+    "channel": "Shopify",
+    "gross_revenue": 75.26,
+    "unit_cost": 49.03,
+    "platform_fee": 2.18,
+    "shipping_cost": 5.22,
+    "timestamp": "2026-03-31T06:28:44.376Z"
+  },
+  {
+    "transaction_id": "e885583d-2f1f-47e4-9991-c943d5276f5d",
+    "sku": "AMA-HEA-3180",
+    "channel": "TikTok Shop",
+    "gross_revenue": 125.72,
+    "unit_cost": 45.76,
+    "platform_fee": 6.29,
+    "shipping_cost": 3.88,
+    "timestamp": "2026-03-31T03:54:35.345Z"
+  },
+  {
+    "transaction_id": "bd49b2a6-c08e-47bc-87d7-3d915e969bab",
+    "sku": "TIK-HOM-9008",
+    "channel": "Shopify",
+    "gross_revenue": 73.01,
+    "unit_cost": 44.84,
+    "platform_fee": 2.12,
+    "shipping_cost": 5.31,
+    "timestamp": "2026-03-30T22:24:58.637Z"
+  },
+  {
+    "transaction_id": "6ce78001-2c17-477e-bb91-39cd50dabbc4",
+    "sku": "PHY-HEA-6796",
+    "channel": "Shopify",
+    "gross_revenue": 124.29,
+    "unit_cost": 71.47,
+    "platform_fee": 3.6,
+    "shipping_cost": 3.43,
+    "timestamp": "2026-03-30T19:16:34.964Z"
+  },
+  {
+    "transaction_id": "889d8a2d-4003-4897-868c-f368c37c5e58",
+    "sku": "TIK-HOM-4599",
+    "channel": "Shopify",
+    "gross_revenue": 168.41,
+    "unit_cost": 72.68,
+    "platform_fee": 4.88,
+    "shipping_cost": 5.38,
+    "timestamp": "2026-03-30T17:38:41.906Z"
+  },
+  {
+    "transaction_id": "2b0bab1f-9f96-4b7d-ace9-2fd689c98f38",
+    "sku": "SS-PRO-BLK-M",
+    "channel": "Shopify",
+    "gross_revenue": 55,
+    "unit_cost": 18.5,
+    "platform_fee": 1.59,
+    "shipping_cost": 7.99,
+    "timestamp": "2026-03-30T15:36:20.070Z"
+  },
+  {
+    "transaction_id": "1e73400c-63c3-4e03-97a8-074a82fd7bdb",
+    "sku": "SHO-HOM-4220",
+    "channel": "Shopify",
+    "gross_revenue": 180.71,
+    "unit_cost": 57.94,
+    "platform_fee": 5.24,
+    "shipping_cost": 7.3,
+    "timestamp": "2026-03-30T09:55:58.715Z"
+  },
+  {
+    "transaction_id": "4decfc01-262b-4d45-8546-ea266e99f88f",
+    "sku": "PHY-APP-2256",
+    "channel": "Shopify",
+    "gross_revenue": 184.95,
+    "unit_cost": 60.67,
+    "platform_fee": 5.36,
+    "shipping_cost": 7.65,
+    "timestamp": "2026-03-30T09:48:48.389Z"
+  },
+  {
+    "transaction_id": "93895ace-6431-4716-98b2-540ec957050f",
+    "sku": "AMA-ACC-1575",
+    "channel": "Amazon",
+    "gross_revenue": 198.17,
+    "unit_cost": 99.62,
+    "platform_fee": 29.73,
+    "shipping_cost": 2.12,
+    "timestamp": "2026-03-30T07:38:22.660Z"
+  },
+  {
+    "transaction_id": "b9e8022f-ea17-4f3a-b05d-0f00c729cbd4",
+    "sku": "SS-ACC-WTCH-GLD",
+    "channel": "Amazon",
+    "gross_revenue": 129.99,
+    "unit_cost": 45,
+    "platform_fee": 19.5,
+    "shipping_cost": 2.29,
+    "timestamp": "2026-03-30T05:31:18.749Z"
+  },
+  {
+    "transaction_id": "2b9beb62-e4f1-44e5-a5f3-7a119c44e249",
+    "sku": "PHY-HOM-7404",
+    "channel": "Physical POS",
+    "gross_revenue": 107.42,
+    "unit_cost": 48.64,
+    "platform_fee": 1.07,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-30T04:10:48.557Z"
+  },
+  {
+    "transaction_id": "bb8be167-7301-4bd8-a54a-27dd574f4e4b",
+    "sku": "AMA-APP-7978",
+    "channel": "TikTok Shop",
+    "gross_revenue": 125.57,
+    "unit_cost": 43.25,
+    "platform_fee": 6.28,
+    "shipping_cost": 7.62,
+    "timestamp": "2026-03-30T01:31:17.262Z"
+  },
+  {
+    "transaction_id": "1a630279-b7da-40f2-bf0d-3a0f332c93ef",
+    "sku": "SHO-APP-9355",
+    "channel": "TikTok Shop",
+    "gross_revenue": 67.78,
+    "unit_cost": 23.05,
+    "platform_fee": 3.39,
+    "shipping_cost": 5.11,
+    "timestamp": "2026-03-30T01:02:46.765Z"
+  },
+  {
+    "transaction_id": "80882265-8c86-405c-acc6-f973c05a44c7",
+    "sku": "TIK-HEA-3190",
+    "channel": "Shopify",
+    "gross_revenue": 211.85,
+    "unit_cost": 59.14,
+    "platform_fee": 6.14,
+    "shipping_cost": 5.26,
+    "timestamp": "2026-03-30T00:41:38.053Z"
+  },
+  {
+    "transaction_id": "005eea5f-565f-468f-8ea5-d1b4298b0c27",
+    "sku": "TIK-HEA-4759",
+    "channel": "Amazon",
+    "gross_revenue": 130.15,
+    "unit_cost": 57.22,
+    "platform_fee": 19.52,
+    "shipping_cost": 4.82,
+    "timestamp": "2026-03-29T22:36:32.760Z"
+  },
+  {
+    "transaction_id": "47e5af9e-8467-4f1b-be7c-d2c12f03217a",
+    "sku": "PHY-APP-2256",
+    "channel": "Amazon",
+    "gross_revenue": 184.95,
+    "unit_cost": 60.67,
+    "platform_fee": 27.74,
+    "shipping_cost": 4.54,
+    "timestamp": "2026-03-29T21:26:59.679Z"
+  },
+  {
+    "transaction_id": "9313787a-142b-444f-a7c1-2a9dee3bade1",
+    "sku": "SHO-ACC-6080",
+    "channel": "TikTok Shop",
+    "gross_revenue": 111.15,
+    "unit_cost": 28.94,
+    "platform_fee": 5.56,
+    "shipping_cost": 4.07,
+    "timestamp": "2026-03-29T15:57:19.424Z"
+  },
+  {
+    "transaction_id": "aa2d7ee5-6034-426d-afa5-275cf2826d85",
+    "sku": "SS-LST-TEE-Gry-L",
+    "channel": "Physical POS",
+    "gross_revenue": 24.5,
+    "unit_cost": 8,
+    "platform_fee": 0.24,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-29T11:02:15.701Z"
+  },
+  {
+    "transaction_id": "84d802fc-baae-4b9a-aac3-2cb325f55ff1",
+    "sku": "PHY-APP-2256",
+    "channel": "Shopify",
+    "gross_revenue": 184.95,
+    "unit_cost": 60.67,
+    "platform_fee": 5.36,
+    "shipping_cost": 6.51,
+    "timestamp": "2026-03-29T10:15:21.450Z"
+  },
+  {
+    "transaction_id": "74453b42-7fd4-4852-bd9f-5b320e46789f",
+    "sku": "SS-ELC-EAR-WHT",
+    "channel": "Shopify",
+    "gross_revenue": 89,
+    "unit_cost": 32,
+    "platform_fee": 2.58,
+    "shipping_cost": 4.55,
+    "timestamp": "2026-03-29T09:39:26.351Z"
+  },
+  {
+    "transaction_id": "efc9c351-3fe1-4024-9e8b-0ab30ccad0b9",
+    "sku": "AMA-HEA-7131",
+    "channel": "Shopify",
+    "gross_revenue": 218.53,
+    "unit_cost": 75.17,
+    "platform_fee": 6.34,
+    "shipping_cost": 7.6,
+    "timestamp": "2026-03-29T08:44:31.189Z"
+  },
+  {
+    "transaction_id": "0c55be13-62ce-48f8-b161-72c37390931b",
+    "sku": "AMA-HEA-4401",
+    "channel": "Amazon",
+    "gross_revenue": 219.69,
+    "unit_cost": 61.56,
+    "platform_fee": 32.95,
+    "shipping_cost": 4.93,
+    "timestamp": "2026-03-29T07:09:28.537Z"
+  },
+  {
+    "transaction_id": "9322787f-358f-4237-8edf-fad336a45e6b",
+    "sku": "PHY-APP-4434",
+    "channel": "Amazon",
+    "gross_revenue": 158.43,
+    "unit_cost": 75.48,
+    "platform_fee": 23.76,
+    "shipping_cost": 2.56,
+    "timestamp": "2026-03-29T07:03:26.102Z"
+  },
+  {
+    "transaction_id": "9e48a4d5-18f4-4193-af01-aa195707bf22",
+    "sku": "TIK-HEA-6488",
+    "channel": "Amazon",
+    "gross_revenue": 279.48,
+    "unit_cost": 93.88,
+    "platform_fee": 41.92,
+    "shipping_cost": 2.34,
+    "timestamp": "2026-03-29T04:13:00.595Z"
+  },
+  {
+    "transaction_id": "f9d649d4-77c5-4ac2-8060-42c0828aa4d9",
+    "sku": "SHO-APP-6240",
+    "channel": "Shopify",
+    "gross_revenue": 51.59,
+    "unit_cost": 21.87,
+    "platform_fee": 1.5,
+    "shipping_cost": 5.49,
+    "timestamp": "2026-03-29T01:28:15.291Z"
+  },
+  {
+    "transaction_id": "4945e1a5-88d5-4774-abd2-1fe9b3459280",
+    "sku": "SHO-ELE-2042",
+    "channel": "Amazon",
+    "gross_revenue": 61.73,
+    "unit_cost": 20.68,
+    "platform_fee": 9.26,
+    "shipping_cost": 4.03,
+    "timestamp": "2026-03-28T19:34:02.031Z"
+  },
+  {
+    "transaction_id": "a77df572-1280-4362-877e-4c8a12900113",
+    "sku": "AMA-HEA-5267",
+    "channel": "Shopify",
+    "gross_revenue": 186.85,
+    "unit_cost": 72.83,
+    "platform_fee": 5.42,
+    "shipping_cost": 5.95,
+    "timestamp": "2026-03-28T14:15:43.111Z"
+  },
+  {
+    "transaction_id": "b160e974-ed36-4bf7-a3b4-280183521fe7",
+    "sku": "TIK-HOM-8287",
+    "channel": "Amazon",
+    "gross_revenue": 31.31,
+    "unit_cost": 12.92,
+    "platform_fee": 4.7,
+    "shipping_cost": 6.59,
+    "timestamp": "2026-03-28T12:07:09.168Z"
+  },
+  {
+    "transaction_id": "a43ec0c5-a7c1-45b5-8f75-b22e71085bfa",
+    "sku": "TIK-ACC-3808",
+    "channel": "Shopify",
+    "gross_revenue": 74.59,
+    "unit_cost": 27.75,
+    "platform_fee": 2.16,
+    "shipping_cost": 3.1,
+    "timestamp": "2026-03-28T08:14:49.093Z"
+  },
+  {
+    "transaction_id": "a74fd057-3f64-4582-ba84-46d03104d34d",
+    "sku": "TIK-HEA-3190",
+    "channel": "Physical POS",
+    "gross_revenue": 211.85,
+    "unit_cost": 59.14,
+    "platform_fee": 2.12,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-28T00:37:30.249Z"
+  },
+  {
+    "transaction_id": "012ee9b6-4ce8-4ebd-8fe1-ea27fd8bd6ba",
+    "sku": "PHY-HOM-2790",
+    "channel": "TikTok Shop",
+    "gross_revenue": 24.85,
+    "unit_cost": 10.21,
+    "platform_fee": 1.24,
+    "shipping_cost": 2.34,
+    "timestamp": "2026-03-28T00:26:02.249Z"
+  },
+  {
+    "transaction_id": "3efd5e53-c645-4f0c-9a90-0a34ad8de3d5",
+    "sku": "AMA-ACC-6845",
+    "channel": "Physical POS",
+    "gross_revenue": 271.28,
+    "unit_cost": 83.78,
+    "platform_fee": 2.71,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-28T00:25:21.054Z"
+  },
+  {
+    "transaction_id": "2bbcb919-b2b0-4cba-95a3-7b660a2f004a",
+    "sku": "TIK-HEA-3190",
+    "channel": "TikTok Shop",
+    "gross_revenue": 211.85,
+    "unit_cost": 59.14,
+    "platform_fee": 10.59,
+    "shipping_cost": 5.16,
+    "timestamp": "2026-03-27T23:53:01.528Z"
+  },
+  {
+    "transaction_id": "160cdd85-b76d-45ee-a064-08e1bcc8f7bf",
+    "sku": "SHO-APP-1136",
+    "channel": "Physical POS",
+    "gross_revenue": 197.66,
+    "unit_cost": 55.57,
+    "platform_fee": 1.98,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-27T14:20:34.849Z"
+  },
+  {
+    "transaction_id": "b7fd1927-bb58-44bf-922f-0ba49b0d0db9",
+    "sku": "SS-PRO-BLK-M",
+    "channel": "TikTok Shop",
+    "gross_revenue": 55,
+    "unit_cost": 18.5,
+    "platform_fee": 2.75,
+    "shipping_cost": 5.46,
+    "timestamp": "2026-03-27T13:58:40.070Z"
+  },
+  {
+    "transaction_id": "040fa75f-a9e1-461d-84d2-2130e665315e",
+    "sku": "TIK-HOM-2809",
+    "channel": "Amazon",
+    "gross_revenue": 65.23,
+    "unit_cost": 36.38,
+    "platform_fee": 9.78,
+    "shipping_cost": 6.65,
+    "timestamp": "2026-03-24T17:39:57.950Z"
+  },
+  {
+    "transaction_id": "9806c1b6-b33f-4f0b-b2d5-6e89e471fb8d",
+    "sku": "TIK-ACC-3808",
+    "channel": "Physical POS",
+    "gross_revenue": 74.59,
+    "unit_cost": 27.75,
+    "platform_fee": 0.75,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-24T16:37:06.423Z"
+  },
+  {
+    "transaction_id": "3b3ae706-ede0-42ab-bbda-0146a0226f30",
+    "sku": "SS-ELC-EAR-WHT",
+    "channel": "Physical POS",
+    "gross_revenue": 89,
+    "unit_cost": 32,
+    "platform_fee": 0.89,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-23T16:09:35.374Z"
+  },
+  {
+    "transaction_id": "efef1b36-2b8a-4fa1-8eff-8b5d63828e67",
+    "sku": "TIK-HEA-3599",
+    "channel": "Amazon",
+    "gross_revenue": 130.63,
+    "unit_cost": 42.1,
+    "platform_fee": 19.59,
+    "shipping_cost": 4.8,
+    "timestamp": "2026-03-22T01:19:45.196Z"
+  },
+  {
+    "transaction_id": "20e1ecd9-63ab-4a56-b21a-9d83dc0a8a3e",
+    "sku": "SHO-HOM-4992",
+    "channel": "Physical POS",
+    "gross_revenue": 54.15,
+    "unit_cost": 19.66,
+    "platform_fee": 0.54,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-19T07:24:24.201Z"
+  },
+  {
+    "transaction_id": "89f7bd37-b027-4371-92d3-97534ed28ded",
+    "sku": "SHO-APP-6605",
+    "channel": "Amazon",
+    "gross_revenue": 248.42,
+    "unit_cost": 64.7,
+    "platform_fee": 37.26,
+    "shipping_cost": 6.28,
+    "timestamp": "2026-03-17T08:28:53.305Z"
+  },
+  {
+    "transaction_id": "41d4a937-733e-4df1-bd5c-58b6c1835d0a",
+    "sku": "SHO-ACC-1535",
+    "channel": "Shopify",
+    "gross_revenue": 58.5,
+    "unit_cost": 28.31,
+    "platform_fee": 1.7,
+    "shipping_cost": 5.16,
+    "timestamp": "2026-03-10T09:18:46.168Z"
+  },
+  {
+    "transaction_id": "36f476c2-c6a4-47b5-a846-d94296a2b814",
+    "sku": "AMA-HOM-9115",
+    "channel": "Physical POS",
+    "gross_revenue": 184.74,
+    "unit_cost": 79.71,
+    "platform_fee": 1.85,
+    "shipping_cost": 0,
+    "timestamp": "2026-03-08T00:29:11.439Z"
+  },
+  {
+    "transaction_id": "11db46e2-3b19-4fbb-85f9-f063c813bccc",
+    "sku": "SHO-HEA-5176",
+    "channel": "TikTok Shop",
+    "gross_revenue": 83.37,
+    "unit_cost": 22.37,
+    "platform_fee": 4.17,
+    "shipping_cost": 2.11,
+    "timestamp": "2026-03-02T14:21:54.180Z"
+  },
+  {
+    "transaction_id": "bb4bd441-8631-4282-a6c7-aa2a52b9d10a",
+    "sku": "TIK-HOM-8287",
+    "channel": "Physical POS",
+    "gross_revenue": 31.31,
+    "unit_cost": 12.92,
+    "platform_fee": 0.31,
+    "shipping_cost": 0,
+    "timestamp": "2026-02-28T01:57:03.889Z"
+  },
+  {
+    "transaction_id": "51da9e8f-085c-45e0-832f-b843fcfa986d",
+    "sku": "AMA-HEA-5267",
+    "channel": "Physical POS",
+    "gross_revenue": 186.85,
+    "unit_cost": 72.83,
+    "platform_fee": 1.87,
+    "shipping_cost": 0,
+    "timestamp": "2026-02-22T15:01:43.814Z"
+  },
+  {
+    "transaction_id": "7f9c2cc0-7dae-4b92-83cb-5d23a93aa8d5",
+    "sku": "TIK-HOM-9008",
+    "channel": "TikTok Shop",
+    "gross_revenue": 73.01,
+    "unit_cost": 44.84,
+    "platform_fee": 3.65,
+    "shipping_cost": 7.04,
+    "timestamp": "2026-02-14T14:09:17.544Z"
+  },
+  {
+    "transaction_id": "80b56f2e-3845-4274-8a35-18164b677931",
+    "sku": "SHO-HOM-4992",
+    "channel": "Shopify",
+    "gross_revenue": 54.15,
+    "unit_cost": 19.66,
+    "platform_fee": 1.57,
+    "shipping_cost": 2.49,
+    "timestamp": "2026-02-12T05:49:29.515Z"
+  },
+  {
+    "transaction_id": "902b31a4-58e9-462c-bcb2-cf9265a3daff",
+    "sku": "SHO-ELE-8268",
+    "channel": "Shopify",
+    "gross_revenue": 163.93,
+    "unit_cost": 89.8,
+    "platform_fee": 4.75,
+    "shipping_cost": 4.77,
+    "timestamp": "2026-02-10T16:14:35.882Z"
+  },
+  {
+    "transaction_id": "d8196f2c-755e-4c9d-b975-c2d998fdb4ec",
+    "sku": "AMA-HEA-5267",
+    "channel": "Amazon",
+    "gross_revenue": 186.85,
+    "unit_cost": 72.83,
+    "platform_fee": 28.03,
+    "shipping_cost": 6.98,
+    "timestamp": "2026-02-06T13:53:00.896Z"
+  },
+  {
+    "transaction_id": "f943ce1c-0714-4aa5-8016-381f4b86b3a9",
+    "sku": "SS-ELC-EAR-WHT",
+    "channel": "Amazon",
+    "gross_revenue": 89,
+    "unit_cost": 32,
+    "platform_fee": 13.35,
+    "shipping_cost": 7.46,
+    "timestamp": "2026-02-04T22:47:05.936Z"
+  },
+  {
+    "transaction_id": "10d42fb5-af04-473f-a91e-a937a307a1fd",
+    "sku": "AMA-HEA-4401",
+    "channel": "Physical POS",
+    "gross_revenue": 219.69,
+    "unit_cost": 61.56,
+    "platform_fee": 2.2,
+    "shipping_cost": 0,
+    "timestamp": "2026-02-03T11:39:25.119Z"
+  },
+  {
+    "transaction_id": "9084cc9b-3702-451c-bbd0-785cbdd33c32",
+    "sku": "PHY-APP-1230",
+    "channel": "Shopify",
+    "gross_revenue": 123.37,
+    "unit_cost": 38.06,
+    "platform_fee": 3.58,
+    "shipping_cost": 7.62,
+    "timestamp": "2026-02-01T23:02:57.117Z"
+  },
+  {
+    "transaction_id": "4c2e60ed-7202-487d-ac4a-bdb114a9aeac",
+    "sku": "PHY-ACC-5218",
+    "channel": "Shopify",
+    "gross_revenue": 130.43,
+    "unit_cost": 39.15,
+    "platform_fee": 3.78,
+    "shipping_cost": 6.37,
+    "timestamp": "2026-01-30T16:18:20.276Z"
+  },
+  {
+    "transaction_id": "de93cd2e-015d-45e5-aa17-6d4b3bd7a11f",
+    "sku": "AMA-HEA-5267",
+    "channel": "TikTok Shop",
+    "gross_revenue": 186.85,
+    "unit_cost": 72.83,
+    "platform_fee": 9.34,
+    "shipping_cost": 6.05,
+    "timestamp": "2026-01-29T10:46:58.282Z"
+  },
+  {
+    "transaction_id": "2a3df5a6-5f23-4fc0-841c-8ade3fa1a737",
+    "sku": "AMA-HOM-2661",
+    "channel": "Physical POS",
+    "gross_revenue": 179.01,
+    "unit_cost": 67.61,
+    "platform_fee": 1.79,
+    "shipping_cost": 0,
+    "timestamp": "2026-01-20T05:56:26.120Z"
+  },
+  {
+    "transaction_id": "b32c4c9f-1378-4d73-b9f4-13394af7f6e0",
+    "sku": "SHO-ACC-2187",
+    "channel": "TikTok Shop",
+    "gross_revenue": 362.91,
+    "unit_cost": 92.02,
+    "platform_fee": 18.15,
+    "shipping_cost": 7.61,
+    "timestamp": "2026-01-15T18:02:27.425Z"
+  },
+  {
+    "transaction_id": "b346722e-7839-4fa9-9aae-bf4483d368b5",
+    "sku": "PHY-HEA-8240",
+    "channel": "Shopify",
+    "gross_revenue": 335.73,
+    "unit_cost": 93.37,
+    "platform_fee": 9.74,
+    "shipping_cost": 5.2,
+    "timestamp": "2026-01-13T20:11:28.021Z"
+  },
+  {
+    "transaction_id": "4aa0352c-ce33-475e-8641-11eedf58c0b3",
+    "sku": "PHY-ACC-5218",
+    "channel": "Physical POS",
+    "gross_revenue": 130.43,
+    "unit_cost": 39.15,
+    "platform_fee": 1.3,
+    "shipping_cost": 0,
+    "timestamp": "2026-01-11T21:48:35.824Z"
+  },
+  {
+    "transaction_id": "54909a0d-807b-4586-ac68-59353b5e0844",
+    "sku": "TIK-HOM-5974",
+    "channel": "Amazon",
+    "gross_revenue": 59.69,
+    "unit_cost": 21.97,
+    "platform_fee": 8.95,
+    "shipping_cost": 7.82,
+    "timestamp": "2026-01-10T18:29:29.712Z"
+  },
+  {
+    "transaction_id": "b5b36f19-9555-4588-8642-58bb4d2891b3",
+    "sku": "PHY-APP-5599",
+    "channel": "TikTok Shop",
+    "gross_revenue": 46.55,
+    "unit_cost": 14.8,
+    "platform_fee": 2.33,
+    "shipping_cost": 4.02,
+    "timestamp": "2026-01-10T05:51:48.811Z"
+  },
+  {
+    "transaction_id": "60c3d1d2-013f-445b-af85-6fcc5e142127",
+    "sku": "TIK-ACC-3808",
+    "channel": "TikTok Shop",
+    "gross_revenue": 74.59,
+    "unit_cost": 27.75,
+    "platform_fee": 3.73,
+    "shipping_cost": 3.07,
+    "timestamp": "2026-01-03T07:13:18.685Z"
+  },
+  {
+    "transaction_id": "b6180090-bd25-4a26-91e8-40f2a80ea673",
+    "sku": "PHY-APP-2256",
+    "channel": "Physical POS",
+    "gross_revenue": 184.95,
+    "unit_cost": 60.67,
+    "platform_fee": 1.85,
+    "shipping_cost": 0,
+    "timestamp": "2025-12-30T20:53:51.723Z"
+  },
+  {
+    "transaction_id": "9441c1c9-8ecd-42e8-b099-14a5cf4bad34",
+    "sku": "PHY-ACC-5218",
+    "channel": "Shopify",
+    "gross_revenue": 130.43,
+    "unit_cost": 39.15,
+    "platform_fee": 3.78,
+    "shipping_cost": 2.92,
+    "timestamp": "2025-12-29T03:54:51.536Z"
+  },
+  {
+    "transaction_id": "5e466b9f-beff-4cbf-9835-1da5a08494bd",
+    "sku": "TIK-ACC-9605",
+    "channel": "Amazon",
+    "gross_revenue": 124.78,
+    "unit_cost": 70.69,
+    "platform_fee": 18.72,
+    "shipping_cost": 3.13,
+    "timestamp": "2025-12-28T10:17:19.528Z"
+  },
+  {
+    "transaction_id": "7ea40812-2f79-475c-be6b-83a92da96df4",
+    "sku": "PHY-HOM-1897",
+    "channel": "TikTok Shop",
+    "gross_revenue": 140.43,
+    "unit_cost": 89.44,
+    "platform_fee": 7.02,
+    "shipping_cost": 3.55,
+    "timestamp": "2025-12-26T12:23:01.946Z"
+  },
+  {
+    "transaction_id": "674a52a3-5f9b-4e80-ae95-288643e4211d",
+    "sku": "SHO-ACC-5747",
+    "channel": "Amazon",
+    "gross_revenue": 43.94,
+    "unit_cost": 28.79,
+    "platform_fee": 6.59,
+    "shipping_cost": 3.5,
+    "timestamp": "2025-12-23T15:20:37.179Z"
+  },
+  {
+    "transaction_id": "14cc8872-c213-4d1d-86a5-2a1688c3075e",
+    "sku": "AMA-ELE-5763",
+    "channel": "Amazon",
+    "gross_revenue": 95.75,
+    "unit_cost": 27.56,
+    "platform_fee": 14.36,
+    "shipping_cost": 4.52,
+    "timestamp": "2025-12-21T14:03:13.526Z"
+  },
+  {
+    "transaction_id": "c9a314e3-2749-4b04-b498-240c3ba0a1bc",
+    "sku": "SHO-ACC-4526",
+    "channel": "Amazon",
+    "gross_revenue": 113.72,
+    "unit_cost": 54.99,
+    "platform_fee": 17.06,
+    "shipping_cost": 3.8,
+    "timestamp": "2025-12-19T20:36:31.415Z"
+  },
+  {
+    "transaction_id": "72a4eef0-8527-4183-8ef2-b0c80ee36a97",
+    "sku": "TIK-ACC-1841",
+    "channel": "Physical POS",
+    "gross_revenue": 31.53,
+    "unit_cost": 13.99,
+    "platform_fee": 0.32,
+    "shipping_cost": 0,
+    "timestamp": "2025-12-17T15:25:48.154Z"
+  },
+  {
+    "transaction_id": "edaa7a0f-bffc-4e54-ad63-ef6074c3c023",
+    "sku": "PHY-APP-3955",
+    "channel": "Shopify",
+    "gross_revenue": 82.86,
+    "unit_cost": 21.03,
+    "platform_fee": 2.4,
+    "shipping_cost": 3.22,
+    "timestamp": "2025-12-15T16:56:25.473Z"
+  },
+  {
+    "transaction_id": "d2c62a0c-b3bc-4cb7-87e9-6549d3c1ab16",
+    "sku": "TIK-ACC-6661",
+    "channel": "Amazon",
+    "gross_revenue": 63.52,
+    "unit_cost": 16.63,
+    "platform_fee": 9.53,
+    "shipping_cost": 4.75,
+    "timestamp": "2025-12-11T12:13:47.695Z"
+  },
+  {
+    "transaction_id": "d0485c7e-6f54-41e8-9377-f4f3b3c82a46",
+    "sku": "PHY-HOM-2790",
+    "channel": "TikTok Shop",
+    "gross_revenue": 24.85,
+    "unit_cost": 10.21,
+    "platform_fee": 1.24,
+    "shipping_cost": 3.63,
+    "timestamp": "2025-12-11T11:15:15.283Z"
+  },
+  {
+    "transaction_id": "3bd0951c-8f03-4012-a0e3-95561c11dc6d",
+    "sku": "AMA-APP-7488",
+    "channel": "TikTok Shop",
+    "gross_revenue": 18.47,
+    "unit_cost": 5.23,
+    "platform_fee": 0.92,
+    "shipping_cost": 6.95,
+    "timestamp": "2025-12-10T13:18:16.392Z"
+  },
+  {
+    "transaction_id": "af5b87b8-dcf0-41e1-9f0b-ecbf69756ff1",
+    "sku": "AMA-APP-7446",
+    "channel": "Shopify",
+    "gross_revenue": 14.35,
+    "unit_cost": 7.45,
+    "platform_fee": 0.42,
+    "shipping_cost": 5.37,
+    "timestamp": "2025-12-09T05:08:04.540Z"
+  },
+  {
+    "transaction_id": "f1577e05-f587-4f92-92f8-3f1332d80b1d",
+    "sku": "TIK-ACC-1841",
+    "channel": "TikTok Shop",
+    "gross_revenue": 31.53,
+    "unit_cost": 13.99,
+    "platform_fee": 1.58,
+    "shipping_cost": 2.29,
+    "timestamp": "2025-12-08T06:45:40.607Z"
+  },
+  {
+    "transaction_id": "4d4ed002-b776-4f3d-b79d-b66a5f8b1b2b",
+    "sku": "SHO-HOM-4220",
+    "channel": "Shopify",
+    "gross_revenue": 180.71,
+    "unit_cost": 57.94,
+    "platform_fee": 5.24,
+    "shipping_cost": 6.9,
+    "timestamp": "2025-12-06T15:48:23.612Z"
+  },
+  {
+    "transaction_id": "f66fe974-053c-424f-8346-cde476d1c49c",
+    "sku": "TIK-HOM-6629",
+    "channel": "Amazon",
+    "gross_revenue": 139.27,
+    "unit_cost": 85.83,
+    "platform_fee": 20.89,
+    "shipping_cost": 5.93,
+    "timestamp": "2025-12-06T04:40:51.728Z"
+  },
+  {
+    "transaction_id": "35cdc970-9a81-4dcb-b158-3d58443c5da4",
+    "sku": "AMA-HEA-5267",
+    "channel": "Shopify",
+    "gross_revenue": 186.85,
+    "unit_cost": 72.83,
+    "platform_fee": 5.42,
+    "shipping_cost": 3.53,
+    "timestamp": "2025-12-01T22:00:15.518Z"
+  },
+  {
+    "transaction_id": "53c250ed-da9b-4d94-9828-5c3a5e32e973",
+    "sku": "TIK-HOM-5974",
+    "channel": "Amazon",
+    "gross_revenue": 59.69,
+    "unit_cost": 21.97,
+    "platform_fee": 8.95,
+    "shipping_cost": 2.12,
+    "timestamp": "2025-12-01T20:02:50.714Z"
+  },
+  {
+    "transaction_id": "d7db4e02-f26a-47f6-b30b-1ad424a29072",
+    "sku": "TIK-ACC-8085",
+    "channel": "Amazon",
+    "gross_revenue": 90.51,
+    "unit_cost": 28.09,
+    "platform_fee": 13.58,
+    "shipping_cost": 5.66,
+    "timestamp": "2025-11-29T11:22:27.140Z"
+  },
+  {
+    "transaction_id": "bdc5ba87-c051-49d4-a3e3-3b20ceeccf67",
+    "sku": "SHO-HOM-4992",
+    "channel": "Amazon",
+    "gross_revenue": 54.15,
+    "unit_cost": 19.66,
+    "platform_fee": 8.12,
+    "shipping_cost": 4.53,
+    "timestamp": "2025-11-28T15:21:57.378Z"
+  },
+  {
+    "transaction_id": "459a2ea3-3da7-4ee9-b45c-15747b88e7c1",
+    "sku": "AMA-ACC-6845",
+    "channel": "TikTok Shop",
+    "gross_revenue": 271.28,
+    "unit_cost": 83.78,
+    "platform_fee": 13.56,
+    "shipping_cost": 7.5,
+    "timestamp": "2025-11-27T16:59:50.672Z"
+  },
+  {
+    "transaction_id": "7073dadf-7d95-4a78-8347-d9ddc786ea04",
+    "sku": "AMA-HOM-9115",
+    "channel": "Physical POS",
+    "gross_revenue": 184.74,
+    "unit_cost": 79.71,
+    "platform_fee": 1.85,
+    "shipping_cost": 0,
+    "timestamp": "2025-11-27T01:50:09.163Z"
+  },
+  {
+    "transaction_id": "ee61b487-5d7d-471e-be94-ebbcf7e32a88",
+    "sku": "PHY-ACC-5218",
+    "channel": "TikTok Shop",
+    "gross_revenue": 130.43,
+    "unit_cost": 39.15,
+    "platform_fee": 6.52,
+    "shipping_cost": 3.53,
+    "timestamp": "2025-11-22T05:27:51.097Z"
+  },
+  {
+    "transaction_id": "b3ed2033-c697-4b77-ad78-659a5374f4bc",
+    "sku": "SHO-ACC-2187",
+    "channel": "Shopify",
+    "gross_revenue": 362.91,
+    "unit_cost": 92.02,
+    "platform_fee": 10.52,
+    "shipping_cost": 5.61,
+    "timestamp": "2025-11-21T07:03:22.481Z"
+  },
+  {
+    "transaction_id": "e43c01bb-7856-43f9-801b-ddc846567cac",
+    "sku": "TIK-HEA-3406",
+    "channel": "Shopify",
+    "gross_revenue": 45.05,
+    "unit_cost": 12.07,
+    "platform_fee": 1.31,
+    "shipping_cost": 7.69,
+    "timestamp": "2025-11-20T04:56:43.354Z"
+  },
+  {
+    "transaction_id": "a32f1d9f-f285-40a2-867b-3011f2846c29",
+    "sku": "PHY-APP-3997",
+    "channel": "Shopify",
+    "gross_revenue": 280.04,
+    "unit_cost": 81.28,
+    "platform_fee": 8.12,
+    "shipping_cost": 5.3,
+    "timestamp": "2025-11-15T20:42:05.161Z"
+  },
+  {
+    "transaction_id": "818f0d69-1b87-40bd-a60b-89a4652df502",
+    "sku": "TIK-APP-4014",
+    "channel": "TikTok Shop",
+    "gross_revenue": 39.46,
+    "unit_cost": 16.31,
+    "platform_fee": 1.97,
+    "shipping_cost": 3.35,
+    "timestamp": "2025-11-14T19:38:23.052Z"
+  },
+  {
+    "transaction_id": "8e40f093-5c41-406a-9f83-b5d9d72bb549",
+    "sku": "SHO-HOM-4220",
+    "channel": "Amazon",
+    "gross_revenue": 180.71,
+    "unit_cost": 57.94,
+    "platform_fee": 27.11,
+    "shipping_cost": 2.12,
+    "timestamp": "2025-11-12T05:40:21.412Z"
+  },
+  {
+    "transaction_id": "6240c998-ba39-4062-9d33-fd7d588578b8",
+    "sku": "TIK-HEA-4759",
+    "channel": "TikTok Shop",
+    "gross_revenue": 130.15,
+    "unit_cost": 57.22,
+    "platform_fee": 6.51,
+    "shipping_cost": 4.51,
+    "timestamp": "2025-11-09T23:45:24.993Z"
+  },
+  {
+    "transaction_id": "1cbca2a9-431b-4716-8db9-ae6e3c15275f",
+    "sku": "TIK-APP-6464",
+    "channel": "Physical POS",
+    "gross_revenue": 65.94,
+    "unit_cost": 40.41,
+    "platform_fee": 0.66,
+    "shipping_cost": 0,
+    "timestamp": "2025-11-08T05:37:10.988Z"
+  },
+  {
+    "transaction_id": "995a0d13-52db-492c-b090-c1b382bf1e73",
+    "sku": "PHY-ACC-7313",
+    "channel": "Amazon",
+    "gross_revenue": 98.92,
+    "unit_cost": 36.56,
+    "platform_fee": 14.84,
+    "shipping_cost": 7.48,
+    "timestamp": "2025-11-07T00:18:40.798Z"
+  },
+  {
+    "transaction_id": "6ece52fd-f355-481c-81db-397f7f4320d3",
+    "sku": "SHO-HEA-5176",
+    "channel": "Amazon",
+    "gross_revenue": 83.37,
+    "unit_cost": 22.37,
+    "platform_fee": 12.51,
+    "shipping_cost": 2.31,
+    "timestamp": "2025-11-05T10:31:28.499Z"
+  },
+  {
+    "transaction_id": "c9beec4d-67c0-4d7a-8d7f-a1b8470362cd",
+    "sku": "TIK-HOM-5974",
+    "channel": "Amazon",
+    "gross_revenue": 59.69,
+    "unit_cost": 21.97,
+    "platform_fee": 8.95,
+    "shipping_cost": 6.19,
+    "timestamp": "2025-11-03T10:44:30.100Z"
+  },
+  {
+    "transaction_id": "3a788891-927e-42de-9fa5-0f2f1c8c7712",
+    "sku": "AMA-HEA-3180",
+    "channel": "Physical POS",
+    "gross_revenue": 125.72,
+    "unit_cost": 45.76,
+    "platform_fee": 1.26,
+    "shipping_cost": 0,
+    "timestamp": "2025-11-02T23:11:15.527Z"
+  },
+  {
+    "transaction_id": "953cf180-a080-4b32-b979-437c13507390",
+    "sku": "TIK-ACC-1841",
+    "channel": "TikTok Shop",
+    "gross_revenue": 31.53,
+    "unit_cost": 13.99,
+    "platform_fee": 1.58,
+    "shipping_cost": 5.07,
+    "timestamp": "2025-11-02T15:27:56.153Z"
+  },
+  {
+    "transaction_id": "36552f21-47cd-4cdc-9ba0-01bfabae4dcf",
+    "sku": "TIK-HEA-3599",
+    "channel": "TikTok Shop",
+    "gross_revenue": 130.63,
+    "unit_cost": 42.1,
+    "platform_fee": 6.53,
+    "shipping_cost": 5.41,
+    "timestamp": "2025-10-29T04:18:18.258Z"
+  },
+  {
+    "transaction_id": "9a75d778-0916-4a5d-9f21-ab9a5bfb6217",
+    "sku": "PHY-APP-4434",
+    "channel": "Physical POS",
+    "gross_revenue": 158.43,
+    "unit_cost": 75.48,
+    "platform_fee": 1.58,
+    "shipping_cost": 0,
+    "timestamp": "2025-10-26T17:11:27.316Z"
+  },
+  {
+    "transaction_id": "c944f658-3aa9-4e02-a4c5-562c6b68939d",
+    "sku": "AMA-ELE-9866",
+    "channel": "Shopify",
+    "gross_revenue": 185.27,
+    "unit_cost": 55.1,
+    "platform_fee": 5.37,
+    "shipping_cost": 2.24,
+    "timestamp": "2025-10-25T11:10:57.405Z"
+  },
+  {
+    "transaction_id": "3f4e9987-83a6-492c-add7-53cdb39f8fd4",
+    "sku": "SS-ACC-WTCH-GLD",
+    "channel": "Physical POS",
+    "gross_revenue": 129.99,
+    "unit_cost": 45,
+    "platform_fee": 1.3,
+    "shipping_cost": 0,
+    "timestamp": "2025-10-24T11:04:55.478Z"
+  },
+  {
+    "transaction_id": "96012ce6-c082-4ad8-956a-ac20f83d731f",
+    "sku": "TIK-HOM-9008",
+    "channel": "Amazon",
+    "gross_revenue": 73.01,
+    "unit_cost": 44.84,
+    "platform_fee": 10.95,
+    "shipping_cost": 5.15,
+    "timestamp": "2025-10-21T07:13:06.841Z"
+  },
+  {
+    "transaction_id": "5ebe2f63-f788-4109-b8ac-23c84d084b3a",
+    "sku": "TIK-HOM-8287",
+    "channel": "Physical POS",
+    "gross_revenue": 31.31,
+    "unit_cost": 12.92,
+    "platform_fee": 0.31,
+    "shipping_cost": 0,
+    "timestamp": "2025-10-18T07:23:03.662Z"
+  },
+  {
+    "transaction_id": "b0a005d0-5eca-4532-8ba1-ae9e13b313b8",
+    "sku": "TIK-HOM-9008",
+    "channel": "Physical POS",
+    "gross_revenue": 73.01,
+    "unit_cost": 44.84,
+    "platform_fee": 0.73,
+    "shipping_cost": 0,
+    "timestamp": "2025-10-18T01:20:24.808Z"
+  },
+  {
+    "transaction_id": "20b48ddc-e917-40f3-98d2-3f854b2b02a6",
+    "sku": "TIK-HOM-8287",
+    "channel": "Physical POS",
+    "gross_revenue": 31.31,
+    "unit_cost": 12.92,
+    "platform_fee": 0.31,
+    "shipping_cost": 0,
+    "timestamp": "2025-10-12T22:52:51.540Z"
+  },
+  {
+    "transaction_id": "e1bb3f11-eef7-46ea-8c8a-90ac6bd78de4",
+    "sku": "SHO-HEA-8932",
+    "channel": "Amazon",
+    "gross_revenue": 177.67,
+    "unit_cost": 81.22,
+    "platform_fee": 26.65,
+    "shipping_cost": 6.75,
+    "timestamp": "2025-10-12T20:54:27.919Z"
+  },
+  {
+    "transaction_id": "8e0e4422-7b0d-47bf-9d8b-703ad574360c",
+    "sku": "PHY-HOM-2790",
+    "channel": "Amazon",
+    "gross_revenue": 24.85,
+    "unit_cost": 10.21,
+    "platform_fee": 3.73,
+    "shipping_cost": 7.1,
+    "timestamp": "2025-10-10T05:13:24.665Z"
+  },
+  {
+    "transaction_id": "b45cb347-f23f-40b7-961d-48168bb54060",
+    "sku": "AMA-HOM-4114",
+    "channel": "TikTok Shop",
+    "gross_revenue": 105.74,
+    "unit_cost": 43.51,
+    "platform_fee": 5.29,
+    "shipping_cost": 3.39,
+    "timestamp": "2025-10-10T03:23:41.216Z"
+  },
+  {
+    "transaction_id": "e5ddde1c-3039-4d60-83fd-2e198c1c25d6",
+    "sku": "AMA-ACC-1575",
+    "channel": "TikTok Shop",
+    "gross_revenue": 198.17,
+    "unit_cost": 99.62,
+    "platform_fee": 9.91,
+    "shipping_cost": 4.4,
+    "timestamp": "2025-10-08T19:49:26.100Z"
+  },
+  {
+    "transaction_id": "c725f8f3-b346-4e36-ab38-fcb668c5457d",
+    "sku": "PHY-APP-2256",
+    "channel": "TikTok Shop",
+    "gross_revenue": 184.95,
+    "unit_cost": 60.67,
+    "platform_fee": 9.25,
+    "shipping_cost": 7.5,
+    "timestamp": "2025-10-06T16:32:55.752Z"
+  },
+  {
+    "transaction_id": "808a682c-fafb-4b2e-a8ca-10465e84df05",
+    "sku": "SHO-ACC-2187",
+    "channel": "Amazon",
+    "gross_revenue": 362.91,
+    "unit_cost": 92.02,
+    "platform_fee": 54.44,
+    "shipping_cost": 7.16,
+    "timestamp": "2025-10-06T02:15:37.611Z"
+  },
+  {
+    "transaction_id": "edda4b71-4590-4d77-87f6-39721a90e0c8",
+    "sku": "AMA-HEA-7131",
+    "channel": "Shopify",
+    "gross_revenue": 218.53,
+    "unit_cost": 75.17,
+    "platform_fee": 6.34,
+    "shipping_cost": 5.33,
+    "timestamp": "2025-10-05T00:44:57.820Z"
+  },
+  {
+    "transaction_id": "a1d0b3a0-def5-4cc4-9fe5-332775bf7543",
+    "sku": "PHY-APP-3955",
+    "channel": "Amazon",
+    "gross_revenue": 82.86,
+    "unit_cost": 21.03,
+    "platform_fee": 12.43,
+    "shipping_cost": 3.78,
+    "timestamp": "2025-10-02T04:15:02.662Z"
+  },
+  {
+    "transaction_id": "637abed6-0722-48a5-868c-49ae2e614df4",
+    "sku": "TIK-HOM-5974",
+    "channel": "TikTok Shop",
+    "gross_revenue": 59.69,
+    "unit_cost": 21.97,
+    "platform_fee": 2.98,
+    "shipping_cost": 2.29,
+    "timestamp": "2025-10-01T17:51:06.176Z"
+  },
+  {
+    "transaction_id": "20b0350f-3aca-48b2-ab03-3798718f3040",
+    "sku": "SHO-ELE-6484",
+    "channel": "Shopify",
+    "gross_revenue": 109.25,
+    "unit_cost": 32.67,
+    "platform_fee": 3.17,
+    "shipping_cost": 3.3,
+    "timestamp": "2025-09-27T13:22:04.755Z"
+  },
+  {
+    "transaction_id": "76f51f9a-b34e-4821-9340-19620d75d02c",
+    "sku": "TIK-ACC-1841",
+    "channel": "TikTok Shop",
+    "gross_revenue": 31.53,
+    "unit_cost": 13.99,
+    "platform_fee": 1.58,
+    "shipping_cost": 5.61,
+    "timestamp": "2025-09-27T12:03:59.488Z"
+  },
+  {
+    "transaction_id": "cf4a7f42-2a9a-40bd-8b8f-df134c670b33",
+    "sku": "SHO-ELE-8268",
+    "channel": "Amazon",
+    "gross_revenue": 163.93,
+    "unit_cost": 89.8,
+    "platform_fee": 24.59,
+    "shipping_cost": 3.43,
+    "timestamp": "2025-09-25T19:36:53.673Z"
+  },
+  {
+    "transaction_id": "d14a6766-096e-4e91-a4f4-5d5870e50aa5",
+    "sku": "TIK-HOM-4599",
+    "channel": "TikTok Shop",
+    "gross_revenue": 168.41,
+    "unit_cost": 72.68,
+    "platform_fee": 8.42,
+    "shipping_cost": 2.92,
+    "timestamp": "2025-09-20T06:52:21.739Z"
+  },
+  {
+    "transaction_id": "1c682730-e95e-4fc7-8e7d-65aedf3cd9c9",
+    "sku": "TIK-HEA-3406",
+    "channel": "Shopify",
+    "gross_revenue": 45.05,
+    "unit_cost": 12.07,
+    "platform_fee": 1.31,
+    "shipping_cost": 6.79,
+    "timestamp": "2025-09-17T15:57:36.733Z"
+  },
+  {
+    "transaction_id": "96bdac1c-393c-4219-a5c1-ed828e92cd57",
+    "sku": "AMA-APP-7488",
+    "channel": "TikTok Shop",
+    "gross_revenue": 18.47,
+    "unit_cost": 5.23,
+    "platform_fee": 0.92,
+    "shipping_cost": 3.84,
+    "timestamp": "2025-09-16T21:52:56.763Z"
+  },
+  {
+    "transaction_id": "2a9bef9f-8fbd-4add-822e-bd20aa5c19be",
+    "sku": "AMA-APP-8932",
+    "channel": "Physical POS",
+    "gross_revenue": 185.69,
+    "unit_cost": 61.2,
+    "platform_fee": 1.86,
+    "shipping_cost": 0,
+    "timestamp": "2025-09-12T06:58:32.102Z"
+  },
+  {
+    "transaction_id": "bce3ce2a-26fd-4ad1-a0c9-8db52128f067",
+    "sku": "TIK-HOM-9412",
+    "channel": "TikTok Shop",
+    "gross_revenue": 29.63,
+    "unit_cost": 8.35,
+    "platform_fee": 1.48,
+    "shipping_cost": 2.01,
+    "timestamp": "2025-09-10T22:40:35.390Z"
+  },
+  {
+    "transaction_id": "e1f86068-418c-44f2-ad7c-77615b22b0e1",
+    "sku": "SHO-ACC-2064",
+    "channel": "Amazon",
+    "gross_revenue": 263.06,
+    "unit_cost": 82.79,
+    "platform_fee": 39.46,
+    "shipping_cost": 3.23,
+    "timestamp": "2025-09-08T04:07:13.564Z"
+  },
+  {
+    "transaction_id": "679945c2-9381-451b-b63b-db6c59bb8dc1",
+    "sku": "TIK-ACC-6661",
+    "channel": "Amazon",
+    "gross_revenue": 63.52,
+    "unit_cost": 16.63,
+    "platform_fee": 9.53,
+    "shipping_cost": 5.5,
+    "timestamp": "2025-09-06T09:41:02.366Z"
+  },
+  {
+    "transaction_id": "4fd46d68-c28b-480c-b523-8e6b886e54d0",
+    "sku": "PHY-APP-3997",
+    "channel": "Physical POS",
+    "gross_revenue": 280.04,
+    "unit_cost": 81.28,
+    "platform_fee": 2.8,
+    "shipping_cost": 0,
+    "timestamp": "2025-09-05T06:14:51.850Z"
+  },
+  {
+    "transaction_id": "8f9ce17c-0eec-4c66-93e7-cb5a620b0ad4",
+    "sku": "TIK-ACC-8085",
+    "channel": "TikTok Shop",
+    "gross_revenue": 90.51,
+    "unit_cost": 28.09,
+    "platform_fee": 4.53,
+    "shipping_cost": 4.52,
+    "timestamp": "2025-08-31T14:32:58.223Z"
+  },
+  {
+    "transaction_id": "428db6d0-7f60-4388-9f2e-8a81df6123ec",
+    "sku": "TIK-APP-4014",
+    "channel": "Amazon",
+    "gross_revenue": 39.46,
+    "unit_cost": 16.31,
+    "platform_fee": 5.92,
+    "shipping_cost": 5.49,
+    "timestamp": "2025-08-28T01:46:42.156Z"
+  },
+  {
+    "transaction_id": "9ae966dc-4882-4420-9c01-cc2fad64d63f",
+    "sku": "PHY-APP-1008",
+    "channel": "Amazon",
+    "gross_revenue": 75.26,
+    "unit_cost": 49.03,
+    "platform_fee": 11.29,
+    "shipping_cost": 7.32,
+    "timestamp": "2025-08-26T22:31:58.290Z"
+  },
+  {
+    "transaction_id": "451d38cf-507f-432c-8ecd-6dae3b2fc97f",
+    "sku": "TIK-HOM-9412",
+    "channel": "Shopify",
+    "gross_revenue": 29.63,
+    "unit_cost": 8.35,
+    "platform_fee": 0.86,
+    "shipping_cost": 3.43,
+    "timestamp": "2025-08-23T11:08:03.492Z"
+  },
+  {
+    "transaction_id": "69280384-c035-4cb9-ad41-3320ee41870d",
+    "sku": "SHO-ACC-6080",
+    "channel": "Shopify",
+    "gross_revenue": 111.15,
+    "unit_cost": 28.94,
+    "platform_fee": 3.22,
+    "shipping_cost": 6.48,
+    "timestamp": "2025-08-23T00:57:22.085Z"
+  },
+  {
+    "transaction_id": "e411dd6f-59aa-4f36-84d4-df8a5e47455a",
+    "sku": "AMA-HEA-7131",
+    "channel": "Physical POS",
+    "gross_revenue": 218.53,
+    "unit_cost": 75.17,
+    "platform_fee": 2.19,
+    "shipping_cost": 0,
+    "timestamp": "2025-08-20T05:24:08.590Z"
+  },
+  {
+    "transaction_id": "d28d3039-ab07-4ff1-9a06-89a2a7d2f9a9",
+    "sku": "PHY-APP-3955",
+    "channel": "TikTok Shop",
+    "gross_revenue": 82.86,
+    "unit_cost": 21.03,
+    "platform_fee": 4.14,
+    "shipping_cost": 5.07,
+    "timestamp": "2025-08-18T04:12:22.555Z"
+  },
+  {
+    "transaction_id": "d8d0bfaa-e3c7-44d8-a0e9-2f88a3c28abe",
+    "sku": "TIK-APP-4014",
+    "channel": "Shopify",
+    "gross_revenue": 39.46,
+    "unit_cost": 16.31,
+    "platform_fee": 1.14,
+    "shipping_cost": 7.53,
+    "timestamp": "2025-08-14T21:53:27.868Z"
+  },
+  {
+    "transaction_id": "8f0a73f2-1c00-4279-9a54-ceafb20f2d0f",
+    "sku": "TIK-APP-6464",
+    "channel": "Amazon",
+    "gross_revenue": 65.94,
+    "unit_cost": 40.41,
+    "platform_fee": 9.89,
+    "shipping_cost": 3.85,
+    "timestamp": "2025-08-11T04:56:33.065Z"
+  },
+  {
+    "transaction_id": "6a405ef9-4728-4493-9999-b7611ad4487f",
+    "sku": "SHO-ACC-6080",
+    "channel": "Amazon",
+    "gross_revenue": 111.15,
+    "unit_cost": 28.94,
+    "platform_fee": 16.67,
+    "shipping_cost": 5.26,
+    "timestamp": "2025-08-08T16:13:14.094Z"
+  },
+  {
+    "transaction_id": "4af26db2-530f-4e0a-a73d-cd0cf8eebd34",
+    "sku": "AMA-ELE-5763",
+    "channel": "Amazon",
+    "gross_revenue": 95.75,
+    "unit_cost": 27.56,
+    "platform_fee": 14.36,
+    "shipping_cost": 6.56,
+    "timestamp": "2025-08-08T00:15:59.154Z"
+  },
+  {
+    "transaction_id": "20e77ca4-7e3a-4f77-a79d-8e5290ab9dd5",
+    "sku": "PHY-APP-2941",
+    "channel": "Physical POS",
+    "gross_revenue": 114.7,
+    "unit_cost": 65.55,
+    "platform_fee": 1.15,
+    "shipping_cost": 0,
+    "timestamp": "2025-08-02T02:43:32.558Z"
+  },
+  {
+    "transaction_id": "53e12515-aa50-4e1a-8ebc-1614fb3272b7",
+    "sku": "AMA-APP-7978",
+    "channel": "Physical POS",
+    "gross_revenue": 125.57,
+    "unit_cost": 43.25,
+    "platform_fee": 1.26,
+    "shipping_cost": 0,
+    "timestamp": "2025-08-02T01:10:43.506Z"
+  },
+  {
+    "transaction_id": "2a133e31-6536-43bc-94ab-b04430b85822",
+    "sku": "PHY-APP-4149",
+    "channel": "Shopify",
+    "gross_revenue": 202.01,
+    "unit_cost": 62.66,
+    "platform_fee": 5.86,
+    "shipping_cost": 7.61,
+    "timestamp": "2025-07-29T01:39:29.162Z"
+  },
+  {
+    "transaction_id": "9c5c22b3-a0cf-4849-91e1-48aaf33ea340",
+    "sku": "TIK-ACC-8085",
+    "channel": "Amazon",
+    "gross_revenue": 90.51,
+    "unit_cost": 28.09,
+    "platform_fee": 13.58,
+    "shipping_cost": 7.92,
+    "timestamp": "2025-07-28T07:01:30.830Z"
+  },
+  {
+    "transaction_id": "71e8f13c-19bc-40d2-870b-92aa171f601d",
+    "sku": "TIK-HOM-2809",
+    "channel": "TikTok Shop",
+    "gross_revenue": 65.23,
+    "unit_cost": 36.38,
+    "platform_fee": 3.26,
+    "shipping_cost": 2.95,
+    "timestamp": "2025-07-26T16:38:47.931Z"
+  },
+  {
+    "transaction_id": "8d53eeac-c311-493a-a3dc-6916a56901c1",
+    "sku": "TIK-HEA-6488",
+    "channel": "Physical POS",
+    "gross_revenue": 279.48,
+    "unit_cost": 93.88,
+    "platform_fee": 2.79,
+    "shipping_cost": 0,
+    "timestamp": "2025-07-23T00:15:59.059Z"
+  },
+  {
+    "transaction_id": "d7126d7b-84f8-40a0-b579-b48771473561",
+    "sku": "PHY-APP-1230",
+    "channel": "TikTok Shop",
+    "gross_revenue": 123.37,
+    "unit_cost": 38.06,
+    "platform_fee": 6.17,
+    "shipping_cost": 6.11,
+    "timestamp": "2025-07-19T19:00:29.805Z"
+  },
+  {
+    "transaction_id": "7266d9cd-3995-4b0a-af03-ce10b5ff833e",
+    "sku": "SHO-HOM-4220",
+    "channel": "Amazon",
+    "gross_revenue": 180.71,
+    "unit_cost": 57.94,
+    "platform_fee": 27.11,
+    "shipping_cost": 4.52,
+    "timestamp": "2025-07-19T09:27:05.438Z"
+  },
+  {
+    "transaction_id": "880e2646-a880-4f2a-b5e1-a6e11f14c7e8",
+    "sku": "AMA-HEA-6596",
+    "channel": "Amazon",
+    "gross_revenue": 28.57,
+    "unit_cost": 15.25,
+    "platform_fee": 4.29,
+    "shipping_cost": 3.09,
+    "timestamp": "2025-07-18T04:34:51.358Z"
+  },
+  {
+    "transaction_id": "0464c2d0-3ba3-4d4d-bdb6-d13bee5c2866",
+    "sku": "PHY-HEA-8240",
+    "channel": "Physical POS",
+    "gross_revenue": 335.73,
+    "unit_cost": 93.37,
+    "platform_fee": 3.36,
+    "shipping_cost": 0,
+    "timestamp": "2025-07-15T10:57:41.085Z"
+  },
+  {
+    "transaction_id": "421d2960-62c6-46f3-a9d3-affcd11992fd",
+    "sku": "TIK-HOM-9008",
+    "channel": "TikTok Shop",
+    "gross_revenue": 73.01,
+    "unit_cost": 44.84,
+    "platform_fee": 3.65,
+    "shipping_cost": 7.27,
+    "timestamp": "2025-07-12T15:27:22.972Z"
+  },
+  {
+    "transaction_id": "2f86ff51-db52-4df9-b4c6-b2cdf6108e32",
+    "sku": "AMA-HEA-6596",
+    "channel": "Shopify",
+    "gross_revenue": 28.57,
+    "unit_cost": 15.25,
+    "platform_fee": 0.83,
+    "shipping_cost": 6.76,
+    "timestamp": "2025-07-12T12:30:24.290Z"
+  },
+  {
+    "transaction_id": "84c22ee9-229e-4f06-b9bb-a17a8c6f5bcd",
+    "sku": "SHO-ACC-6080",
+    "channel": "Physical POS",
+    "gross_revenue": 111.15,
+    "unit_cost": 28.94,
+    "platform_fee": 1.11,
+    "shipping_cost": 0,
+    "timestamp": "2025-07-11T04:12:24.835Z"
+  },
+  {
+    "transaction_id": "1f0c46f5-ee32-4147-ac43-9ad369d3deaa",
+    "sku": "TIK-HEA-3599",
+    "channel": "Shopify",
+    "gross_revenue": 130.63,
+    "unit_cost": 42.1,
+    "platform_fee": 3.79,
+    "shipping_cost": 7.42,
+    "timestamp": "2025-07-09T07:03:12.688Z"
+  },
+  {
+    "transaction_id": "6e958147-aeaa-4413-840b-e7c84ddb48e0",
+    "sku": "TIK-HOM-4599",
+    "channel": "Amazon",
+    "gross_revenue": 168.41,
+    "unit_cost": 72.68,
+    "platform_fee": 25.26,
+    "shipping_cost": 3.71,
+    "timestamp": "2025-07-08T20:30:02.601Z"
+  },
+  {
+    "transaction_id": "03903d8e-ddd2-4f5a-a37e-807e44a0969c",
+    "sku": "SHO-ACC-6080",
+    "channel": "Amazon",
+    "gross_revenue": 111.15,
+    "unit_cost": 28.94,
+    "platform_fee": 16.67,
+    "shipping_cost": 3.58,
+    "timestamp": "2025-07-07T18:36:09.319Z"
+  },
+  {
+    "transaction_id": "09eb95cb-a1d9-40a6-9377-32a984a8b74f",
+    "sku": "SHO-ELE-2042",
+    "channel": "Physical POS",
+    "gross_revenue": 61.73,
+    "unit_cost": 20.68,
+    "platform_fee": 0.62,
+    "shipping_cost": 0,
+    "timestamp": "2025-07-03T16:28:26.414Z"
+  },
+  {
+    "transaction_id": "1d19e876-ca54-454e-bb97-87e0557a868b",
+    "sku": "SHO-ELE-2042",
+    "channel": "Amazon",
+    "gross_revenue": 61.73,
+    "unit_cost": 20.68,
+    "platform_fee": 9.26,
+    "shipping_cost": 2.51,
+    "timestamp": "2025-07-01T00:57:58.681Z"
+  },
+  {
+    "transaction_id": "f9144c27-657f-49ab-85e5-c90c2253ed35",
+    "sku": "SHO-APP-6240",
+    "channel": "Shopify",
+    "gross_revenue": 51.59,
+    "unit_cost": 21.87,
+    "platform_fee": 1.5,
+    "shipping_cost": 2.77,
+    "timestamp": "2025-06-30T22:48:39.060Z"
+  },
+  {
+    "transaction_id": "bb97eff9-9755-46c4-b4fa-03216697dc63",
+    "sku": "SHO-ELE-2117",
+    "channel": "Amazon",
+    "gross_revenue": 193.02,
+    "unit_cost": 67.82,
+    "platform_fee": 28.95,
+    "shipping_cost": 4.41,
+    "timestamp": "2025-06-29T16:49:38.948Z"
+  },
+  {
+    "transaction_id": "1a6697f4-bc40-400e-a8aa-b7aa9d6f916d",
+    "sku": "TIK-HOM-4599",
+    "channel": "TikTok Shop",
+    "gross_revenue": 168.41,
+    "unit_cost": 72.68,
+    "platform_fee": 8.42,
+    "shipping_cost": 4.65,
+    "timestamp": "2025-06-28T09:00:22.503Z"
+  },
+  {
+    "transaction_id": "e5d37c86-5d6b-41c5-b86e-793b31f7eba5",
+    "sku": "TIK-HOM-9412",
+    "channel": "Shopify",
+    "gross_revenue": 29.63,
+    "unit_cost": 8.35,
+    "platform_fee": 0.86,
+    "shipping_cost": 6.77,
+    "timestamp": "2025-06-27T21:26:00.813Z"
+  },
+  {
+    "transaction_id": "f6349162-c92a-4894-b067-519d64000107",
+    "sku": "SHO-ACC-2187",
+    "channel": "Shopify",
+    "gross_revenue": 362.91,
+    "unit_cost": 92.02,
+    "platform_fee": 10.52,
+    "shipping_cost": 5.95,
+    "timestamp": "2025-06-23T18:04:50.015Z"
+  },
+  {
+    "transaction_id": "cdeb66ce-c47e-43de-b380-4bba47de8b5e",
+    "sku": "AMA-ACC-6845",
+    "channel": "Amazon",
+    "gross_revenue": 271.28,
+    "unit_cost": 83.78,
+    "platform_fee": 40.69,
+    "shipping_cost": 5.84,
+    "timestamp": "2025-06-23T06:55:41.264Z"
+  },
+  {
+    "transaction_id": "c7a8a240-1e97-40e0-a9b1-5536fbbd3988",
+    "sku": "SHO-HOM-2591",
+    "channel": "Amazon",
+    "gross_revenue": 163.7,
+    "unit_cost": 66.5,
+    "platform_fee": 24.55,
+    "shipping_cost": 3.19,
+    "timestamp": "2025-06-23T01:03:05.356Z"
+  },
+  {
+    "transaction_id": "065b96e4-a26c-4a8e-966a-e359f5518e0e",
+    "sku": "PHY-ELE-4374",
+    "channel": "Shopify",
+    "gross_revenue": 152.93,
+    "unit_cost": 90.6,
+    "platform_fee": 4.43,
+    "shipping_cost": 7,
+    "timestamp": "2025-06-20T06:59:14.772Z"
+  },
+  {
+    "transaction_id": "f8ae9509-5894-4fba-b30a-b9f0c4b4636a",
+    "sku": "TIK-HOM-6629",
+    "channel": "TikTok Shop",
+    "gross_revenue": 139.27,
+    "unit_cost": 85.83,
+    "platform_fee": 6.96,
+    "shipping_cost": 6.76,
+    "timestamp": "2025-06-16T06:54:13.033Z"
+  },
+  {
+    "transaction_id": "e36bae46-6ac6-40cd-8dbe-e182483ee511",
+    "sku": "TIK-ACC-3808",
+    "channel": "Amazon",
+    "gross_revenue": 74.59,
+    "unit_cost": 27.75,
+    "platform_fee": 11.19,
+    "shipping_cost": 4.48,
+    "timestamp": "2025-06-08T22:12:15.564Z"
+  },
+  {
+    "transaction_id": "f114a694-eab9-42a6-bf00-7998ce5690c2",
+    "sku": "AMA-ACC-6845",
+    "channel": "Shopify",
+    "gross_revenue": 271.28,
+    "unit_cost": 83.78,
+    "platform_fee": 7.87,
+    "shipping_cost": 4.82,
+    "timestamp": "2025-06-03T08:04:47.810Z"
+  },
+  {
+    "transaction_id": "6c13ee2b-832b-497f-a8a8-8e4417277369",
+    "sku": "PHY-ELE-8020",
+    "channel": "Physical POS",
+    "gross_revenue": 213.15,
+    "unit_cost": 65.66,
+    "platform_fee": 2.13,
+    "shipping_cost": 0,
+    "timestamp": "2025-06-03T07:34:59.049Z"
+  },
+  {
+    "transaction_id": "23955b2a-fffb-47ae-b23a-53006cccb186",
+    "sku": "SHO-HOM-3898",
+    "channel": "Shopify",
+    "gross_revenue": 244.33,
+    "unit_cost": 76.67,
+    "platform_fee": 7.09,
+    "shipping_cost": 2.62,
+    "timestamp": "2025-06-02T10:07:44.335Z"
+  },
+  {
+    "transaction_id": "702ad13c-30fa-48a4-9c76-146d85a1a937",
+    "sku": "AMA-HOM-4114",
+    "channel": "Shopify",
+    "gross_revenue": 105.74,
+    "unit_cost": 43.51,
+    "platform_fee": 3.07,
+    "shipping_cost": 4.79,
+    "timestamp": "2025-05-31T23:45:46.908Z"
+  },
+  {
+    "transaction_id": "69885305-f074-403b-bc0c-79caf8e46db9",
+    "sku": "AMA-ACC-5717",
+    "channel": "Physical POS",
+    "gross_revenue": 161.63,
+    "unit_cost": 70.45,
+    "platform_fee": 1.62,
+    "shipping_cost": 0,
+    "timestamp": "2025-05-31T19:33:51.544Z"
+  },
+  {
+    "transaction_id": "fe339a40-2cda-4d6f-8d6a-ff1e6d6bb514",
+    "sku": "TIK-HOM-9008",
+    "channel": "Shopify",
+    "gross_revenue": 73.01,
+    "unit_cost": 44.84,
+    "platform_fee": 2.12,
+    "shipping_cost": 7.24,
+    "timestamp": "2025-05-31T11:11:54.519Z"
+  },
+  {
+    "transaction_id": "37e6605e-c50d-40c6-b2c4-218250ae4cf2",
+    "sku": "PHY-APP-1230",
+    "channel": "Shopify",
+    "gross_revenue": 123.37,
+    "unit_cost": 38.06,
+    "platform_fee": 3.58,
+    "shipping_cost": 6.51,
+    "timestamp": "2025-05-26T20:18:02.051Z"
+  },
+  {
+    "transaction_id": "b59da409-b9fb-483a-9dfc-7b792d74171d",
+    "sku": "PHY-HEA-8240",
+    "channel": "Shopify",
+    "gross_revenue": 335.73,
+    "unit_cost": 93.37,
+    "platform_fee": 9.74,
+    "shipping_cost": 3.73,
+    "timestamp": "2025-05-24T21:44:51.345Z"
+  },
+  {
+    "transaction_id": "131953f3-3903-4bfe-8e81-8af55f129804",
+    "sku": "TIK-APP-6464",
+    "channel": "Physical POS",
+    "gross_revenue": 65.94,
+    "unit_cost": 40.41,
+    "platform_fee": 0.66,
+    "shipping_cost": 0,
+    "timestamp": "2025-05-24T09:21:05.429Z"
+  },
+  {
+    "transaction_id": "855fd307-627d-4695-8f0f-e9a02a278bee",
+    "sku": "PHY-APP-5599",
+    "channel": "Amazon",
+    "gross_revenue": 46.55,
+    "unit_cost": 14.8,
+    "platform_fee": 6.98,
+    "shipping_cost": 3.14,
+    "timestamp": "2025-05-22T10:53:47.597Z"
+  },
+  {
+    "transaction_id": "fd5f67bd-851b-4def-8de7-acc298b2dff3",
+    "sku": "SHO-APP-9355",
+    "channel": "TikTok Shop",
+    "gross_revenue": 67.78,
+    "unit_cost": 23.05,
+    "platform_fee": 3.39,
+    "shipping_cost": 3.4,
+    "timestamp": "2025-05-18T13:50:59.973Z"
+  },
+  {
+    "transaction_id": "85d1f0c1-3399-429b-8f2f-2c6517336ca3",
+    "sku": "AMA-HEA-6596",
+    "channel": "Amazon",
+    "gross_revenue": 28.57,
+    "unit_cost": 15.25,
+    "platform_fee": 4.29,
+    "shipping_cost": 2.44,
+    "timestamp": "2025-05-18T08:12:55.289Z"
+  },
+  {
+    "transaction_id": "cb12e98a-aa7f-414d-ad31-e503409da95d",
+    "sku": "AMA-ACC-5717",
+    "channel": "TikTok Shop",
+    "gross_revenue": 161.63,
+    "unit_cost": 70.45,
+    "platform_fee": 8.08,
+    "shipping_cost": 4.84,
+    "timestamp": "2025-05-14T11:23:12.843Z"
+  },
+  {
+    "transaction_id": "e7848968-8676-4afc-b09c-e6b369046c97",
+    "sku": "SHO-ELE-2042",
+    "channel": "Physical POS",
+    "gross_revenue": 61.73,
+    "unit_cost": 20.68,
+    "platform_fee": 0.62,
+    "shipping_cost": 0,
+    "timestamp": "2025-05-13T15:15:30.557Z"
+  },
+  {
+    "transaction_id": "fbbc0263-71ed-45e6-be1c-9c75c8c89947",
+    "sku": "TIK-HOM-2809",
+    "channel": "Shopify",
+    "gross_revenue": 65.23,
+    "unit_cost": 36.38,
+    "platform_fee": 1.89,
+    "shipping_cost": 5.67,
+    "timestamp": "2025-05-12T23:15:15.988Z"
+  },
+  {
+    "transaction_id": "7f87987c-26a7-4726-b3a1-41a130117405",
+    "sku": "AMA-HEA-6596",
+    "channel": "Shopify",
+    "gross_revenue": 28.57,
+    "unit_cost": 15.25,
+    "platform_fee": 0.83,
+    "shipping_cost": 7.64,
+    "timestamp": "2025-05-12T12:00:55.556Z"
+  },
+  {
+    "transaction_id": "82898de5-51e4-44bb-a5fe-e659b6e24ca9",
+    "sku": "TIK-HOM-6647",
+    "channel": "Physical POS",
+    "gross_revenue": 222.25,
+    "unit_cost": 73.99,
+    "platform_fee": 2.22,
+    "shipping_cost": 0,
+    "timestamp": "2025-05-08T13:07:26.831Z"
+  },
+  {
+    "transaction_id": "33d3fab3-5b09-45ab-91d9-c619126631f5",
+    "sku": "TIK-HOM-9008",
+    "channel": "TikTok Shop",
+    "gross_revenue": 73.01,
+    "unit_cost": 44.84,
+    "platform_fee": 3.65,
+    "shipping_cost": 6.8,
+    "timestamp": "2025-05-07T00:28:33.240Z"
+  },
+  {
+    "transaction_id": "f9065acc-3fea-48f7-919d-246fedfd1623",
+    "sku": "TIK-HEA-4759",
+    "channel": "TikTok Shop",
+    "gross_revenue": 130.15,
+    "unit_cost": 57.22,
+    "platform_fee": 6.51,
+    "shipping_cost": 7.21,
+    "timestamp": "2025-05-06T00:28:08.251Z"
+  },
+  {
+    "transaction_id": "6c810c4b-67b5-4ac9-a144-ca2a7d5578a0",
+    "sku": "SS-PRO-BLK-M",
+    "channel": "Amazon",
+    "gross_revenue": 55,
+    "unit_cost": 18.5,
+    "platform_fee": 8.25,
+    "shipping_cost": 6.41,
+    "timestamp": "2025-04-30T02:04:44.704Z"
+  },
+  {
+    "transaction_id": "bbc81ed0-76a3-43a5-a742-f6bfaf0ac7cc",
+    "sku": "SS-ELC-EAR-WHT",
+    "channel": "TikTok Shop",
+    "gross_revenue": 89,
+    "unit_cost": 32,
+    "platform_fee": 4.45,
+    "shipping_cost": 3.3,
+    "timestamp": "2025-04-29T04:35:59.780Z"
+  },
+  {
+    "transaction_id": "476a0d63-c0dd-4d31-8c79-a64ab3d2b2e4",
+    "sku": "AMA-HEA-6596",
+    "channel": "Amazon",
+    "gross_revenue": 28.57,
+    "unit_cost": 15.25,
+    "platform_fee": 4.29,
+    "shipping_cost": 7.17,
+    "timestamp": "2025-04-27T15:43:19.363Z"
+  }
+]

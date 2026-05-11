@@ -2,14 +2,14 @@
 
 import { VChart } from "@visactor/react-vchart";
 import type { ICirclePackingChartSpec } from "@visactor/vchart";
-import { convertions } from "@/data/convertions";
+import { inventoryValueByCategory } from "@/data/inventory-value-by-category";
 import { addThousandsSeparator } from "@/lib/utils";
 
 const spec: ICirclePackingChartSpec = {
   data: [
     {
       id: "data",
-      values: convertions,
+      values: inventoryValueByCategory,
     },
   ],
   type: "circlePacking",
@@ -23,7 +23,7 @@ const spec: ICirclePackingChartSpec = {
       fill: "white",
       stroke: false,
       visible: (d) => d.depth === 0,
-      text: (d) => addThousandsSeparator(d.value),
+      text: (d) => `$${addThousandsSeparator(d.value)}`,
       fontSize: (d) => d.radius / 2,
       dy: (d) => d.radius / 8,
     },
@@ -40,7 +40,7 @@ const spec: ICirclePackingChartSpec = {
     trigger: ["click", "hover"],
     mark: {
       content: {
-        value: (d) => addThousandsSeparator(d?.value),
+        value: (d) => `$${addThousandsSeparator(d?.value)}`,
       },
     },
   },

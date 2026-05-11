@@ -4,8 +4,8 @@ export type IconSvgProps = SVGProps<SVGSVGElement> & {
   size?: number;
 };
 
-export type TicketMetric = {
-  date: string;
-  type: "created" | "resolved";
+export type StockMetric = {
+  category: string;
+  type: "available" | "reserved";
   count: number;
 };

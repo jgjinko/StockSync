@@ -1,4 +1,4 @@
-import { LayoutDashboard, type LucideIcon, Package } from "lucide-react";
+import { LayoutDashboard, type LucideIcon, Package, LineChart, Settings, Map } from "lucide-react";
 
 export type SiteConfig = typeof siteConfig;
 export type Navigation = {
@@ -19,8 +19,18 @@ export const navigations: Navigation[] = [
     href: "/",
   },
   {
-    icon: Package,
-    name: "Inventory",
-    href: "/ticket",
+    icon: LineChart,
+    name: "Finance",
+    href: "/finance",
+  },
+  {
+    icon: Settings,
+    name: "Management",
+    href: "/management",
+  },
+  {
+    icon: Map,
+    name: "Sales Heatmap",
+    href: "/heatmap",
   },
 ];

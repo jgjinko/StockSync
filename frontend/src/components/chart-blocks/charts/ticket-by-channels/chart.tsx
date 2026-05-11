@@ -5,10 +5,10 @@ import {
   VChart,
 } from "@visactor/react-vchart";
 import type { Datum } from "@visactor/vchart/esm/typings";
-import { ticketByChannels } from "@/data/ticket-by-channels";
+import { inventoryByChannels } from "@/data/inventory-by-channels";
 import { addThousandsSeparator } from "@/lib/utils";
 
-const data = ticketByChannels.reduce(
+const data = inventoryByChannels.reduce(
   (acc, curr) => {
     acc.push({
       type: curr.type,
@@ -34,7 +34,7 @@ const spec: IPieChartSpec = {
   data: [
     {
       id: "id0",
-      values: ticketByChannels,
+      values: inventoryByChannels,
     },
   ],
   valueField: "value",
@@ -71,7 +71,7 @@ const spec: IPieChartSpec = {
       offsetY: "40%",
       title: {
         style: {
-          text: "Total Active Tickets",
+          text: "Total Active SKUs",
           fontSize: 16,
           opacity: 0.6,
         },

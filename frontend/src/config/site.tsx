@@ -1,4 +1,11 @@
-import { Gauge, type LucideIcon, MessagesSquare } from "lucide-react";
+import { 
+  LayoutDashboard, 
+  type LucideIcon, 
+  Package, 
+  Map, 
+  Banknote, 
+  Settings 
+} from "lucide-react";
 
 export type SiteConfig = typeof siteConfig;
 export type Navigation = {
@@ -8,19 +15,34 @@ export type Navigation = {
 };
 
 export const siteConfig = {
-  title: "VisActor Next Template",
-  description: "Template for VisActor and Next.js",
+  title: "StockSync Dashboard",
+  description: "Multi-Channel Inventory Intelligence Platform",
 };
 
 export const navigations: Navigation[] = [
   {
-    icon: Gauge,
+    icon: LayoutDashboard,
     name: "Dashboard",
     href: "/",
   },
   {
-    icon: MessagesSquare,
-    name: "Ticket",
+    icon: Package,
+    name: "Inventory",
     href: "/ticket",
+  },
+  {
+    icon: Map,
+    name: "Sales Heatmap",
+    href: "/heatmap",
+  },
+  {
+    icon: Banknote,
+    name: "Finance Hub",
+    href: "/finance",
+  },
+  {
+    icon: Settings,
+    name: "Management",
+    href: "/management",
   },
 ];
